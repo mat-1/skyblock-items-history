@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1654871868000,
+  "lastUpdated": 1655904704000,
   "items": [
     {
       "material": "SKULL_ITEM",
@@ -42301,7 +42301,7 @@
     },
     {
       "material": "INK_SACK",
-      "name": "Enchanted Ink Sack",
+      "name": "Enchanted Ink Sac",
       "glowing": true,
       "tier": "UNCOMMON",
       "npc_sell_price": 160,
@@ -59088,7 +59088,7 @@
       "material": "SKULL_ITEM",
       "durability": 3,
       "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzhiZThhYmQ2NmQwOWE1OGNlMTJkMzc3NTQ0ZDcyNmQyNWNhZDdlOTc5ZThjMjQ4MTg2NmJlOTRkM2IzMmYifX19",
-      "name": "Tesselated Ender Pearl",
+      "name": "Tessellated Ender Pearl",
       "tier": "LEGENDARY",
       "npc_sell_price": 96000,
       "id": "TESSELLATED_ENDER_PEARL"
@@ -60536,7 +60536,7 @@
       },
       "requirements": {
         "heart_of_the_mountain": {
-          "tier": 7
+          "tier": 6
         }
       },
       "gemstone_slots": [
@@ -67362,7 +67362,7 @@
       "name": "Blaze Talisman",
       "tier": "RARE",
       "unstackable": true,
-      "soulbound": "SOLO",
+      "soulbound": "COOP",
       "category": "ACCESSORY",
       "stats": {
         "TRUE_DEFENSE": 3
