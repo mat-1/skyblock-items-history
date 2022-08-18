@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1660837434000,
+  "lastUpdated": 1660842951000,
   "items": [
     {
       "material": "SKULL_ITEM",
@@ -93073,7 +93073,7 @@
       "stats": {
         "damage": 180,
         "strength": 180,
-        "sea_creature_chance": 7,
+        "sea_creature_chance": 14,
         "fishing_speed": 75
       },
       "requirements": [
@@ -93383,7 +93383,7 @@
       "stats": {
         "damage": 150,
         "strength": 150,
-        "sea_creature_chance": 3,
+        "sea_creature_chance": 6,
         "fishing_speed": 40
       },
       "requirements": [
@@ -93542,7 +93542,7 @@
       "stats": {
         "damage": 170,
         "strength": 170,
-        "sea_creature_chance": 5,
+        "sea_creature_chance": 10,
         "fishing_speed": 60
       },
       "requirements": [
