@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1666288621000,
+  "lastUpdated": 1666794657000,
   "items": [
     {
       "material": "SKULL_ITEM",
@@ -14319,7 +14319,7 @@
       "category": "PORTAL",
       "item_specific": {
         "portal": {
-          "holo_name": "Wasteland",
+          "holo_name": "The Wasteland",
           "description_name": "The Wasteland",
           "destination_mode": "crimson_isle",
           "location_tag": "wasteland",
@@ -14755,7 +14755,7 @@
       "category": "PORTAL",
       "item_specific": {
         "portal": {
-          "name": "Spider's Den",
+          "holo_name": "Spider's Den",
           "description_name": "Spider's Den",
           "destination_mode": "combat_1",
           "schematic_file": "sb_portal_danger1",
@@ -61656,7 +61656,7 @@
       "tier": "RARE",
       "glowing": true,
       "soulbound": "COOP",
-      "description": "%%gray%%%%italic%%Some say that the same substance can be found in the abdomen of Dragons, allowing them to breath fire. Fire bats are much cuter though.",
+      "description": "%%gray%%%%italic%%Some say that the same substance can be found in the abdomen of Dragons, allowing them to breathe fire. Fire bats are much cuter though.",
       "npc_sell_price": 200,
       "id": "FLAMES"
     },
