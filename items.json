@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1667338692000,
+  "lastUpdated": 1667417630000,
   "items": [
     {
       "material": "SKULL_ITEM",
@@ -88701,7 +88701,7 @@
         ]
       ],
       "prestige": {
-        "item_id": "INFERNAL_HOLLOW_LEGGINGS",
+        "item_id": "FIERY_HOLLOW_LEGGINGS",
         "costs": [
           {
             "type": "ESSENCE",
