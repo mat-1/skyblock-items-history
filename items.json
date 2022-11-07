@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1667417630000,
+  "lastUpdated": 1667829657000,
   "items": [
     {
       "material": "SKULL_ITEM",
@@ -14278,7 +14278,7 @@
           "holo_name": "The Forge",
           "description_name": "The Forge",
           "destination_mode": "mining_3",
-          "location_tag": "forge",
+          "location_tag": "forge-warp",
           "schematic_file": "sb_portal_forge",
           "offset": "NEW",
           "skill_requirement": {
@@ -14301,7 +14301,7 @@
           "description_name": "the Top of the Nest",
           "destination_mode": "combat_1",
           "location_tag": "top_of_nest",
-          "schematic_file": "sb_portal_park_cave",
+          "schematic_file": "sb_portal_spiders_den_top",
           "offset": "NEW",
           "skill_requirement": {
             "skill": "COMBAT",
@@ -14518,7 +14518,7 @@
           "holo_name": "Smoldering Tomb",
           "description_name": "the Smoldering Tomb",
           "destination_mode": "crimson_isle",
-          "location_tag": "smoldering_tomb",
+          "location_tag": "smoldering_chambers",
           "schematic_file": "sb_portal_smoldering_chambers",
           "offset": "NEW",
           "skill_requirement": {
@@ -14584,7 +14584,7 @@
           "holo_name": "Scarleton",
           "description_name": "Scarleton",
           "destination_mode": "crimson_isle",
-          "location_tag": "Scarleton",
+          "location_tag": "scarleton",
           "schematic_file": "sb_portal_scarleton",
           "offset": "NEW",
           "skill_requirement": {
@@ -14714,7 +14714,7 @@
         "portal": {
           "holo_name": "Crimson Isle",
           "description_name": "the Crimson Isle",
-          "destination_mode": "combat_2",
+          "destination_mode": "crimson_isle",
           "schematic_file": "sb_portal_danger2",
           "skill_requirement": {
             "skill": "COMBAT",
@@ -14778,7 +14778,7 @@
           "description_name": "the Dark Thicket",
           "destination_mode": "foraging_1",
           "offset": "FORAGING",
-          "schematic_file": "sb_portal_foraging3",
+          "schematic_file": "sb_portal_foraging5",
           "location_tag": "dark",
           "skill_requirement": {
             "skill": "FORAGING",
@@ -14864,6 +14864,7 @@
           "holo_name": "The Barn",
           "destination_mode": "farming_1",
           "schematic_file": "sb_portal_farming_1",
+          "offset": "NEW",
           "skill_requirement": {
             "skill": "FARMING",
             "level": 1
