@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1670515350000,
+  "lastUpdated": 1670860510000,
   "items": [
     {
       "material": "SKULL_ITEM",
@@ -27344,7 +27344,7 @@
         {
           "type": "DUNGEON_SKILL",
           "dungeon_type": "CATACOMBS",
-          "level": 27
+          "level": 15
         }
       ],
       "gemstone_slots": [
@@ -29989,7 +29989,7 @@
         {
           "type": "DUNGEON_SKILL",
           "dungeon_type": "CATACOMBS",
-          "level": 27
+          "level": 15
         }
       ],
       "gemstone_slots": [
@@ -41121,7 +41121,7 @@
         {
           "type": "DUNGEON_SKILL",
           "dungeon_type": "CATACOMBS",
-          "level": 27
+          "level": 15
         }
       ],
       "gemstone_slots": [
@@ -64318,7 +64318,7 @@
         {
           "type": "DUNGEON_SKILL",
           "dungeon_type": "CATACOMBS",
-          "level": 27
+          "level": 15
         }
       ],
       "gemstone_slots": [
