@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1670860510000,
+  "lastUpdated": 1671041384000,
   "items": [
     {
       "material": "SKULL_ITEM",
@@ -73467,7 +73467,7 @@
         {
           "type": "SKILL",
           "skill": "FISHING",
-          "level": 30
+          "level": 28
         }
       ],
       "npc_sell_price": 1000,
@@ -73502,7 +73502,7 @@
         {
           "type": "SKILL",
           "skill": "FISHING",
-          "level": 30
+          "level": 28
         }
       ],
       "npc_sell_price": 1000,
@@ -73564,7 +73564,7 @@
         {
           "type": "SKILL",
           "skill": "FISHING",
-          "level": 30
+          "level": 28
         }
       ],
       "npc_sell_price": 1000,
@@ -73586,7 +73586,7 @@
         {
           "type": "SKILL",
           "skill": "FISHING",
-          "level": 30
+          "level": 28
         }
       ],
       "npc_sell_price": 1000,
