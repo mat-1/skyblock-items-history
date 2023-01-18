@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1672944118000,
+  "lastUpdated": 1674042552000,
   "items": [
     {
       "material": "SKULL_ITEM",
@@ -43076,7 +43076,6 @@
       "category": "REFORGE_STONE",
       "tier": "RARE",
       "npc_sell_price": 1,
-      "description": "%%gray%%%%italic%%Extremely rare stone, only found in the Crystal Hollows.",
       "id": "JADERALD"
     },
     {
