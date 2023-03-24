@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1678286039000,
+  "lastUpdated": 1679694893000,
   "items": [
     {
       "material": "SKULL_ITEM",
@@ -62918,7 +62918,7 @@
       "name": "Enchanted Red Sand",
       "glowing": true,
       "tier": "UNCOMMON",
-      "npc_sell_price": 320,
+      "npc_sell_price": 800,
       "id": "ENCHANTED_RED_SAND"
     },
     {
