@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1680013575000,
+  "lastUpdated": 1680018297000,
   "items": [
     {
       "material": "SKULL_ITEM",
@@ -25316,7 +25316,7 @@
     {
       "material": "HUGE_MUSHROOM_1",
       "name": "Brown Mushroom Block",
-      "npc_sell_price": 410,
+      "npc_sell_price": 10,
       "id": "HUGE_MUSHROOM_1"
     },
     {
