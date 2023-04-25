@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1681849076000,
+  "lastUpdated": 1682436205000,
   "items": [
     {
       "material": "SKULL_ITEM",
@@ -49622,7 +49622,7 @@
     },
     {
       "material": "MELON_BLOCK",
-      "name": "Melon",
+      "name": "Melon Block",
       "npc_sell_price": 18,
       "id": "MELON_BLOCK"
     },
