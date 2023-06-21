@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1687290412000,
+  "lastUpdated": 1687372386000,
   "items": [
     {
       "material": "SKULL_ITEM",
@@ -77799,7 +77799,7 @@
         "rift_walk_speed": 15
       },
       "item_specific": {
-        "mana_refund": 7,
+        "mana_refund": 6,
         "bonus_rift_damage_vs_vampire": 5,
         "heal_on_hit": 0.5
       },
