@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1687759205000,
+  "lastUpdated": 1687762586000,
   "items": [
     {
       "material": "SKULL_ITEM",
@@ -77770,6 +77770,7 @@
       "name": "Unfanged Vampire Part",
       "tier": "LEGENDARY",
       "motes_sell_price": 50000,
+      "lose_motes_value_on_transfer": true,
       "id": "UNFANGED_VAMPIRE_PART"
     },
     {
@@ -77898,7 +77899,6 @@
       "name": "Vampire Dentist Relic",
       "tier": "LEGENDARY",
       "category": "ACCESSORY",
-      "motes_sell_price": 50000,
       "npc_sell_price": 80000,
       "rift_transferrable": true,
       "stats": {
