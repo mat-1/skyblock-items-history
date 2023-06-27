@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1687821974000,
+  "lastUpdated": 1687831331000,
   "items": [
     {
       "material": "SKULL_ITEM",
@@ -77920,7 +77920,7 @@
       "tier": "RARE",
       "origin": "RIFT",
       "description": "You and killing stuff in the rift, name a more iconic duo.",
-      "motes_sell_price": 10,
+      "motes_sell_price": 2000,
       "id": "BLOODBADGE"
     },
     {
