@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1690362937000,
+  "lastUpdated": 1690600348000,
   "items": [
     {
       "material": "SKULL_ITEM",
@@ -35999,7 +35999,7 @@
       "tier": "MYTHIC",
       "stats": {
         "BREAKING_POWER": 10,
-        "DAMAGE": 70,
+        "DAMAGE": 75,
         "MINING_FORTUNE": 150,
         "MINING_SPEED": 1800
       },
