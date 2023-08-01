@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1690600348000,
+  "lastUpdated": 1690895797000,
   "items": [
     {
       "material": "SKULL_ITEM",
@@ -20809,6 +20809,14 @@
       },
       "npc_sell_price": 6,
       "id": "GOLD_PICKAXE"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY4OTk5NTk0ODU3MywKICAicHJvZmlsZUlkIiA6ICIxYmY4ZjBiZDRkZjc0Njg1ODQwNjU2NDc2ZGU0NmNmMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJDcnV6YWRhMjIiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMWRiZjVlMTBkMDgzN2YyMGRkN2FlNjkxYWE2YjVjNTA4ZTRjZTExZWIxYzVhYTdiMGFjYzcxYTU1NGZjYmQ4MSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+      "name": "Metaphysical Serum",
+      "tier": "EPIC",
+      "id": "METAPHYSICAL_SERUM"
     },
     {
       "material": "NETHER_BRICK",
@@ -60867,13 +60875,6 @@
       "category": "REFORGE_STONE",
       "tier": "EPIC",
       "npc_sell_price": 1,
-      "requirements": [
-        {
-          "type": "SKILL",
-          "skill": "MINING",
-          "level": 30
-        }
-      ],
       "id": "AMBER_MATERIAL"
     },
     {
@@ -73181,7 +73182,7 @@
     {
       "material": "RAW_FISH",
       "durability": 1,
-      "name": "Grizzly Bait",
+      "name": "Grizzly Salmon",
       "tier": "RARE",
       "unstackable": true,
       "id": "GRIZZLY_BAIT"
