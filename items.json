@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1692710761000,
+  "lastUpdated": 1692717877000,
   "items": [
     {
       "material": "SKULL_ITEM",
@@ -26055,7 +26055,7 @@
     },
     {
       "material": "BOW",
-      "name": "Machine Gun Bow",
+      "name": "Machine Gun Shortbow",
       "category": "BOW",
       "tier": "RARE",
       "npc_sell_price": 1,
