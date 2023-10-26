@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1698157226000,
+  "lastUpdated": 1698307173000,
   "items": [
     {
       "material": "SKULL_ITEM",
@@ -21784,7 +21784,7 @@
       "durability": 3,
       "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY5NjI5MTUzMzQzMywKICAicHJvZmlsZUlkIiA6ICIwZjlmYzU0MDQxZjk0NzEyOWQxYmEzODg1YmQ3N2M4NyIsCiAgInByb2ZpbGVOYW1lIiA6ICI4MTE5NGJheiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9iZGI3ZmMyYjY5YmNkNDI5YWJmZDFjZWIxYWVhMTBjZWJmMTc0OWE4MDY4MGM2M2NkOGI2MGYzYTRjN2U0ZmZkIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
       "name": "Perfectly Cut Diamond",
-      "description": "An outstanding find. While few are known to exist, even fewer have been successful retrieved.\n\n%%gold%%Used in an anvil to upgrade Perfect Armor to Tier XIII.",
+      "description": "An outstanding find. While few are known to exist, even fewer have been successfully retrieved.\n\n%%gold%%Used in an anvil to upgrade Perfect Armor to Tier XIII.",
       "tier": "LEGENDARY",
       "id": "PERFECTLY_CUT_DIAMOND"
     },
