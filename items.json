@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1699974372000,
+  "lastUpdated": 1700482224000,
   "items": [
     {
       "material": "SKULL_ITEM",
@@ -68701,7 +68701,7 @@
       "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY0MjQ0MTc1MTE1OCwKICAicHJvZmlsZUlkIiA6ICJjMGYzYjI3YTUwMDE0YzVhYjIxZDc5ZGRlMTAxZGZlMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJDVUNGTDEzIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzYyMTc4NjllYzIwNWQxNzI3ZmM0YzYwNTViZDg2OGI3ODg2ZjJjOGFkOThmYTcwNGNiNzZlMTFiZGQ4MDI4NzkiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
       "name": "Wither Soul",
       "tier": "UNCOMMON",
-      "description": "You can still hear their cries from the other side",
+      "description": "You can still hear their cries from the other side.",
       "soulbound": "COOP",
       "npc_sell_price": 50,
       "id": "WITHER_SOUL"
