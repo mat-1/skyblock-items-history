@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1710250028000,
+  "lastUpdated": 1710347598000,
   "items": [
     {
       "material": "SKULL_ITEM",
@@ -27048,7 +27048,7 @@
     {
       "material": "ENDER_PEARL",
       "name": "Silent Pearl",
-      "tier": "RARE",
+      "tier": "UNCOMMON",
       "npc_sell_price": 100,
       "id": "SILENT_PEARL"
     },
