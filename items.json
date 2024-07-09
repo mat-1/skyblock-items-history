@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1720567000000,
+  "lastUpdated": 1720567493000,
   "items": [
     {
       "material": "SKULL_ITEM",
@@ -8906,7 +8906,7 @@
       "tier": "SPECIAL",
       "category": "MEMENTO",
       "item_specific": {
-        "memorable_event_key": "artist_adobe"
+        "memorable_event_key": "artist_abode"
       },
       "id": "PAINTERS_PALETTE"
     },
