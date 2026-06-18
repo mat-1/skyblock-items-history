@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1781018884006,
+  "lastUpdated": 1781798885220,
   "items": [
     {
       "material": "SKULL_ITEM",
@@ -106613,6 +106613,18 @@
       "tier": "UNCOMMON",
       "category": "COSMETIC",
       "id": "SPRING_BARN_BARN_SKIN"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "name": "Yacht Barn Skin",
+      "skin": {
+        "value": "ewogICJ0aW1lc3RhbXAiIDogMTc4MTI5MTUwMjM0NSwKICAicHJvZmlsZUlkIiA6ICI1MzE4YWJhNDJiMTk0ODNiODFiMWY2N2Y1ODVjNDdkNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJocHllZiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS85N2Y2YTMwYWRkZDExY2U4MjZkNWM5NmNjMTFiOTY1ZDYyODBiNmQ1NTY1YWUxNjkwYjM2YTM4YWUzMzJjZTExIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+        "signature": "GojEbb1cm/zsQKKGsd2pDRgKadf3NmNPuuYN0mhdKxqYwDhA1WLvDZDPHn3Unltl62FBuqAT1JSbMG17zDTA/hIa+eNSZnHCXtqPmrl4NMOszK08NZQPgJGk845f/kvdty/doIKhn5Y96Pb1WbpIIt0oTFRC8VMcPZqUaBeKD1LABE4P3+pUV8qA/bJ2kV+o195d7fG7EzKzE62TXiG0AXJ6HA7armwOOaqVT/S23oO3JbzFc6Im1rSz/ZRh6PNlWIMNYkpn7XDiFm9y5/9cmLs9aLG8YlDMeCDRb3rSyzUQZb+oYO27j+fJazb1HYan+VSk83MXLizgPolWlY8iG8B8C814E1ApckNAvDLyxgeEhYO51IfBWui7P22c5Cy5kRvZ7nMLIQI24jYPCc98dgR9JVam6KFa4tJ7Cb2iJB6z/vGotB9imWtt5ItdABT5Pm9f5Jn5VPP3VmNBkgzJdS/DlmynKm4zSm+JpV1fPYCAPBSyuiysdCaDYJj4cl6gIn0SuXkcp7UY7FmVi3GsUWFpLIf9qmDcil4UlEt3YKf0cr86SZ5CC+qDOD/4jUUPoZcggakzWLAL3i1La3SCBoICL/Q3ZTFUEsRKmACOlXG/7Qw/Ub0Qs23IpS7YwXtoW1OXMHA2O6zO+nN7yxofkbGdAop5QJn7cvpZ3ZpcEsU="
+      },
+      "tier": "LEGENDARY",
+      "category": "COSMETIC",
+      "id": "YACHT_BARN_SKIN"
     },
     {
       "material": "GOLD_BLOCK",
