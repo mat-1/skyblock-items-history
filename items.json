@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1781877369241,
+  "lastUpdated": 1781904941552,
   "items": [
     {
       "material": "SKULL_ITEM",
@@ -24283,6 +24283,7 @@
       "name": "Extra Large Gemstone Sack",
       "tier": "EPIC",
       "unstackable": true,
+      "soulbound": "COOP",
       "id": "EXTRA_LARGE_GEMSTONE_SACK"
     },
     {
@@ -25151,6 +25152,7 @@
       },
       "name": "Small Backpack",
       "tier": "UNCOMMON",
+      "soulbound": "COOP",
       "id": "PURPLE_SMALL_BACKPACK"
     },
     {
@@ -25968,6 +25970,7 @@
       "museum": true,
       "has_uuid": true,
       "unstackable": true,
+      "soulbound": "COOP",
       "id": "GOD_POTION"
     },
     {
@@ -33673,6 +33676,7 @@
         }
       ],
       "museum": true,
+      "soulbound": "COOP",
       "id": "FLAMEBREAKER_CHESTPLATE"
     },
     {
@@ -37425,6 +37429,8 @@
       "npc_sell_price": 1,
       "dungeon_item": true,
       "serializable": false,
+      "can_auction": false,
+      "can_trade": false,
       "id": "REVIVE_STONE"
     },
     {
@@ -38836,6 +38842,8 @@
       },
       "name": "Amethyst Crystal",
       "tier": "SPECIAL",
+      "can_auction": false,
+      "can_trade": false,
       "id": "AMETHYST_CRYSTAL"
     },
     {
@@ -38872,6 +38880,7 @@
       "tier": "RARE",
       "npc_sell_price": 500,
       "museum": true,
+      "soulbound": "COOP",
       "id": "IRON_BARDING"
     },
     {
@@ -43208,6 +43217,8 @@
       "npc_sell_price": 1,
       "dungeon_item": true,
       "serializable": false,
+      "can_auction": false,
+      "can_trade": false,
       "id": "WARRIOR_DUNGEON_ABILITY_1"
     },
     {
@@ -43308,6 +43319,8 @@
       },
       "name": "Topaz Crystal",
       "tier": "SPECIAL",
+      "can_auction": false,
+      "can_trade": false,
       "id": "TOPAZ_CRYSTAL"
     },
     {
@@ -44269,6 +44282,8 @@
       "npc_sell_price": 1,
       "dungeon_item": true,
       "serializable": false,
+      "can_auction": false,
+      "can_trade": false,
       "id": "HEALER_DUNGEON_ABILITY_3"
     },
     {
@@ -45307,6 +45322,8 @@
       "description": "Cycle between all the variations of the selected preview!",
       "soulbound": "SOLO",
       "serializable": false,
+      "can_auction": false,
+      "can_trade": false,
       "id": "SWAPPABLE_PREVIEW"
     },
     {
@@ -45474,6 +45491,8 @@
       "npc_sell_price": 1,
       "dungeon_item": true,
       "serializable": false,
+      "can_auction": false,
+      "can_trade": false,
       "id": "HAUNT_ABILITY"
     },
     {
@@ -48317,6 +48336,7 @@
         }
       ],
       "museum": true,
+      "soulbound": "COOP",
       "id": "FLAMEBREAKER_HELMET"
     },
     {
@@ -48578,6 +48598,7 @@
         }
       ],
       "museum": true,
+      "soulbound": "COOP",
       "id": "FLAMEBREAKER_BOOTS"
     },
     {
@@ -50341,6 +50362,8 @@
       "name": "Ruby Crystal",
       "tier": "SPECIAL",
       "museum": true,
+      "can_auction": false,
+      "can_trade": false,
       "id": "RUBY_CRYSTAL"
     },
     {
@@ -52054,6 +52077,8 @@
       "npc_sell_price": 1,
       "dungeon_item": true,
       "serializable": false,
+      "can_auction": false,
+      "can_trade": false,
       "id": "ARCHER_DUNGEON_ABILITY_2"
     },
     {
@@ -52894,6 +52919,7 @@
         }
       ],
       "museum": true,
+      "soulbound": "COOP",
       "id": "FLAMEBREAKER_LEGGINGS"
     },
     {
@@ -55748,6 +55774,8 @@
       "npc_sell_price": 1,
       "dungeon_item": true,
       "serializable": false,
+      "can_auction": false,
+      "can_trade": false,
       "id": "TANK_DUNGEON_ABILITY_1"
     },
     {
@@ -56670,6 +56698,8 @@
       "dungeon_item": true,
       "has_uuid": true,
       "serializable": false,
+      "can_auction": false,
+      "can_trade": false,
       "id": "DUNGEON_WIZARD_CRYSTAL"
     },
     {
@@ -57497,6 +57527,7 @@
     {
       "material": "SNOW_BALL",
       "name": "Frosty Snowball",
+      "soulbound": "COOP",
       "id": "FROSTY_SNOW_BALL"
     },
     {
@@ -61665,6 +61696,8 @@
       "npc_sell_price": 1,
       "dungeon_item": true,
       "serializable": false,
+      "can_auction": false,
+      "can_trade": false,
       "id": "TANK_DUNGEON_ABILITY_2"
     },
     {
@@ -64002,6 +64035,8 @@
       "npc_sell_price": 1,
       "dungeon_item": true,
       "serializable": false,
+      "can_auction": false,
+      "can_trade": false,
       "id": "MAGE_DUNGEON_ABILITY_2"
     },
     {
@@ -67283,6 +67318,8 @@
       "npc_sell_price": 1,
       "dungeon_item": true,
       "serializable": false,
+      "can_auction": false,
+      "can_trade": false,
       "id": "HEALER_DUNGEON_ABILITY_1"
     },
     {
@@ -68400,6 +68437,7 @@
       "tier": "EPIC",
       "npc_sell_price": 1000,
       "museum": true,
+      "soulbound": "COOP",
       "id": "DIAMOND_BARDING"
     },
     {
@@ -73827,6 +73865,8 @@
       "npc_sell_price": 1,
       "dungeon_item": true,
       "serializable": false,
+      "can_auction": false,
+      "can_trade": false,
       "id": "ARCHER_DUNGEON_ABILITY_3"
     },
     {
@@ -76085,6 +76125,8 @@
       "name": "Jasper Crystal",
       "tier": "SPECIAL",
       "museum": true,
+      "can_auction": false,
+      "can_trade": false,
       "id": "JASPER_CRYSTAL"
     },
     {
@@ -78077,6 +78119,7 @@
       "name": "Sharp Rock",
       "glowing": true,
       "description": "%%gray%%A sharp rock with sturdy construction.",
+      "soulbound": "COOP",
       "id": "SILEX"
     },
     {
@@ -78133,6 +78176,7 @@
       "tier": "LEGENDARY",
       "npc_sell_price": 1,
       "museum": true,
+      "soulbound": "COOP",
       "id": "NETHER_STAR"
     },
     {
@@ -79281,6 +79325,8 @@
       "npc_sell_price": 1,
       "dungeon_item": true,
       "serializable": false,
+      "can_auction": false,
+      "can_trade": false,
       "id": "MAGE_DUNGEON_ABILITY_1"
     },
     {
@@ -81741,6 +81787,8 @@
       },
       "name": "Amber Crystal",
       "tier": "SPECIAL",
+      "can_auction": false,
+      "can_trade": false,
       "id": "AMBER_CRYSTAL"
     },
     {
@@ -82983,6 +83031,8 @@
       "npc_sell_price": 1,
       "dungeon_item": true,
       "serializable": false,
+      "can_auction": false,
+      "can_trade": false,
       "id": "GHOST_THROWING_AXE"
     },
     {
@@ -83730,6 +83780,8 @@
       "dungeon_item": true,
       "has_uuid": true,
       "serializable": false,
+      "can_auction": false,
+      "can_trade": false,
       "id": "MAXOR_ENERGY_CRYSTAL"
     },
     {
@@ -83920,6 +83972,7 @@
       "tier": "EPIC",
       "npc_sell_price": 750,
       "museum": true,
+      "soulbound": "COOP",
       "id": "GOLD_BARDING"
     },
     {
@@ -85737,6 +85790,8 @@
       },
       "name": "Saphhire Crystal",
       "tier": "SPECIAL",
+      "can_auction": false,
+      "can_trade": false,
       "id": "SAPPHIRE_CRYSTAL"
     },
     {
@@ -86556,6 +86611,8 @@
       "npc_sell_price": 1,
       "dungeon_item": true,
       "serializable": false,
+      "can_auction": false,
+      "can_trade": false,
       "id": "ARCHER_DUNGEON_ABILITY_1"
     },
     {
@@ -87470,6 +87527,8 @@
       },
       "name": "Jade Crystal",
       "tier": "SPECIAL",
+      "can_auction": false,
+      "can_trade": false,
       "id": "JADE_CRYSTAL"
     },
     {
@@ -89829,6 +89888,7 @@
       "name": "Saddle",
       "tier": "UNCOMMON",
       "npc_sell_price": 5,
+      "soulbound": "COOP",
       "id": "SADDLE"
     },
     {
@@ -92030,6 +92090,9 @@
       "name": "Redstone Key",
       "tier": "RARE",
       "dungeon_item": true,
+      "serializable": false,
+      "can_auction": false,
+      "can_trade": false,
       "id": "SECRET_DUNGEON_REDSTONE_KEY"
     },
     {
@@ -93719,6 +93782,8 @@
       "npc_sell_price": 1,
       "dungeon_item": true,
       "serializable": false,
+      "can_auction": false,
+      "can_trade": false,
       "id": "HEALER_DUNGEON_ABILITY_2"
     },
     {
@@ -95080,6 +95145,8 @@
       "npc_sell_price": 1,
       "dungeon_item": true,
       "serializable": false,
+      "can_auction": false,
+      "can_trade": false,
       "id": "MAGE_DUNGEON_ABILITY_3"
     },
     {
@@ -102969,6 +103036,8 @@
       "name": "Citrine Crystal",
       "tier": "SPECIAL",
       "museum": true,
+      "can_auction": false,
+      "can_trade": false,
       "id": "CITRINE_CRYSTAL"
     },
     {
@@ -102981,6 +103050,8 @@
       "name": "Aquamarine Crystal",
       "tier": "SPECIAL",
       "museum": true,
+      "can_auction": false,
+      "can_trade": false,
       "id": "AQUAMARINE_CRYSTAL"
     },
     {
@@ -102993,6 +103064,8 @@
       "name": "Opal Crystal",
       "tier": "SPECIAL",
       "museum": true,
+      "can_auction": false,
+      "can_trade": false,
       "id": "OPAL_CRYSTAL"
     },
     {
@@ -103005,6 +103078,8 @@
       "name": "Peridot Crystal",
       "tier": "SPECIAL",
       "museum": true,
+      "can_auction": false,
+      "can_trade": false,
       "id": "PERIDOT_CRYSTAL"
     },
     {
@@ -103017,6 +103092,8 @@
       "name": "Onyx Crystal",
       "tier": "SPECIAL",
       "museum": true,
+      "can_auction": false,
+      "can_trade": false,
       "id": "ONYX_CRYSTAL"
     },
     {
@@ -118551,6 +118628,8 @@
       "name": "%%green%%Ballista Fuel Cell",
       "can_place": false,
       "serializable": false,
+      "can_auction": false,
+      "can_trade": false,
       "id": "ELLE_FUEL_CELL"
     },
     {
@@ -118558,6 +118637,8 @@
       "name": "%%green%%Elle's Supplies",
       "can_place": false,
       "serializable": false,
+      "can_auction": false,
+      "can_trade": false,
       "id": "ELLE_SUPPLIES"
     },
     {
@@ -142170,6 +142251,8 @@
         "fishing_speed": 8
       },
       "serializable": false,
+      "can_auction": false,
+      "can_trade": false,
       "id": "ELLES_LAVA_ROD"
     },
     {
@@ -142270,6 +142353,8 @@
       },
       "npc_sell_price": 0,
       "serializable": false,
+      "can_auction": false,
+      "can_trade": false,
       "id": "ELLES_PICKAXE"
     },
     {
