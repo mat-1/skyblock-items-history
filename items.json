@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1781798885220,
+  "lastUpdated": 1781877369241,
   "items": [
     {
       "material": "SKULL_ITEM",
@@ -32131,6 +32131,7 @@
       "name": "Enchanted Sulphur Cube",
       "tier": "RARE",
       "npc_sell_price": 256000,
+      "category_display": "ORE",
       "id": "ENCHANTED_SULPHUR_CUBE"
     },
     {
@@ -32152,6 +32153,7 @@
       "tier": "RARE",
       "npc_sell_price": 102400,
       "can_place": false,
+      "category_display": "ORE",
       "id": "ENCHANTED_EMERALD_BLOCK"
     },
     {
@@ -32247,6 +32249,7 @@
       "material": "NETHERRACK",
       "name": "Netherrack",
       "npc_sell_price": 1,
+      "category_display": "BLOCK",
       "id": "NETHERRACK"
     },
     {
@@ -33220,6 +33223,7 @@
       "name": "Nether Quartz Ore",
       "tier": "UNCOMMON",
       "npc_sell_price": 6,
+      "category_display": "ORE",
       "id": "QUARTZ_ORE"
     },
     {
@@ -33322,6 +33326,7 @@
       "material": "OBSIDIAN",
       "name": "Obsidian",
       "npc_sell_price": 7,
+      "category_display": "BLOCK",
       "id": "OBSIDIAN"
     },
     {
@@ -34259,6 +34264,7 @@
       "tier": "RARE",
       "npc_sell_price": 25600,
       "can_place": false,
+      "category_display": "ORE",
       "id": "ENCHANTED_REDSTONE_BLOCK"
     },
     {
@@ -35804,6 +35810,7 @@
       "tier": "RARE",
       "npc_sell_price": 204800,
       "can_place": false,
+      "category_display": "ORE",
       "id": "ENCHANTED_DIAMOND_BLOCK"
     },
     {
@@ -36277,6 +36284,7 @@
       "tier": "UNCOMMON",
       "npc_sell_price": 320,
       "can_place": false,
+      "category_display": "BLOCK",
       "id": "ENCHANTED_SAND"
     },
     {
@@ -37673,6 +37681,7 @@
       "material": "STONE",
       "name": "Stone",
       "npc_sell_price": 1,
+      "category_display": "BLOCK",
       "id": "STONE"
     },
     {
@@ -38020,6 +38029,7 @@
       "material": "GOLD_INGOT",
       "name": "Gold Ingot",
       "npc_sell_price": 3,
+      "category_display": "ORE",
       "id": "GOLD_INGOT"
     },
     {
@@ -38480,6 +38490,7 @@
       "material": "GRAVEL",
       "name": "Gravel",
       "npc_sell_price": 3,
+      "category_display": "BLOCK",
       "id": "GRAVEL"
     },
     {
@@ -42038,6 +42049,7 @@
       "material": "SAND",
       "name": "Sand",
       "npc_sell_price": 2,
+      "category_display": "BLOCK",
       "id": "SAND"
     },
     {
@@ -42235,6 +42247,7 @@
       "tier": "UNCOMMON",
       "npc_sell_price": 160,
       "can_place": false,
+      "category_display": "BLOCK",
       "id": "ENCHANTED_COBBLESTONE"
     },
     {
@@ -43174,6 +43187,7 @@
       "tier": "UNCOMMON",
       "npc_sell_price": 320,
       "can_place": false,
+      "category_display": "BLOCK",
       "id": "ENCHANTED_ENDSTONE"
     },
     {
@@ -43406,6 +43420,7 @@
       "tier": "RARE",
       "npc_sell_price": 12800,
       "can_place": false,
+      "category_display": "BLOCK",
       "id": "ENCHANTED_PACKED_ICE"
     },
     {
@@ -43554,6 +43569,7 @@
       "glowing": true,
       "tier": "UNCOMMON",
       "npc_sell_price": 160,
+      "category_display": "ORE",
       "id": "ENCHANTED_COAL"
     },
     {
@@ -44598,6 +44614,7 @@
       "tier": "UNCOMMON",
       "npc_sell_price": 800,
       "can_place": false,
+      "category_display": "BLOCK",
       "id": "ENCHANTED_MYCELIUM"
     },
     {
@@ -45370,6 +45387,7 @@
       "tier": "RARE",
       "npc_sell_price": 25600,
       "can_place": false,
+      "category_display": "ORE",
       "id": "ENCHANTED_LAPIS_LAZULI_BLOCK"
     },
     {
@@ -46048,6 +46066,7 @@
       "description": "%%gray%%%%italic%%\"Give me some Sulphur and I'll make a wand. Give me all the Sulphur and I'll conquer the world.\" - Unnamed Mage.",
       "tier": "UNCOMMON",
       "npc_sell_price": 10,
+      "category_display": "ORE",
       "id": "SULPHUR_ORE"
     },
     {
@@ -50804,6 +50823,7 @@
       "name": "Enchanted Red Sand Cube",
       "tier": "RARE",
       "npc_sell_price": 128000,
+      "category_display": "BLOCK",
       "id": "ENCHANTED_RED_SAND_CUBE"
     },
     {
@@ -50887,6 +50907,7 @@
       "tier": "RARE",
       "npc_sell_price": 200000,
       "description": "%%gray%%The purest form of stone. How can something so simple, be so heavy?",
+      "category_display": "BLOCK",
       "id": "CONCENTRATED_STONE"
     },
     {
@@ -51594,6 +51615,7 @@
       "tier": "RARE",
       "npc_sell_price": 25600,
       "can_place": false,
+      "category_display": "ORE",
       "id": "ENCHANTED_COAL_BLOCK"
     },
     {
@@ -51731,6 +51753,7 @@
       "material": "GOLD_ORE",
       "name": "Gold Ore",
       "npc_sell_price": 3,
+      "category_display": "ORE",
       "id": "GOLD_ORE"
     },
     {
@@ -52608,6 +52631,7 @@
       "glowing": true,
       "tier": "UNCOMMON",
       "npc_sell_price": 640,
+      "category_display": "ORE",
       "id": "ENCHANTED_QUARTZ"
     },
     {
@@ -54344,6 +54368,7 @@
       "material": "COAL_ORE",
       "name": "Coal Ore",
       "npc_sell_price": 2,
+      "category_display": "ORE",
       "id": "COAL_ORE"
     },
     {
@@ -54360,6 +54385,7 @@
       "material": "MYCEL",
       "name": "Mycelium",
       "npc_sell_price": 5,
+      "category_display": "BLOCK",
       "id": "MYCEL"
     },
     {
@@ -56761,6 +56787,7 @@
       "tier": "UNCOMMON",
       "npc_sell_price": 80,
       "can_place": false,
+      "category_display": "BLOCK",
       "id": "ENCHANTED_ICE"
     },
     {
@@ -57102,6 +57129,7 @@
       "name": "Lapis Lazuli Ore",
       "tier": "UNCOMMON",
       "npc_sell_price": 5,
+      "category_display": "ORE",
       "id": "LAPIS_ORE"
     },
     {
@@ -57660,6 +57688,7 @@
       "material": "DIAMOND",
       "name": "Diamond",
       "npc_sell_price": 8,
+      "category_display": "ORE",
       "id": "DIAMOND"
     },
     {
@@ -57669,6 +57698,7 @@
       "tier": "UNCOMMON",
       "npc_sell_price": 160,
       "can_place": false,
+      "category_display": "ORE",
       "id": "ENCHANTED_REDSTONE"
     },
     {
@@ -58975,6 +59005,7 @@
       "material": "COBBLESTONE",
       "name": "Cobblestone",
       "npc_sell_price": 1,
+      "category_display": "BLOCK",
       "id": "COBBLESTONE"
     },
     {
@@ -60510,6 +60541,7 @@
       "name": "Diamond Ore",
       "tier": "UNCOMMON",
       "npc_sell_price": 10,
+      "category_display": "ORE",
       "id": "DIAMOND_ORE"
     },
     {
@@ -60952,6 +60984,7 @@
       "tier": "RARE",
       "npc_sell_price": 51200,
       "can_place": false,
+      "category_display": "ORE",
       "id": "ENCHANTED_IRON_BLOCK"
     },
     {
@@ -62450,6 +62483,7 @@
       "glowing": true,
       "tier": "UNCOMMON",
       "npc_sell_price": 480,
+      "category_display": "ORE",
       "id": "ENCHANTED_GOLD"
     },
     {
@@ -65594,6 +65628,7 @@
       "tier": "UNCOMMON",
       "npc_sell_price": 1440,
       "can_place": false,
+      "category_display": "BLOCK",
       "id": "ENCHANTED_OBSIDIAN"
     },
     {
@@ -65668,6 +65703,7 @@
       "glowing": true,
       "tier": "EPIC",
       "npc_sell_price": 204800,
+      "category_display": "DWARVEN METAL",
       "id": "REFINED_MITHRIL"
     },
     {
@@ -66980,6 +67016,7 @@
       "material": "REDSTONE",
       "name": "Redstone Dust",
       "npc_sell_price": 1,
+      "category_display": "ORE",
       "id": "REDSTONE"
     },
     {
@@ -67570,6 +67607,7 @@
       "tier": "UNCOMMON",
       "npc_sell_price": 51200,
       "can_place": false,
+      "category_display": "BLOCK",
       "id": "ENCHANTED_GLOWSTONE"
     },
     {
@@ -68219,6 +68257,7 @@
       "tier": "RARE",
       "npc_sell_price": 20,
       "description": "%%gray%%Its strength and resistance to corrosion are the highest of any metallic element.",
+      "category_display": "DWARVEN METAL",
       "id": "TITANIUM_ORE"
     },
     {
@@ -68390,6 +68429,7 @@
       "glowing": true,
       "tier": "UNCOMMON",
       "npc_sell_price": 320,
+      "category_display": "BLOCK",
       "id": "ENCHANTED_GLOWSTONE_DUST"
     },
     {
@@ -68628,6 +68668,7 @@
       "name": "Enchanted Mycelium Cube",
       "tier": "RARE",
       "npc_sell_price": 128000,
+      "category_display": "BLOCK",
       "id": "ENCHANTED_MYCELIUM_CUBE"
     },
     {
@@ -69267,6 +69308,7 @@
       "glowing": true,
       "tier": "UNCOMMON",
       "npc_sell_price": 320,
+      "category_display": "ORE",
       "id": "ENCHANTED_IRON"
     },
     {
@@ -69495,6 +69537,7 @@
       "material": "IRON_INGOT",
       "name": "Iron Ingot",
       "npc_sell_price": 2,
+      "category_display": "ORE",
       "id": "IRON_INGOT"
     },
     {
@@ -71180,6 +71223,7 @@
       "material": "PACKED_ICE",
       "name": "Packed Ice",
       "npc_sell_price": 4.5,
+      "category_display": "BLOCK",
       "id": "PACKED_ICE"
     },
     {
@@ -71199,6 +71243,7 @@
       "material": "GLOWSTONE",
       "name": "Glowstone",
       "npc_sell_price": 8,
+      "category_display": "BLOCK",
       "id": "GLOWSTONE"
     },
     {
@@ -71565,6 +71610,7 @@
       "glowing": true,
       "tier": "EPIC",
       "npc_sell_price": 3200,
+      "category_display": "DWARVEN METAL",
       "id": "ENCHANTED_TITANIUM"
     },
     {
@@ -71588,6 +71634,7 @@
       "npc_sell_price": 8,
       "description": "%%gray%%%%italic%%\"The Man called it \"true-silver\" while the Dwarves, who loved it above all things, had their own, secret name for it.\"",
       "can_place": false,
+      "category_display": "DWARVEN METAL",
       "id": "MITHRIL_ORE"
     },
     {
@@ -71700,6 +71747,7 @@
       "tier": "LEGENDARY",
       "npc_sell_price": 51200,
       "unstackable": false,
+      "category_display": "DWARVEN METAL",
       "id": "REFINED_TITANIUM"
     },
     {
@@ -72536,6 +72584,7 @@
       "material": "ENDER_STONE",
       "name": "End Stone",
       "npc_sell_price": 2,
+      "category_display": "BLOCK",
       "id": "ENDER_STONE"
     },
     {
@@ -73421,6 +73470,7 @@
       "name": "Hard Stone",
       "npc_sell_price": 1,
       "description": "%%gray%%A condensed form of rock only found at extreme depths.",
+      "category_display": "BLOCK",
       "id": "HARD_STONE"
     },
     {
@@ -74471,6 +74521,7 @@
       "glowing": true,
       "tier": "UNCOMMON",
       "npc_sell_price": 640,
+      "category_display": "ORE",
       "id": "ENCHANTED_EMERALD"
     },
     {
@@ -77037,6 +77088,7 @@
       "durability": 4,
       "name": "Lapis Lazuli",
       "npc_sell_price": 1,
+      "category_display": "ORE",
       "id": "INK_SACK:4"
     },
     {
@@ -77046,6 +77098,7 @@
       "tier": "RARE",
       "npc_sell_price": 76800,
       "can_place": false,
+      "category_display": "ORE",
       "id": "ENCHANTED_GOLD_BLOCK"
     },
     {
@@ -79039,6 +79092,7 @@
       "material": "EMERALD",
       "name": "Emerald",
       "npc_sell_price": 4,
+      "category_display": "ORE",
       "id": "EMERALD"
     },
     {
@@ -79850,6 +79904,7 @@
       "material": "LAPIS_BLOCK",
       "name": "Block of Lapis Lazuli",
       "npc_sell_price": 9,
+      "category_display": "ORE",
       "id": "LAPIS_BLOCK"
     },
     {
@@ -79857,6 +79912,7 @@
       "name": "Emerald Ore",
       "tier": "UNCOMMON",
       "npc_sell_price": 8,
+      "category_display": "ORE",
       "id": "EMERALD_ORE"
     },
     {
@@ -80486,6 +80542,7 @@
       "material": "ICE",
       "name": "Ice",
       "npc_sell_price": 0.5,
+      "category_display": "BLOCK",
       "id": "ICE"
     },
     {
@@ -80927,6 +80984,7 @@
       "material": "IRON_ORE",
       "name": "Iron Ore",
       "npc_sell_price": 3,
+      "category_display": "ORE",
       "id": "IRON_ORE"
     },
     {
@@ -81191,6 +81249,7 @@
       "durability": 1,
       "name": "Red Sand",
       "npc_sell_price": 5,
+      "category_display": "BLOCK",
       "id": "SAND:1"
     },
     {
@@ -81560,6 +81619,7 @@
       "material": "COAL",
       "name": "Coal",
       "npc_sell_price": 1,
+      "category_display": "ORE",
       "id": "COAL"
     },
     {
@@ -82539,6 +82599,7 @@
       "glowing": true,
       "tier": "UNCOMMON",
       "npc_sell_price": 1280,
+      "category_display": "ORE",
       "id": "ENCHANTED_DIAMOND"
     },
     {
@@ -82759,6 +82820,7 @@
       "tier": "RARE",
       "npc_sell_price": 1600,
       "can_place": false,
+      "category_display": "ORE",
       "id": "ENCHANTED_SULPHUR"
     },
     {
@@ -84367,6 +84429,7 @@
       "glowing": true,
       "tier": "RARE",
       "npc_sell_price": 1280,
+      "category_display": "DWARVEN METAL",
       "id": "ENCHANTED_MITHRIL"
     },
     {
@@ -84883,6 +84946,7 @@
       "glowing": true,
       "tier": "UNCOMMON",
       "npc_sell_price": 160,
+      "category_display": "ORE",
       "id": "ENCHANTED_LAPIS_LAZULI"
     },
     {
@@ -85635,6 +85699,7 @@
       "tier": "RARE",
       "npc_sell_price": 102400,
       "can_place": false,
+      "category_display": "ORE",
       "id": "ENCHANTED_QUARTZ_BLOCK"
     },
     {
@@ -86667,6 +86732,7 @@
       "material": "DIAMOND_BLOCK",
       "name": "Block of Diamond",
       "npc_sell_price": 72,
+      "category_display": "ORE",
       "id": "DIAMOND_BLOCK"
     },
     {
@@ -86866,6 +86932,7 @@
       "material": "QUARTZ",
       "name": "Nether Quartz",
       "npc_sell_price": 4,
+      "category_display": "ORE",
       "id": "QUARTZ"
     },
     {
@@ -89540,6 +89607,7 @@
       "tier": "UNCOMMON",
       "npc_sell_price": 800,
       "can_place": false,
+      "category_display": "BLOCK",
       "id": "ENCHANTED_RED_SAND"
     },
     {
@@ -93745,6 +93813,7 @@
       "npc_sell_price": 576,
       "description": "%%gray%%A refined form of heavy rock from the darkest depths.",
       "can_place": false,
+      "category_display": "BLOCK",
       "id": "ENCHANTED_HARD_STONE"
     },
     {
@@ -94520,6 +94589,7 @@
       "material": "GLOWSTONE_DUST",
       "name": "Glowstone Dust",
       "npc_sell_price": 2,
+      "category_display": "BLOCK",
       "id": "GLOWSTONE_DUST"
     },
     {
@@ -94826,6 +94896,7 @@
       "tier": "UNCOMMON",
       "npc_sell_price": 160,
       "can_place": false,
+      "category_display": "BLOCK",
       "id": "ENCHANTED_NETHERRACK"
     },
     {
@@ -95525,6 +95596,7 @@
       "name": "Redstone Ore",
       "tier": "UNCOMMON",
       "npc_sell_price": 6,
+      "category_display": "ORE",
       "id": "REDSTONE_ORE"
     },
     {
@@ -102768,6 +102840,7 @@
       "name": "Refined Tungsten",
       "tier": "EPIC",
       "npc_sell_price": 256000,
+      "category_display": "DWARVEN METAL",
       "id": "REFINED_TUNGSTEN"
     },
     {
@@ -102780,6 +102853,7 @@
       "name": "Tungsten",
       "description": "Considered for a long time to be unbreakable prior to the discovery of the Crystal Hollows.",
       "npc_sell_price": 10,
+      "category_display": "DWARVEN METAL",
       "id": "TUNGSTEN"
     },
     {
@@ -102804,6 +102878,7 @@
       "name": "Enchanted Tungsten",
       "tier": "RARE",
       "npc_sell_price": 1600,
+      "category_display": "DWARVEN METAL",
       "id": "ENCHANTED_TUNGSTEN"
     },
     {
@@ -102835,6 +102910,7 @@
       "name": "Refined Umber",
       "tier": "EPIC",
       "npc_sell_price": 256000,
+      "category_display": "DWARVEN METAL",
       "id": "REFINED_UMBER"
     },
     {
@@ -102847,6 +102923,7 @@
       "name": "Umber",
       "description": "Hardy enough to flourish even in the harshest of conditions.",
       "npc_sell_price": 10,
+      "category_display": "DWARVEN METAL",
       "id": "UMBER"
     },
     {
@@ -102859,6 +102936,7 @@
       "name": "Enchanted Umber",
       "tier": "RARE",
       "npc_sell_price": 1600,
+      "category_display": "DWARVEN METAL",
       "id": "ENCHANTED_UMBER"
     },
     {
@@ -103428,6 +103506,7 @@
       "description": "An unnatural, nigh-unbreakable material. Of those unlucky few who have discovered where it originates, none have lived to tell the tale.",
       "npc_sell_price": 12,
       "can_place": false,
+      "category_display": "DWARVEN METAL",
       "id": "GLACITE"
     },
     {
@@ -103449,6 +103528,7 @@
       "tier": "RARE",
       "npc_sell_price": 1920,
       "can_place": false,
+      "category_display": "DWARVEN METAL",
       "id": "ENCHANTED_GLACITE"
     },
     {
@@ -119280,6 +119360,7 @@
       "material": "DIAMOND_PICKAXE",
       "name": "Dungeonbreaker",
       "tier": "SPECIAL",
+      "category_display": "%%red%%%%bold%%DUNGEON PICKAXE",
       "glowing": true,
       "has_uuid": true,
       "stats": {
