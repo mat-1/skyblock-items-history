@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1781904941552,
+  "lastUpdated": 1781916677805,
   "items": [
     {
       "material": "SKULL_ITEM",
@@ -40630,6 +40630,8 @@
       "durability": 10,
       "name": "X Mithril Powder",
       "tier": "RARE",
+      "can_auction": false,
+      "can_trade": false,
       "id": "MITHRIL_POWDER_TIER_1"
     },
     {
@@ -43720,6 +43722,8 @@
       "durability": 6,
       "name": "X Gemstone Powder",
       "tier": "EPIC",
+      "can_auction": false,
+      "can_trade": false,
       "id": "GEMSTONE_POWDER_TIER_2"
     },
     {
@@ -45781,6 +45785,8 @@
       "durability": 14,
       "name": "X Gemstone Powder",
       "tier": "LEGENDARY",
+      "can_auction": false,
+      "can_trade": false,
       "id": "GEMSTONE_POWDER_TIER_3"
     },
     {
@@ -56565,6 +56571,8 @@
       "durability": 6,
       "name": "X Mithril Powder",
       "tier": "EPIC",
+      "can_auction": false,
+      "can_trade": false,
       "id": "MITHRIL_POWDER_TIER_2"
     },
     {
@@ -75325,6 +75333,8 @@
       "durability": 14,
       "name": "X Mithril Powder",
       "tier": "LEGENDARY",
+      "can_auction": false,
+      "can_trade": false,
       "id": "MITHRIL_POWDER_TIER_3"
     },
     {
@@ -95083,6 +95093,8 @@
       "durability": 10,
       "name": "X Gemstone Powder",
       "tier": "RARE",
+      "can_auction": false,
+      "can_trade": false,
       "id": "GEMSTONE_POWDER_TIER_1"
     },
     {
@@ -142238,6 +142250,8 @@
       "tier": "SPECIAL",
       "npc_sell_price": 0,
       "serializable": false,
+      "can_auction": false,
+      "can_trade": false,
       "id": "MINIATURE_NUKE"
     },
     {
@@ -142266,6 +142280,8 @@
       "glowing": true,
       "tier": "SPECIAL",
       "serializable": false,
+      "can_auction": false,
+      "can_trade": false,
       "id": "FINAL_REVIVE_PERK_ITEM"
     },
     {
@@ -142380,6 +142396,8 @@
       "glowing": true,
       "tier": "SPECIAL",
       "serializable": false,
+      "can_auction": false,
+      "can_trade": false,
       "id": "REVIVE_PERK_ITEM"
     },
     {
