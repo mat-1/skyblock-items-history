@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1781916677805,
+  "lastUpdated": 1782146355553,
   "items": [
     {
       "material": "SKULL_ITEM",
@@ -45581,7 +45581,7 @@
       "id": "CHAINMAIL_BOOTS"
     },
     {
-      "material": "CARROT",
+      "material": "CARROT_ITEM",
       "name": "Great Carrot Candy",
       "glowing": true,
       "tier": "RARE",
@@ -78734,7 +78734,7 @@
       "id": "SWORD_OF_BAD_HEALTH"
     },
     {
-      "material": "CARROT",
+      "material": "CARROT_ITEM",
       "name": "Simple Carrot Candy",
       "tier": "UNCOMMON",
       "npc_sell_price": 1,
