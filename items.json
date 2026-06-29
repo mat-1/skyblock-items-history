@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1782741338303,
+  "lastUpdated": 1782745723550,
   "items": [
     {
       "material": "SKULL_ITEM",
@@ -23617,12 +23617,6 @@
         "STRENGTH": 15
       },
       "npc_sell_price": 40,
-      "museum": true,
-      "museum_data": {
-        "donation_xp": 1,
-        "category": "FISHING",
-        "game_stage": "STARTER"
-      },
       "id": "SALMON_HAT_CELEBRATION"
     },
     {
