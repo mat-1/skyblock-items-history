@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1782745723550,
+  "lastUpdated": 1782844343374,
   "items": [
     {
       "material": "SKULL_ITEM",
@@ -45623,7 +45623,8 @@
       "id": "SWAPPABLE_PREVIEW"
     },
     {
-      "material": "PRISMARINE_SHARD",
+      "material": "DIAMOND_PICKAXE",
+      "item_model": "minecraft:prismarine_shard",
       "name": "Gemstone Drill LT-522",
       "glowing": true,
       "category": "DRILL",
@@ -48472,7 +48473,8 @@
       "id": "BOSS"
     },
     {
-      "material": "PRISMARINE_SHARD",
+      "material": "DIAMOND_PICKAXE",
+      "item_model": "minecraft:prismarine_shard",
       "name": "Mithril Drill SX-R226",
       "glowing": true,
       "category": "DRILL",
@@ -48528,7 +48530,8 @@
       "id": "PET_ITEM_SPOOKY_CUPCAKE"
     },
     {
-      "material": "PRISMARINE_SHARD",
+      "material": "DIAMOND_PICKAXE",
+      "item_model": "minecraft:prismarine_shard",
       "name": "Ruby Drill TX-15",
       "glowing": true,
       "category": "DRILL",
@@ -50708,7 +50711,8 @@
       "id": "PET_SKIN_ENDERMAN"
     },
     {
-      "material": "PRISMARINE_SHARD",
+      "material": "DIAMOND_PICKAXE",
+      "item_model": "minecraft:prismarine_shard",
       "name": "Mithril Drill SX-R326",
       "glowing": true,
       "category": "DRILL",
@@ -56186,7 +56190,8 @@
       "id": "CHAINMAIL_CHESTPLATE"
     },
     {
-      "material": "PRISMARINE_SHARD",
+      "material": "DIAMOND_PICKAXE",
+      "item_model": "minecraft:prismarine_shard",
       "name": "Divan's Drill",
       "glowing": true,
       "category": "DRILL",
@@ -67623,7 +67628,8 @@
       "id": "HEALER_DUNGEON_ABILITY_1"
     },
     {
-      "material": "PRISMARINE_SHARD",
+      "material": "DIAMOND_PICKAXE",
+      "item_model": "minecraft:prismarine_shard",
       "name": "Topaz Drill KGR-12",
       "glowing": true,
       "category": "DRILL",
@@ -78419,7 +78425,8 @@
       "id": "SILEX"
     },
     {
-      "material": "PRISMARINE_SHARD",
+      "material": "DIAMOND_PICKAXE",
+      "item_model": "minecraft:prismarine_shard",
       "name": "Jasper Drill X",
       "glowing": true,
       "category": "DRILL",
@@ -80533,7 +80540,8 @@
       "id": "LAPIS_PICKAXE"
     },
     {
-      "material": "PRISMARINE_SHARD",
+      "material": "DIAMOND_PICKAXE",
+      "item_model": "minecraft:prismarine_shard",
       "name": "Titanium Drill DR-X555",
       "glowing": true,
       "category": "DRILL",
@@ -83175,7 +83183,8 @@
       "id": "DOUBLE_PLANT:4"
     },
     {
-      "material": "PRISMARINE_SHARD",
+      "material": "DIAMOND_PICKAXE",
+      "item_model": "minecraft:prismarine_shard",
       "name": "Titanium Drill DR-X355",
       "glowing": true,
       "category": "DRILL",
@@ -88869,7 +88878,8 @@
       "id": "DUNGEON_NORMAL_KEY"
     },
     {
-      "material": "PRISMARINE_SHARD",
+      "material": "DIAMOND_PICKAXE",
+      "item_model": "minecraft:prismarine_shard",
       "name": "Titanium Drill DR-X655",
       "glowing": true,
       "category": "DRILL",
@@ -89009,7 +89019,8 @@
       "id": "HORN_OF_TAURUS"
     },
     {
-      "material": "PRISMARINE_SHARD",
+      "material": "DIAMOND_PICKAXE",
+      "item_model": "minecraft:prismarine_shard",
       "name": "Titanium Drill DR-X455",
       "glowing": true,
       "category": "DRILL",
