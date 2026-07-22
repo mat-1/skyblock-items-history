@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1783519272515,
+  "lastUpdated": 1784730494765,
   "items": [
     {
       "material": "SKULL_ITEM",
@@ -4292,6 +4292,7 @@
         "signature": "GxcG/LYRRMp6mt+s8NOCNMMZ1LnNjc698Nmp5A0FLs5mEwY6aY/a84k2O7Sm389x4kmaF4wY6hGcIl2gGT6Mn4s79nAu0Mw4jcFxS43+f2OH0zpMrGbsVLObXFy3MDLJa/G2T74ID0RJtdmiWHLc/jYzInxnVAipNW+PFX4RKm/LG5cF8b5Jjkxtp/WfNzK6TmRdV1bJYoHeZ6CGJp7AQsddVT4QDZrWpOW19N1DpF52iRDPVNN7NUsX/62fl+bEk9wnBB52I+daatLyPGf/DgUiLaAnUS60ppUCWOqM/sBZwbGWKpdaWv+KZPHNGTcR8iB/GVVFF1bnOuXKvfSG1G5qdMreGZF3NrDO6tWbah37cmHwXtODDDj/cOn+xKUrdZ8aIeKyg/Gr//bdRDXHObQzNcfcmtDAGWqCN5forcMSUeUF8JyPhxvVWiaRG1ZFN5+Qdikcf4YqJMFvbErc2OJl1IH5RuPbFtXW7reBr7/PFpO1nVeCxF0sa0K7bndFsqO7adrEmcAv0g/E1oesHr4djGEzFCZGYwT2o78wH/SlT0HAk50fyWXEtxVUeaq8LNGmaTb7qq4y+2oXc14Ng7fSz10JVyZKlG8cciR+SSGyMlYcckZeCR7SXucGo1S3UyZ6NzCtWQ3JKNkjveviZwMB97B2IUcixYAK7s4GeF4="
       },
       "name": "Large Husbandry Sack",
+      "category": "SACK",
       "tier": "EPIC",
       "unstackable": true,
       "id": "LARGE_HUSBANDRY_SACK"
@@ -4304,6 +4305,7 @@
         "signature": "q6MtQXzr2/vSZG7qqmwP3CerAGGK3kG5iotKZFsIJlNEuCPb+PC7WyNdeYG6pULYYpKsJe3wOQ5X90iBP1c6gSaFsRrfC0Vs2TzF0TubSAQQkmc2bt+c2YWBT+d/0CnsVyBtMc7Dasq1DRZgPjEdZk++XmCHgjxbgH8kOkj8l/SrRuUrtkgVBOL4E62imtrvIahBX95rasy1bya0Ru0nX61Iv2H72BvLFKIxrZC3cEC+967Ie8EdPs9J577TpTqfz2OSvLmQldRqu/yLNEu5EQ3IvBSFLJ+g40e8LoiyEhxHTLLSSrKm8RxZ0dQ7DwT8YPH3RAXifFwSXWLQiKa68Xxnalj74oHzlpV0O9tJKyDUCS+eBiQQKvcsx26+4DGD+pZ0jW/1NE3ZeYwTo8nh2mMvXruBGWmJElsEKlOCb3LTb6KoF74eG+4Iyt/yeSnyGLf5PUjRpS/uu50QTJbiMbEG5wqKrzh53UCRSgGD3yDiWoT0PFeE8TN+nLGk+6Xbc+pvf7sGx103zIKpDoXxpfmrokQ/1DGECiZ6vR0ye7VSZtwA6vcq6+hv86MEBMo4PW1waLJ74g8wOQe12K41ZVtQ6k5RY1aKct7m8sVGh+MGx5COEkx2nDV+zpszNIgn6AVvjvqSb1QLU0aNKH+RWWyOn7aTOv1KnZh0G+f+KWM="
       },
       "name": "Large Foraging Sack",
+      "category": "SACK",
       "tier": "EPIC",
       "unstackable": true,
       "id": "LARGE_FORAGING_SACK"
@@ -4316,6 +4318,7 @@
         "signature": "Cdn10aZxufOz9BFrbyRipKMeFxpBBUWlxAIRiZREqzw41FBDG/7IUHGhB2GVjKXSTG8a4XJloxVDhqk+U4mOo9E0ZnX3vxRZsa76EbP0MQ/HoGZ6QynJDOLftv4NymfsmBJ7W37XKsPybGW5bDT8vSRB0XMS67zvRkdsspMRKECZFqPxddEfYTM107VjVHSxxfPJupqDa9f0ISeHpZwrBe9E/9KtuE8et2zjNXBqRWZe/XzqT/3m+Y1Jq2wnal2kF79kw/R9dBzroudPKg6hPrL0xKVkCZSQExiSfbayWGs9Zr6SZ04nr315c6V6etwdI8TOC0b6km+ZUsXKnakWUJjlaLGeklpsJ/s1IyzoKoBFx9pu4Sl8m3pY1o8W+3MU5Ja2C12xniRzmhqXRokBNgqRQqH1Awg6/pHt9AVRyL57wM6pwkc0lMWkKj2qnLGP+FpmBOlR/uUqVQ++GeSJcXSiXTSbrAKzMAsXJOz6YtpsPb7Z/X/Ft2pcyLE3iyfkLoROQosW16HSDG7YrZL7STN3JTh0o8Yl5joLEeQqSu/Gv1zOEiykiSKMtAc6/E9QrIEG/gvMHvmVeY1fgPY1KExHtrCiSlwOFym9E4tdPqg94ogcsYEWsKbx88c5a08MHNN2XX3CxnlsENz1IFbh7NdzDk1r76Wga8M1gKJo7Wo="
       },
       "name": "Medium Fishing Sack",
+      "category": "SACK",
       "tier": "RARE",
       "unstackable": true,
       "id": "MEDIUM_FISHING_SACK"
@@ -4328,6 +4331,7 @@
         "signature": "XKehhCQl/q2WcpS+6aLSl5yzRdAKVo8/sZGNsWx7DLDk01okd+ZIJJPkdkdDmnDMp9ettm/60ifZEse5leOq9PpsV0QcrNuhxgafd6Zcjhx9OhDll+MssU/8oBYeunNzqUzHimRiMIRkDi64YCCSrFQh1Tc1/XJNsYpQ0bfoPJVccocJHp1r3ZslBx+UnbDPA3n+DwxnslXFUCt5Ft2OQ3BNIjx2ekSJvTRKc5H8VfbrlEU6K2MXWqvlEu/wh3jXD4kAYgXrg4uLFtDQF+KkmReZgA48D02A3JbSEX9wiojHFkaH5m9t+/Xsb5HXiltSw7cJHoixYv3dVA5VCbAYGfEi8MQNctNiAKpJRFKDdqoCVwfawgP/26pR2AACqiX6yXmfy1HQHjuOnb9WixupvAPsyefE9Ta7y6UeVvnFQR5XheQ0vNaAV4DESfYecT7mWrmmC9lQDK97dyDNNxXmqfmi2VIBHt++G1A6W3781AOGgxS+3ivj0Sp/+sf7t8VoUQNb89m8DaNJAwdFXFKEmSsqWbbDFmrxipIGnhbV+/FkdFlpw/Em1MPZX6WyDQzP/Z14rTFJrv62wbonTguu+8ja9HFh7zHEfx/nBt2NU2B/rhRGMG1410qIxwAHv1aybTR5qSyGY1AJ1cUliQfsobj96lCeqkUfmNnaQStmCTw="
       },
       "name": "Large Mining Sack",
+      "category": "SACK",
       "tier": "EPIC",
       "unstackable": true,
       "id": "LARGE_MINING_SACK"
@@ -4340,6 +4344,7 @@
         "signature": "ZX79C+u3hwP9WjoQ88bZPPMmoBVT3IrsM/agd7cgdGxeJGIswesX6kn6xCiLyQZ3KSN+JJUqLlzMrq7U2YAA8zjfx7c7vBT6Q5r0ci2pj9rPQ3KaalXKo5t7AiEwEkCBUmr//firKp7PkM+aol3A4p/50+l+JasLdvbsnZQuX6pGNUrK2i0HcpcEXhWPaf8DdClYp+I1Wm2TYeYHqAPztMFU9xDLmUTrqaoogVPYQUUuDcvV8pXe7rphnldiP9lbUqyxcDWqc3D0t2WvqrUb4zsjtxGreimfNZCRcMPFShJHo2o7G5iwDJfQsd4qQf5//LI2UJKKp42ar4If3HeIxBbPGe6LeQSKJ5EJNJ6n2XI//pEVUMYnBmsh9i1MXOm8i2GoNUFHxan+YTB3fMtq+hkoWTE7Sbo+dBr1qUH2U0XcfyYsYh8q9wxAWHPCtSH7O1jfu58Aifu+wKTDwlOiJEB1OdSq96Q+8SQIIC6m2jGEmdE2HBnx4evh74nAEJtCmWqJyLx6+AJdsUfrDSmaiAeiEDlJ6b0hNS4Uwj+L09nJ9SlHAfKQceWMSvsFTFs0zLtlcCLPrQpyYyW0vGbjMZvDJLmtjGojbTo/ofkTL9bJ8SEkzM038OaWAUPYVfaOI29k2eEGa3YRcrxRw2uJdx2fftPeJ2YBEg01gIYcf+w="
       },
       "name": "Spooky Sack",
+      "category": "SACK",
       "tier": "EPIC",
       "unstackable": true,
       "id": "LARGE_CANDY_SACK"
@@ -4352,6 +4357,7 @@
         "signature": "MW3+K6jB3G5LLt3kQKKiiVP7pgcCvLRzWUDN2wQjoNI4RW/eAn9O2zXnsRFCYTb2HtjJ4FZ10Ks6l+uDdL/kfu/f0JYvPPKrUHhBQQdQptwXr7j+LmnpuTl4uS5AoDpNSRGAi2DyVfSgkaWuB/JL5OztE0j0qvYnzhx85H6yLBdboPN6dMzF/ZrVzWTkDhLNPr6CMOz589XP86eNlcjP/1+VUgabJl/pZPPZtg3/L8xwD69MKBJHmSBdPPzuNJaBTb+v3vru2ef2/zJIE/doRPHk8d8BJJR6HeD5qQFGG1NN+fc0RFTKxw0PAQhJ3URyB2pbAVgc1dLaMzp7yzm1E6ClkxBcmplNX20LbGPWoEDn59xfdHI8oQsX81vmhqsC7ZJ829aCSpPijg9wi18KXfFrzDN/2CtvA8Ze9UVxskBcyIYyJ9kc0Q1i0p9rM3wzDBOcyYeCPu+3ggjIyNe4x100R75ypUR4WO0yoHf+6H5iN8MoU+UhOqkMXQ0FVSXgYoF6+xa9OARBfRg02Loh/ZEonlzT2jOJvTX45MHYjr5fPmLjhz/YJaVZEjnUroLOJbSQYJsCp8xPdE0uBKTgW6WaWpwx+omdfAOXwlgQ6fCRJb1zxYIpD8lHcJHCwQQuGC4F4w8WQOpsLGdABuWoHS3iXFBZKmzXCMjtZsn7pBg="
       },
       "name": "Small Runes Sack",
+      "category": "SACK",
       "tier": "UNCOMMON",
       "unstackable": true,
       "id": "SMALL_RUNES_SACK"
@@ -4364,6 +4370,7 @@
         "signature": "yKHsu5LCDDd8txaAkocp7NLyRYlUqxBp0R19pKMxksbg+7EU/hhY2d2FyehX9gT8fvu1F4whH8cxkYCf8n1BvMpKK+UP6G0ySxs3Bxc/VLz3VbLW35Nq/vZN7TkNFdP8cUDUZ+OmQoj6gQOCmnsaef7eyndMVJnZtJuHdyV1lYmB85x0ZjVVCP4k92PIVgjWb7Qd4pwL5CYiA8GO8CgMQuQNdzRXmPJUZjvQonLrlm1kH2u2bP0Vf31fZFN7nJzauDjJ5Kuskp50JsKz82zBvw63Q5+BNZGggPrx945SYdsdxoedpX4kPUJbsIXocK4auSfthjbSDvIhXLOed9me5Y6GySyVtqEkHRSlAq2jAzg7Ovx7daipwtF0tT3Pqnf9b4Y44ucqFx89Asjzc3rsxTxil4gwDrCEkQKA4Fuk8CBEsiCuvPNjK0MPm1Rji3DJiGE/6y4NCvcP2lJPr3mLe5V5woIAaD+BqbM2BhxwFwaNHX+RSEQNwtXY6hyE9LbkB9FV0yZzb95vKdUS75hkd5PecrqHO0u2xSpVoc1+NuWP0mVHF4nfHXSDelmL9PtjlwjAxXFjHPn6ZHHda9MCkokU1IGCyBA2Ct47iytk/Q9vDzk4tqbBoXmiWsH5Hh6Zttkf6Stlv0Xqo9Du3h4/1NTmj3S1P65P/CTrDyjHaIM="
       },
       "name": "Flower Sack",
+      "category": "SACK",
       "tier": "EPIC",
       "unstackable": true,
       "id": "FLOWER_SACK"
@@ -4376,6 +4383,7 @@
         "signature": "ic1cVlO1f+5OAYoGSsc0pdOBrfZjIJBkhOKA92NxscezmcYwcc0hYpf4Zx2oEtbycDcqEN3a51K1Ol+itMAlJ2z7LXUuOq1ceGfQDPYt7gKWOa9FvU9IJirvlh83VVLGCZtASo7bEnm7ofWtBIxFeR1+eWgZ89Xp3JQUjFQq4v0BrduhucXtfrk8A7d/7qmWW6Egui+B0SvZsGCHYHYPE4QjQKg+1/cKqDEgqP7i0IjLvaY6W/BufHF5zC0GwGf9yrtGXXUO9176VwZuRLdGg6IsCGjS7gOqJrmz2RlUVKlcA7upTeM7TPL3lNJzu5a+JV4AVtrSYiwrnbPfxu7Q2X2s9ZySm/md+o+/MACc/7erShMSbbwrj/FGMkAkqt3prLIxkzgcjdMwC6ksKs1hASR+okOo9paCokOqFLVFhZ1oMlvjPJzQSIfL2txokImN4/9ExEk7joFR9I84LwbH2xX+g3VDhCVGUfj819XJek3lUF16teKLGYeRrIbhxY4ZaBs5EqS520n/qrkbhMt2gn7tTAlf6pvuDOPPmXX6AAbIUcfvwo3inEwlCFemZlRWbl0neUO8DAzXmBunBOHT7sPubyp4s2izKMJ8v9FbnhPQgvhCVUtAS3ZFOYKjyOzzvI8Ql+Wh2m6uDjqMEqKrq4h2tmLxwf5bmjrYRUQDG1w="
       },
       "name": "Large Mutations Sack",
+      "category": "SACK",
       "tier": "EPIC",
       "unstackable": true,
       "id": "LARGE_MUTATIONS_SACK"
@@ -4388,6 +4396,7 @@
         "signature": "RAAu7vQv0Nu/Pfr0sB3IB4/vGpobrm3j0oZNarKeE5WsZa5159QCE6JG8v+d7oy3JzfUfbkt51DdDLIO7+JdAFEXw1wjNpiBiTeSFNhIJiTKc7YSarfh/5F+p7hrsA76lRniBolxp4ylLV1N65LBP0mzx7QIJBWITbPce9ViZhD5ZtmTwnJ+UJevYgKRNeBOJsp2IFkPJgGtddimXm/X3TmPO2E0pvUShYl1Uanro6vJXl3G5YHqPiEsylXZdFuNbeok9YQuvl1nBnkQ4DCrVuDzBOpdRl77W5iTuB1s/0Ph8ayn7j3ORUa99skR1owNJw3vcf96cfl0COLCAxkWYGhFdB+CJrdKUVgnIXpE7u4685poAITwFQp8pc6c1wMYKdhOSVkKs1es5J9ewq7nevmiGmVQBPAAGsLzfJfoAuG1iRT4x1FS61RQcIac8AQUWkpwmleSgWxxKDEXvksLshjU+8qg7Sqrjwx0RGJp8KfaMl5TlCwQ6aLWvcuNV5Pzv5bxC2nX2UGV8CEXnZG813W4hZyWgA/AChkArwVuSYqXHpUxfLaGTK/8lt0HR0sbkeEVn1locRo8rK8Kl/tZcaC8Xe+eSAqvjONFf0CsmpClkl5U+U/HxK7gsQQACMlAUBX18gVNpT1Bad109jM7M/d3aC/0W3iHKuZdMxhWhi8="
       },
       "name": "Dungeon Sack",
+      "category": "SACK",
       "tier": "LEGENDARY",
       "unstackable": true,
       "id": "LARGE_DUNGEON_SACK"
@@ -4400,9 +4409,23 @@
         "signature": "L6WYBYxQjvQMA/T4THDFypv5cNTr+nokppGts6GJ494oo2pA1nIfRwUl5dViqh2H/qGuIl7GSzQt3FOxaqu+xuk6R2HPBuuZbrCUepSueZuxRFXd6QYZ1wwRROCE8Q2YfcsTIEAFY3Jh7k8sUfH2QWGF6dDrjjo56BmH7z98+EEtE2B3v1Xe+N8m/AerqzK4gTxfwdq/i6QjxwJFq//nwXDVoyMw5LHlDUQ74pMtnF0MgYmKqUFGO8LZqjVffnF2iCxVC+UfNl/jegFEb1H9wn7DNU53gfNwRLydJ0lACgu3TShPbDA5hC3u+ItKkbBNfM9A4i85Adj/c6XSmppTPRE24h8WY0n22HzjgluAHLtKvPxcIRWp48IvGB/IAWa6SG0v819i+ZuyNC6hhJ8PiDz1VR3PR+aORD3jtJtLu9G9IoKhP0JkijXjwwqkGCk37L8T8W9Y5wZ0aEeXK6dOKXHXu28lYq+0FWGamqIjwcrXXCNuGs2TdFxPl0bYaL0ZaJtsz47MoYvcP36kg+7tGC4vVf/jIEHcrx/NBq1yXxyw2ViID6RvyRf40ytC1Ioyo151CN6pONJCgxY7MVcj3uZ3O5A45ZOQ/jpNomaASwb5McrrwVii/2Y3Ragl3UhZf62MobbduBqDQy2Ql1r/2Cs4ZQaDcv+WRtQNBQIp7fM="
       },
       "name": "Medium Mining Sack",
+      "category": "SACK",
       "tier": "RARE",
       "unstackable": true,
       "id": "MEDIUM_MINING_SACK"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": {
+        "value": "ewogICJ0aW1lc3RhbXAiIDogMTc3MzIzODMwNTc1MywKICAicHJvZmlsZUlkIiA6ICI0YjQyNDY0YTZmNzI0MzY0OTNlNTAzYzBlNzc0MjMzMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJESUFNT05EX0xFR0dJTkdTIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzNiYTY1OTgwYjMyMWI0NjQwYTM5YzQ0M2E5ZjgyNDM3MDA3Nzg2N2UxOTg5NTVhNTM4NjA5YTU0ZTc5NDQ0ZmEiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+        "signature": "ur+hG6V1Ez44Jv7sCjt6/NXc2/mOgnoIPaw6iZdngWeb6RUmQ3u6cw24l8Qb4KoxoQ+bF5MhvdzzDcvNlE2AAESiO343y+VsAuJfIyIreL5IIhJvpHoL5uAWM2tKEtiR8OcRnvdn6z3/bk66wrYn2YnAl2P7L/ujlf2LMuxqRl9SP4KOm4kDTIMEvqnIzQQrk71m6m2tmBf81n2JQWWFFSMhWAk6r9i9upEdwgK5rs19ANI1e9sU2IzUcrHkYdukwJdoT87VMi7EdK2VcmShqdGL7FeCverUgI7Lh4c4J6B8lMZvrf3MrYhwCPITJ3LLHTQRYXvFD+8cAGXFSLY0hKw6MVAjvdTsuo3s4kxcK0nOXdqRIZTQIQaxOHpmxNP4zPBnm8k7WJdnCB8a2vYl4vcZnSoRDWetEKIKJ48OD5mgXzYEtuoQzDr51+AexwkgTC5sjG8AAPRSRPCDqH2EMYsX4zB1CAWJBRBTpQOkMhP295s5XgF62d572fHwqvScg6iYl9gwrEJ76Ow1zBSgZidd0YHJ/vypekpPLeH5J+yN0hV1v54K6AHguTp4jaCjcE0HHvq/lRjahok5pDzgfsWjr0z0drAIZ/EMpxU/RtpM5utkjKdlN4yIMVuStJ+7zCaDCG6beEFs0rOwCSll2vtlLPaH0tCM0T46Mt8C1K0="
+      },
+      "name": "Beginner Fishing Sack",
+      "category": "SACK",
+      "tier": "COMMON",
+      "unstackable": true,
+      "id": "BEGINNER_FISHING_SACK"
     },
     {
       "material": "SKULL_ITEM",
@@ -4412,9 +4435,23 @@
         "signature": "xJRsAhuHGNOtylVlxZbOkNYi4KGjVicBQW539lOEGuablaevMudu6pXhoKgEOCmJU4BnGLlabp4HK/3BilBvz+7GuGIyD7Bjsp8FonN0SRdOFpJX1vzFM7L/Nc7xOpmhUpZMr6pCK+oCq8Nk3voZw/0h4nl7jfZErCGBHS+2thOrMnrPx+sF9tVp2r1iOBaQyK/TOiiVlyiNUE0FYLpgWLdIoSC3IxmzB8xHlzZpjGeq7qUPrQYcZuUtPK71QMZ3m9hSR4Vv4cxk2lOAs5CSl8GDUiT++qhtu2quNlY3z3IAKOi1e0mOi+TTC/G6mscK6wFQD43tHuC3FqpyVOVf3Z2KaB2Is/+WCbxlw1x4C/7Mg0SrBO/5Ps+lDAzKQqfSfVA/crB2RqnBQaykQXSzKBvUB2q5yaPv0o1rKfZSkLw9H2+KQHJ5ynVWq3It1P0fmS/FjJ9FAtSoZaiDoff3WLH6XSfc/ucsb5YJ2Idke/Vh/uQXDSOze5ra+E8SIIv1z9G/YNIwcNZTp3q1od4X3SQEqlQuOHVJLAt5cL2PiHAFr8rnZZ9xgX/A8PCA2IXxRakKFRcSg1GW8kjQ6N6m++uRAcc+0qaX08U6l0F5OW8FdKH8x0k2bU2jpM2NR4RqNwMRAbNkqzFx/5p0yO0O4/5vVF+yaEahNCuR5bfUA4g="
       },
       "name": "Large Enchanted Agronomy Sack",
+      "category": "SACK",
       "tier": "EPIC",
       "unstackable": true,
       "id": "LARGE_ENCHANTED_AGRONOMY_SACK"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": {
+        "value": "ewogICJ0aW1lc3RhbXAiIDogMTc3MzIzODMwNDA0MywKICAicHJvZmlsZUlkIiA6ICI2N2M1NzUxMzY1Mzg0MWJjYTQ1MTkwY2IyZGFiMWEwOSIsCiAgInByb2ZpbGVOYW1lIiA6ICJuaXRlc3RhbGtlcjg3IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzNkNTIyZDQ5MjI0YjMxNzhlYmZlZDYzMTQ4Mzg5OWFmOTUyNjI5NTk5MDRmZjMxOTMxMWQ1NjUwYmQzZmE3NzEiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+        "signature": "rIH2JFRWBD2RYd36XwpkO+H90LIMCT9oxDEeRIwmVzLeRhpJC5OO67gpd+/rtP//S4OJNShluxVBuHS4oJYeRuUm0X/V7YqKSuS0O8YNibupzX4XA0qw2Pd/kAzFrftdCLdzF3z3rnHQFZW3jn4p6KU6aVwJ5+tQE0CH7s+bOGpPY6z4CKvKv6K6/bD1JH4zBtcIKSO2+QBFrpcZ4KDrnp2QGfiMKpRLf66d7S1Q9ReAUl5Q6rziRde+VuQWo31EQhhn6vawSFCioLIHcev5Car9Dayplb9dK5prJjJKEkRr1WooeEVTKwJUzgkiuLVrdzdHFfuTQOFlNbRYD8CwZucOQzzm+ATRo4seD7kXfX3r58cUksaQFNrnFZdqdSrBQpiNt52G+SZwKQeXDLBUOl17Tok7BJ56WIoFD3/KlaKkAIOwtVzDWJbZk8/JWOK72mXayOF6cQdLBncxTu4MFQ94ZyfZflZBKhELQpE8x7dZ5d30EsbEK/LehkO/uWrJqVcT9UyELa5fbdQBkhV7uYp/1BjRN0N40mcqudjVaZ3WbFwhyQH1dfDvqXPXIdRNLjLT9fffO8oLQ28cTd41WcF9WCqH07kLx25n1L4d/ITN6SQ/BOTSESAzWCHy39hqWWRO1ZgID9MCzsiIYlVBvCPnntbmmWzt4MhikhCHl9Y="
+      },
+      "name": "Beginner Combat Sack",
+      "category": "SACK",
+      "tier": "COMMON",
+      "unstackable": true,
+      "id": "BEGINNER_COMBAT_SACK"
     },
     {
       "material": "SKULL_ITEM",
@@ -4424,6 +4461,7 @@
         "signature": "EQ3oUnYht4QLwUtM/a/Lbe2T14ATAE/kXFyGkFY2L/R5OLhom64e+qunAavYlH30DQHrZZ6rWYrlPvjDCtokGdYogj2Uv5j9weOnypeTW9O0B4Lj4fxvJptwSPSfCRHMdPcZLq5Wvx6Jt26uZY1oGSagMdYEyDR5/ZUsVf5cq8ESeSN7Fiw7hJvBToqKkBHzn2MmNqm+PzAoRsEPihwAFJKi5LbRqWrAT01UfvI4jE9jFs1Um85T5XKEBvV3+UeSikgiv+F78YRMYmbZQPwmdTEX3hxY8JtWmudBSbB2Trin2h6LpG0q/iOfFDCSPqCN2R/dZp9S+ASmkyXL2LGy8b2lVfMEExusefGVJ/qFCb9TYwj1Unw9zuqqAKO6Sr7f+qd64qcndZC9B6hiWAWKIOZs9zB/mtzM2qHgxtmqnwjIRTpeIhMiNM6VhtvFMXC6WoRgpE9IkPY46YoKR19Lvx2Mzxl1P1aOfFK/yWfSPp0l/pNARRtNmxeK63Yl76K9FuyWS9CC+GsoYzB6db2+PeEW0Pi0yGKXBdQlhWQImeheKr2pxCZKymccclD1eaGs9ppYd6KL8Kg+kBDPz30zmjtckdzTP/Jy8tHXGd76lhPdDmDXpxKHPXP6TczHsUPtYUo7bTPid9MPD6JFI5gt2+hGkkhNIBfW6fZiR0wa8og="
       },
       "name": "Small Foraging Sack",
+      "category": "SACK",
       "tier": "UNCOMMON",
       "unstackable": true,
       "id": "SMALL_FORAGING_SACK"
@@ -4436,6 +4474,7 @@
         "signature": "oic9VkKh2q/HpAFTdHTgFUecKgpa6hkZH2Yaq3XxBpRvElLbV6Q6mGQGwVGozml2JVfSxOUmUMrV811BymdvdUiuGU2oscxFnlK73b7qnDqXOelkgXSxD5OFa4Mh1c44Zv+4PLmd4vD7VZUj2gtBydRYxAqS9D5V7H0jXmYMqgwAkVsB1TKliUV2+GX43OLkqTZqf8lhOdSIf9W0dev+ZuHewrn+bMQXcrSpL/8JrNq1NXO04jm7FyB7LbhOiAYTSCPVpS1jl8vk5aSsQKxWatCObLrCrdjxD9NavtRAjjxIjS9Ww5BykNaLXuYkz/NbIPeE0MV0HibNCSaF7eXvPgNhWEiBC32jOetzbm0xua5gNU2X7hXGFD/UjV9FRdHBI0O0x5qCEkqJ5cS1WxEeRsd5eAdyyvxleLxaRiZ9G9KacUF8e5QQrSYRVOxcF5BGWkhiEIaTrdLLv6Qs72KTnewbrdXw1x7Da8VMk/3KcE8NdXgjaKQLWJ+d3GoMb1PwuKIevrWFUvu2CDKnrv+no9jkJT9bfZncRsFSJvu2TZdKv9fgR4IYoGL2ScW909CgLQdE8kjNRDEdmwPNPS7ZCR6dpuB4jTvnLsZp3aZngYIp5oCOnfmNWRwB697V2C5Cujj5SzhqFBDw4POxvjZKZnYSMaKEiEPR+lMdvst8pec="
       },
       "name": "Small Mutations Sack",
+      "category": "SACK",
       "tier": "UNCOMMON",
       "unstackable": true,
       "id": "SMALL_MUTATIONS_SACK"
@@ -4448,9 +4487,23 @@
         "signature": "M5zxRP9VnEztYk/e0E50BcFP908cd54RYPiLcMW94xdD0KkGCpz1cP92SO+/lyUEthbVgXmeU+MCV7SAoPehXgS6s48QGC575BtfKA9ejxoYjYT/novbMCBZ23Oqw6qJxKdfHjZIwLxcJMhYGUziiJo6zV0CVnAzIEDmF/hN6rOKU9K/0IXOnLTA3N1jHRCSp88tKYSubnGOdXiTnB10ED5nBcz7D/pU6gMUhgFI28bW6AlP/9L/Bf53DgscTsdmSw1v1ncok5+ChRKE3NqMs3c3lexHnf4v4ZqEA0JGHHKAEF5/2kFV2btH4SNEvQazDkjfiN3MYWShpxzZ+F5lzvPswUVBm62ODrhU9P61BWVqKUOZVDq87uC92TxLGBUT2/H5KnTJUmHA/TQsTSRreDMPLEYqijF5nBYz2ofeM+4w9aDPwPeBLQrlhIMnbwI/xZtpzAt8feLQGjf2QN1zGewBfhEBKt8NLLQthFtpGQVVeD9ceMZa1k5TkfRG8iQCbEh8WZ/3smeArvJY556ktRZuaI6dcc4pKq1HXsISSmba6tX3YQaJmuZDE73SgQmZF/zq44Opf4Th0eApbjx4+aCzykUuK62enGcqG0GxUqkOQICPVQpASk+ltXsajcsjEQu5Mg5TwVy6TZB1dNNWLnCu8tI26QLREFGDJ05BLQg="
       },
       "name": "Medium Slayer Sack",
+      "category": "SACK",
       "tier": "RARE",
       "unstackable": true,
       "id": "MEDIUM_SLAYER_SACK"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": {
+        "value": "ewogICJ0aW1lc3RhbXAiIDogMTc3MzIzODMwMjQ2OSwKICAicHJvZmlsZUlkIiA6ICI1ZTI1YzI0ZmIxMGI0MTlmOWIzYTQzMWIyOTYzYjQ2YSIsCiAgInByb2ZpbGVOYW1lIiA6ICJ2NHIxbiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS81MDJkNWZiMDA3OTgzM2JlMTkxNTMwMjQ1NTgzZDE2ZjMyMmUzNDNjZGQ0MzRjZGQ3YWFiN2U4YmRjZGJiYzRkIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+        "signature": "Tjt9EcJLNBzP/Volo8r7ZveQXCeGuVCuXW8FSU9v0d30a8qt+i6O4NEpSHA8ga9TViKjX3mn8QVFeGAZ4afOwZKbOtdNrmPW6cYqEeSKWoUajWq88S/fjgfU8Jgy6P2C4F9WP+i2YJaXMC+b+GVcqSvyVZxnzDEmi+O2lmp8SXCsIAcGRS/UwnUyHnBWnRNCgIz7oWwqsMbHRyqLGdfa0wI/0KInZNQwDhfKCuaj8b6q+jiXoWDYkHiDb8hQTcNxf0mNBCJMp4cwK2Vh3rVFErhMdy3KZdb4MrZEmROHVjzDme10ino7p/ZeAb9KrbWuPk25qG7zhCYsLTkGgzTHZqlXs/+30/gOgZFB5KP58gBlHYV2UkA4N5Vgspw+mvbr3ffrvXtiLmE0Iamlimk0S3KONzJ53W1501d1a6L50dXkvs8aQjnfKUdS7jouBrzYfxMhRTeZ3V3l0xB+Yr6EgKZ7J5jPraD2MtCH55h2PeZAYHTvwwyea1uyz51dT+VqYXtEfzMNo01sKES+ZejmblitbtYLU+MatA8+EVXXsro1KTguvcrdRIdW744ifg2v1W8cTw9mM+4XFD9sN+NAalN53pvzqLu1T4ggs8FlQtkxGb3SbUq7tBDfWR4SaATY28tV4mWJGvJpaZ8KmbexR7Koxit4jZdkDHkL4Ejf1ZY="
+      },
+      "name": "Beginner Husbandry Sack",
+      "category": "SACK",
+      "tier": "COMMON",
+      "unstackable": true,
+      "id": "BEGINNER_HUSBANDRY_SACK"
     },
     {
       "material": "SKULL_ITEM",
@@ -4460,6 +4513,7 @@
         "signature": "nkTWeQ6ue/RhTmWnMvvqJD1vSTjep5H5MX03pxcxKnSto03aC+KCX0a8G4PG5AME+Y5ZKcjSePmIZ7BAIUlArMMEnZRyx0v36fdNPR+bbLGStLg01iZXTfMr4esCn9MaRTlg5/XfQyIWCmc6uLnaUcg47IuZ5+hCUtyqiEpxvTgg2593SEb2FvT7Abyv0csZI5mmnaXF5HfemFGGBfwgPmmrRPRu5vTp+vi5eBSdcU2DnvmYnu1d89bbl7FYYtldypmkXWHlzpBi74LSH2l0K8kLX2BUfbX/O7UO5bsd60H8vSeEtvKQuyGsSj1hP8Vuarh9Cilj25cjoGgkK59D887AdvN9Y7+t77FADJn0VCVWdWc8/4RjAIR0lxEc7Idg7D7P7yZ2WYWw2x3pbH8gRYLZZe+c8J0qlCkWMaHXcM0ST7dC9ZoMl4O7qKiWEFKJrI+59p5OD9OYgdG1Xz0Jz0Af4X5It7xi/0bXY/y6F3puA4/ryPa+BuxgYcNbRKKM+b4ZN9eI7EKIofXgdhMjIkUTGODqJ4I5VDJy5zOWvWtqS8HYZjU7ssmQ4I1C9kFSG+dFHS7ttgDZ4qb/yyCh08oCAeFakKf9oOmgKkwRqK8O0ctAbinTzkGul/8/cHnLutXx4PO1mXNXx28OnQt2d14NGKjaqzXkAy/hqkRDRuA="
       },
       "name": "Large Agronomy Sack",
+      "category": "SACK",
       "tier": "EPIC",
       "unstackable": true,
       "id": "LARGE_AGRONOMY_SACK"
@@ -4472,6 +4526,7 @@
         "signature": "vYECBdZhFobVQ2MZpAjWcL4UM7duRsixqz2raWKFgF2RmhXQabBB9NlYGb/UgEKqX53DK4RmEQ2ncNc/v+yq4dXzxClaRJcJvKZn61mPTcU0PxSns/Eq8dmHL01wy0xIV+lpc9Ho2gChJW7de1GLOyH9UFNv6QmqPb0vcuQE1yXNUvclj60IKfEPejCk7PjSzZa9kNShdVKxhe85AL+rkOHkTv4BTS72Y8wq9LmKpHPoiyc7x8rLzRplnXc8hivRC0awrWnD1otVrC4XjCHFDiXeHuElkR0By4o/PnTJVhYfSXzo6Wrn/aG82mHXNtWxFpyKsah7Xd85QgMUQNnurHJjyrDHjvXOzCMEOuZWLGchb94Tl+qY0iHiRIPGQHr9D+BbqKbbWYE82ctPCbVmhw85oil/iPTlw9ULNAN/M4BJEf3+Nqk51sj0upKqlzX6ExmxAF8C0rYtrgi5EcM5t+WXWT0/qi+MRvMCIVai1SZX+nSwFLxYb/JW9e2ELoY69VRecLMQtg3twcGrhmPcWSsE4PzRSO3G/leikRkOZw3qKQYxH4vRVsb3sPQg4RyQnaEkOZAMLVEf6LnWXLMCFmQZujnSf2ifbW8j5RmubruxrC6o+pfSvK6nuvQAwwn579y7UymnFyVr6NjInBBBK/Y+l5w2ixd8KAo2pqouGcA="
       },
       "name": "Events Sack",
+      "category": "SACK",
       "tier": "EPIC",
       "unstackable": true,
       "id": "LARGE_EVENTS_SACK"
@@ -4484,6 +4539,7 @@
         "signature": "uIShIENFdUhngm4ZlboMJpBE3dwf7qKhUbPYIQhr3R8TSPjbrHxxsYSNPevQ+QUghqIVuyDMf/vXCnYg59QhKceGavLfZI1t2ijQHOSOsaX+vl2PkZvaPee7LzMaldVxi7lBRO4c1iEdn3ouImwPXnv7Brn8NZ6HVrnMcn6ntHBNIz8pPSEzkblmY4zJokR/e89W8ybjutC79FopbBQZabtccY8PL6DAz2cZfYR4w03H0sZLNJV7ewmqZ/Zttts2LKBLDgOPjbrQF4AC3+NkewWKHOqvObQ93YXySyynetKthu/81OG3rv/BtOqW9aQiMhFknYzVY8fPRSry9i4Dk1w8wZqL1R1qdxUV8ftsCfW4240ymLSzKvDyU2WxqFDRNthNBPj4SUGQCyIVntVByG88OSk1JVoz2VUbkA3QwVRaTB7gAiHLj5vNhiWVxqTiKgymmKrFR64xpiUtytC/58DK/cyMdwjQH1gYuktl78Rj5+EIHKHIPkm5KpJOfmMyar56Z5Gy9ovmdvuhASfTG1QoMPkhkzkgt1hU3OxDpVxR8+OwMeFbOmzSRu/rbTGA5K2WOl1gLR8CL66PdcWm+1hHEAixh7NAENtRLRa7tqqMimT8hkhfzD+msLKe6yVL2L/6qUUH3b1eq2z+KVSc+jt5ELuLbFYethSV/BU0vTs="
       },
       "name": "Witch's Sack",
+      "category": "SACK",
       "tier": "EPIC",
       "unstackable": true,
       "id": "WITCH_SACK"
@@ -4496,6 +4552,7 @@
         "signature": "AczaJGAIPe9ut78F8QwiDAPpxUi3jlfkPsmEDAY2j+Csw2/sOjW8F6oGIeu4N0qy9inLd/GgRTNyy1WClBsx//uDORBDJ7JCMuP+ZST+yPFkGwCeLVgMvxRXpI8ItKIar4W4EoVHCdXWUfOREphD2BeUaH4qXI+NzGS1gZ8LaUNSEiukVKaj5YzezT7cmL2zYZhFYKQrulGhc8S0wJw/cfLtPbKUWMcUN3QZGHUHmSBOZjeV2VXuzgCuP6ctVoOH3Tf699bK1615rwZR2krznPSyKW6yX2KsR2WRNLywBHLv0sb6Qd5aQkDj9Rei/UMOH2H9mNpEdRuk17ZkH46S/bR71O+tob2rpfMhUlvPr5IMZe3OI/t+q7Jb4yD5I3VWvJXpS2owW7phW7T6PzSAjaqV7DVJJnrTTs4f2cCAC0gnZpgvXeCccjWW8+x31KprW03RRKzgZVDPIuEDSudQm6pmdPIHBhedFSu6/PR/6NquFsPuifpmYe9ao0yAMIFLkVpblrstjs+7gbSOMO5OdE7prDQDzRzjIuHrNkNlKKtZLkc3DIsBCVE02G3wzxsr0etxgCbVt34wtlBNzXPk03uKatAkt61cl/MxQief+ZtEtfCg75CGS7vRw0SBuESkD9dTlZpn6+5bi9ggeemuDbp9ic29Oqgr3vA3yldAnsw="
       },
       "name": "Medium Mutations Sack",
+      "category": "SACK",
       "tier": "RARE",
       "unstackable": true,
       "id": "MEDIUM_MUTATIONS_SACK"
@@ -4508,6 +4565,7 @@
         "signature": "n2UHVYSDDdegCQ30PGiskdrLwyA7JfHyaVtkyz2IT2SfCsCJfLA8r66Y+2pqk+UDHqyZPmvlzswg41wDBHYOE3BVLeCQEq1nCrX/uoQavk9tkgEFrL93YAjzc43OzvZw3UaGAvC/htW7QmcbDifuQz85JosOvxaZkBPUp4lIs85ERTD1KM+KTJMEzxdFdflXczu3U+KPV+ZrxBY9WXMBDP/UiRBMQIL1ccj2VaOPCWM2IxfcO17Mrx3/Y/WqSszT+X47lE0KsImmFiM66QFXMI/9CkscSB0n5GSmCLUb0mH/kd5/y+xcpgMAb0XWZ4fifhjq0cjh+MK8VqlfgJmc/4xwRVeCLu7Y8Qrw/R2CPSOC8JQRHPBu7qzrAe5AjG7LbTK4BTn5MHcvmiGvEU1WojrSBDPg/q8Vv3sR1vFtm283psSGGKpqxCqWQ0yC5whrwZW5gWdfl8pcqCZBsYPyZR6hrIDV4hEMeyTlM59PR1O9z0inlq35gt0srMMYj6YOkRF1FoJmcb7P+pqfttm5nhEYl4h0qYPQIiDmUBYbnDnixEPES6VYYKLwijBBP9FB2ksidoGigg30HxWeJHgJ2AwYTVO1dEAKbvpCfJ0uy+IXFh5Ct8nKjBg67OdYeFp21IT4uG/4Gqble8ntbncSS5/J+Xn/GiTTZVTX+X+LDoo="
       },
       "name": "Large Nether Sack",
+      "category": "SACK",
       "tier": "EPIC",
       "unstackable": true,
       "npc_sell_price": 640200,
@@ -4521,6 +4579,7 @@
         "signature": "QNyW4WMfLk+agpIb/9TiuXhvoDlYZu1L6kWJ5whUyu2nTstexJEp/+uP3HdIuB7JRG40mZIzYNPRPz0GC2yMJFGggFbwuG837XeWjul3JakMU6Z7Fud03nwiHZS6vrHQ/0iyAKd3r0hmWkGNzwuBpL3bXvrmswhtfB8+bBYlGK9vRvPdEWMpblLltD3VuiEKtDAyYsUAx1Pq1avcSY95ChptNhxKzcjs2qEOe8wiQdEh5UbshjbyNjuWEFibhL7MfNrTF/ivv1ZtqpPIsFk/VPaQUR3/HPyynG8UcrEPELdagbZ337vr0zoR8ZTL1WJSRiu3ymhWfc9/IsAT8H86METW5p2n55hE8QcRSBQnErNaWtD8wtV6bNG25xBTz8RnBJnW7NsIvgTgGO9IINWaOhVwms+sgoeOlt0ld44DotmglzDNk3wKVsoCS/ufh70Zr638qKcWuEoEzAMAt0S1TeCqb7FPlVo92Mc63bCJdBaW80hj7ITn6bxdVnH63cbslGi6UoO16J0rBsUR9EUzVeQ/AxPeIXiAn4Rfe66H9/uNJap53X7a5BpdsRFUbF2W459zZEKQP+VQUsU/0KxV8nV88TVNVAiqAEoqJ60Ik4Fs63/aUBpLdDvYacA9PsFquDguRthHs0sjw28fHldteMtbV30ORmDTqCOW/joIVAs="
       },
       "name": "Medium Husbandry Sack",
+      "category": "SACK",
       "tier": "RARE",
       "unstackable": true,
       "id": "MEDIUM_HUSBANDRY_SACK"
@@ -4533,6 +4592,7 @@
         "signature": "sFPlABiTkHy+weZ4KTBr6Xax+mJ4WLVD2UdKEfm98qV34PSYLfa3AGcVgZw/zcqN8Qz9lAWHg63ya/97tPDUQ9FI/ibvphuOilJNGmEb2/U+sNMYTIea6BKm0Z46nONOZ/fjy1MCLhjvYXZCtZGyzguZfqKe4zK/XKDejFZcrVGnj5ciYss1x8nYFRTHNFswGkFsiZ4ZiMtkdnISER0p80enF7P/eUT7J3EdloAgar+dbTCYb+fq8m7XW0Bm3uZhO2KYX8haxdcdzqgwCwKgHbvsXEOU/kJnsFCY7hU4H/FRVbSPsfE62f5xRjnkILU0x3C4ch+RcCCi2OjPpqDfMdnDS37xdWHtVhPIqbe7AV6u5fJRoDJjpXOkPZBDqmK/Dxdzq7lSdtGBIPp2c6O8zFIo/PEgP2YfXYi5BrW00SbvBrVt5CaIbcLwv9EUJofgwKSsc12yQIewEjasUg61QBLV/iXM67/3+oJSeQwnr0PEdreFNIOHlTpcYief0DxQUF4oFko81kWgaepASafjyKYdjCI/wAaRWeQyyf9ofeFYP6FOD+vTiwWu/Anql8tMeh64426Jth36AWl9NIbDLyDHCYZ6zuHSryRxGX5efS+QpfaX3ki7i08RPk8kEXUFRV6pra05ZHwfCoL5njehTMGQi2CR/fpDG6SgdsH51oc="
       },
       "name": "Large Enchanted Mining Sack",
+      "category": "SACK",
       "tier": "EPIC",
       "unstackable": true,
       "id": "LARGE_ENCHANTED_MINING_SACK"
@@ -4545,6 +4605,7 @@
         "signature": "H6DxWO8OcgrChQLa7BfwR5iNDEcbkmmuRcztoxyfCh8byehfRaxxqytYspheAwAuWhPkSKd24AkqSjoMVIUK27jw+sl557BHTIFxqcxwMbEg7fsY7K2Wgpuu1LHVOv4kPp7pucdIgfA1RtNNtXUZPoOFFADx1p6V0zFz5UJkA+zcQPnPl2DVNJOtFVobCxKRrOcHTp/S//3adSNnFQMCHLXiUTrsdjtJV2D6GDbE7mDiKEwxYYqRnFLXNOoZ2MrSQ2ngSlXiQUWBpmaYLyBrYpQ4tvbxzXO9/3fztAYv5LevfH8GbQf7kVwQ9Ekv2TaNdquH9ejDez5ED9FgPz6WTgXWCjLuPcGzjykBCqdb0a/w/yAYLNGkj90AFusrMWfueeEeZqC2MbQCc/K4w9r3XNJ5/DUlNa6UzvfuGqOLWM6vQ3eTDqTU5YXV8RdoyNiqRD8K1oRSaBdmbG2hVD39Y+n/cePavumLhnR1p23L18b1vMOknKGzMnl26VVLGliBLC1k9uf1pb19YLS4/cuZBWsMGT1S+MEpYLw9BA75aEoQ1wEA7fXwHjaQTYWqoRSjyMW+WRMQI2b/JyiTPvdSNhh6eB1UlZ1v1uzL+e/bWOJuQcqxh9VpvWgvKtbtbSjIBlNXMAaOzInOi2Ll6DfHM5t51opXJQWF3YVP2S7wh9g="
       },
       "name": "Medium Combat Sack",
+      "category": "SACK",
       "tier": "RARE",
       "unstackable": true,
       "id": "MEDIUM_COMBAT_SACK"
@@ -4557,6 +4618,7 @@
         "signature": "k2UdXvckyUjufvIuridaY0KlPhKmNAntL8eesg9vXS/AOqh4xyRuZA0kt16IbSmcYoGr8zrDTymvcIZyddDoIAkMsWkn8MgAFtPDU9Dk5686PVraR3nm0+S8jyjWLZpUiR28b5Nk4pJs5a//H8NfvpGRgIu/R6iJo5Xf+SffkkZ6JHGZd7Qh9mi886kjRMKe84ozykUIqs+sWSvUUqI/tRdYUzFvm1GQekEyH/XRbUSfiqmA3ipCRDxRon08eu6t0ks+rXtQhdIhcJqi7RrV7nGv6ct2Xls63wg1qIaQKrt3PQBx7RhmCfPoi8yg2MwGC3A092Eu75eEp5nJb8FWDBJMVzpRm2BsmkpVQ4NsKiaCiaZx0Nzj55yldjcIBAzEy3sIMW7wlgVoUEeq8Rc+hD2yqD8wxaJyrRKt4nhX7WPEARGa1CEFnat+yDnOqtTq9qL0vH6cPSt4UFmYtxdbslHUITs/ZgXnNTErHoWJp1D1JFCdK/myX95hVFRuqi2WZPlz0CSTOo/k50BY4N8x2fDjli/FC1SdvbpUGNOR7otjju79QywimEgaMijr7+MmgA0Lgh/RTIEM0bj03tyDG2tJA6skRWYjYWoSKlgRRWekbkCXKbw+TqaOdO8rcWWTgd0DIis0m4z5pbzvcJEI+/J651XxfaL7JIrW4UKYt/g="
       },
       "name": "Garden Sack",
+      "category": "SACK",
       "tier": "EPIC",
       "unstackable": true,
       "id": "GARDEN_SACK"
@@ -4569,6 +4631,7 @@
         "signature": "AB0Hi4RUS13/2UZ+CeLpmue5cTdXsQiQrseyLiLYF7l5/92nAIr/bd5jsNZEcf0G0pBagDSuBrdpq1fI/9ocCR82hUfAOcVeott0Pd8tUayzo0FMk1zME5N4LujtOsoxww5uYz26mkS6DL+BKou7OMOP4vbTQdPVgGZ33imyRwyFm1B4+VKEEz1yRztwtnLg7gZVVIvJ89QdTwCwxTkF25f9iSxXzM1+p+IDx7pS9/qNUJAcx66tYuksqxIpXptAcu6ETp45+YB2evhjhYaQE0zknOytzr5gpmJvsD6qU2OH1hBtsPzDr+mRcBvyFuuhrB5GieppTeWlM5Lj2vfVOhUoNaYpgK5PFV3I8hzTccBXIpFE25iD+9qD2TxP3J85Kufwc4UA7/gxX7oRmJXgNt+T6UPDoqxMhYsalyv9dAPidkCRujfM1TeBBlaNyD7zVOyxbMxVRVMmOoGmS+n7sOPjB2rtkfKLCzri2eIwxM8AZ1lft2G+4jyTmk8HVZYwrTsRe2pB5s4oaToE+Z8SLMt+ax/oC5tTAcGqahnOVDClHRsTo7Iajh2h7tesYcxzzGA7ygEUDPp4/YOGwDTd1n0qgJhum8bPbmFRnBuflneh2ntCEA3NvzhWFLK/FUdrLAIrYt2t4j6CRR7Rp/M/SEFNZlad91ZQxGooLAxlN20="
       },
       "name": "Silver Trophy Frog Sack",
+      "category": "SACK",
       "tier": "RARE",
       "soulbound": "SOLO",
       "unstackable": true,
@@ -4589,6 +4652,7 @@
         "signature": "eX2GdqTWPO2NyY2hTPX+/Zp9ljRlhYN53zqEVpMHSGckE86mQqWSmPMAxA2iqdcoYmtw03uoUsGY6qWVdWQF4dAFL5vqVNhlLHmkIBJAMRaxSuWsBKir4qYOijxISZuf90zr124sXZx8ow8ce/zYpBRC/cadk5SkoaXmC5c6NfvhJaEQcjnBScH6RFGRX70il6yIxvJsbREDqqsxcQdlFgboXjmRCSvHEoMHz1tQHvJJ8bIs0ZfZD5h55oH3zgAQ1ot952Xv8ywz6tZnW22U0+a5g011uXO4GdSFDBQQceCxuqSkrJVtAFm8f+UnVpbOD+8qUt/XBvSfeaEgt9lUx3aP+IbiMeg7LMX1u//pavIxg28jC0z2PS7Jg0s2VQqujPktMbzHH89Ych6i0ARdiujVqsv6mygzzwd4n9CrT6QTXbolEoXzf4dlvYabB+UIzuwS9sNqJCA8VYHw1VR20w8J36n0w+tfndiyHNUcYdlzBMm60q565AF93PTyXoO8NkELS6oAdm1T8IguNK+vR2IwvLClmXkex9hcq5b382BiU3s/Jkjl072jKo6hi2M3P7FSXKJUwTvoSZJoFc6O7ZadUgOKqM5wfDM5Tijedsgsc16HTCHffA3sMpNO1i0p0uRv4cPTEQGtEIE9NHP7eDWQtKtuPU5j30N+qLODZOg="
       },
       "name": "Diamond Trophy Sack",
+      "category": "SACK",
       "tier": "LEGENDARY",
       "soulbound": "SOLO",
       "unstackable": true,
@@ -4609,6 +4673,7 @@
         "signature": "eX2GdqTWPO2NyY2hTPX+/Zp9ljRlhYN53zqEVpMHSGckE86mQqWSmPMAxA2iqdcoYmtw03uoUsGY6qWVdWQF4dAFL5vqVNhlLHmkIBJAMRaxSuWsBKir4qYOijxISZuf90zr124sXZx8ow8ce/zYpBRC/cadk5SkoaXmC5c6NfvhJaEQcjnBScH6RFGRX70il6yIxvJsbREDqqsxcQdlFgboXjmRCSvHEoMHz1tQHvJJ8bIs0ZfZD5h55oH3zgAQ1ot952Xv8ywz6tZnW22U0+a5g011uXO4GdSFDBQQceCxuqSkrJVtAFm8f+UnVpbOD+8qUt/XBvSfeaEgt9lUx3aP+IbiMeg7LMX1u//pavIxg28jC0z2PS7Jg0s2VQqujPktMbzHH89Ych6i0ARdiujVqsv6mygzzwd4n9CrT6QTXbolEoXzf4dlvYabB+UIzuwS9sNqJCA8VYHw1VR20w8J36n0w+tfndiyHNUcYdlzBMm60q565AF93PTyXoO8NkELS6oAdm1T8IguNK+vR2IwvLClmXkex9hcq5b382BiU3s/Jkjl072jKo6hi2M3P7FSXKJUwTvoSZJoFc6O7ZadUgOKqM5wfDM5Tijedsgsc16HTCHffA3sMpNO1i0p0uRv4cPTEQGtEIE9NHP7eDWQtKtuPU5j30N+qLODZOg="
       },
       "name": "Gold Trophy Sack",
+      "category": "SACK",
       "tier": "EPIC",
       "soulbound": "SOLO",
       "unstackable": true,
@@ -4629,6 +4694,7 @@
         "signature": "A56ZJbsHxEhyvPhgxxf1kWvo+BbMBl6HWvAgAAm/7dFwSytmv+7G/hsshr8Z+ai2onFCjzLfzmJzcxA3Ln7S+5ZZHw5LFaj3HU6CS0jrbNmOA/zh8kdZH6QTTH6LsXmST39+TaAGVYUhtpTJn4JpGLzHcxyUIsxLU651UyJP1+hI/JP+uGqSEHiex0/I3Ez46SSyQRf5L+lrRAaVOiu2KrAcYEK/7wUJy0FxH5jLmCqqc0xFt6IuO3HYEus4719MogfLD03EvM3+7dPT4IX7ZC7JYM38RubTqFvOO9iXhxm4oVvtySZxJz2Ib3l47G6tYtRuqfKPdIeg9wZl/UnxllAZTIYw66m1BNyd74k9QqRmaNWsBxyDUl2bP7DZd1ES4IgQPDkXkGdOnHd7iqsA7nIODrUoT59q7aknaWgf74ShR1RG1J1/3hLibwJj8FfyixMk/Vo6Yrgvnr3NV5VHKIMzl5Gk+pPhhKlkBroXCr1eFSFErqK9t8LfVtrcr6+AVBAk9Pi2fifxAegTVfqOBaJ3L/vHqqf7f54TIg4hXHLtCJDhIWUQhjp+vXYfS6KJ7Wvu3vHzUV/vui64fMs2mbF2THVcAwChTx0MCkS6TPrI3Y2yfsbUkLa3KRiixwLJNYJr9jrNQ4P+Sc2Tx0Ha+VYEKqsYsdVC9RNCBBhGI+Q="
       },
       "name": "Silver Trophy Fishing Sack",
+      "category": "SACK",
       "tier": "RARE",
       "soulbound": "SOLO",
       "unstackable": true,
@@ -4649,6 +4715,7 @@
         "signature": "I26LhQrhaCkBewpQjpK2FhCYGQ18xxtpNoQBYpmvunGM+GWYYJcU/wIZ402WkZzQEGNfIFufSv4xCcfOtWBeacH0B5j+zsxtcgfonjDu3ejylVXNDQ6UrgpHEE70umT4x3zGcRu3o3PW9RnUnnGYk4qm2WmNCV/vF1+GwO71UayXZUfqML272MBWxytlqO2TsglCCP/QnKhw/B+TDngHohq00f0RAeMFVjizo+2m4Lo3kx6+0ftvgxBRw6aE/cx0pt39A4WZ9WyfGQ4v+ctHloCdwz97MaQkN7vZ1WMEMu3J1YMemwTrn0fvdJlN2McjofnzvAypXmG7LSS4hZxYQxm4FngaMN8FM0epj5L7UETQnUEYom8Dpe2adR+76A2FVmuvP3MTZXWXRo+5SxGZAsaiY+K51osOImEX0Jyf21fq/Vi2GEvDi6x+O8KGGQnx1mglVRqFoFg+uzcnLYECsUOe3ERtf/bLU0jMvpvOhrVY1MWkzbVHB1jW0qlmmO9pi/0lpOA2ag2Xb4uv2X0IJML/ChAKpnPLdN9c2046Ifv0pf3isTyBa963vvV1dJBw2LK6Vhp+eSyVBCILKz2SMiMH495T8G+yPmnRsBs2eLQfxPruyJ0q6tyxykSpm460GvRemCG7upci012rnNimoWq2plK9tTQlcuaNXVaRUJ4="
       },
       "name": "Bronze Trophy Frog Sack",
+      "category": "SACK",
       "tier": "UNCOMMON",
       "soulbound": "SOLO",
       "unstackable": true,
@@ -4669,6 +4736,7 @@
         "signature": "eX2GdqTWPO2NyY2hTPX+/Zp9ljRlhYN53zqEVpMHSGckE86mQqWSmPMAxA2iqdcoYmtw03uoUsGY6qWVdWQF4dAFL5vqVNhlLHmkIBJAMRaxSuWsBKir4qYOijxISZuf90zr124sXZx8ow8ce/zYpBRC/cadk5SkoaXmC5c6NfvhJaEQcjnBScH6RFGRX70il6yIxvJsbREDqqsxcQdlFgboXjmRCSvHEoMHz1tQHvJJ8bIs0ZfZD5h55oH3zgAQ1ot952Xv8ywz6tZnW22U0+a5g011uXO4GdSFDBQQceCxuqSkrJVtAFm8f+UnVpbOD+8qUt/XBvSfeaEgt9lUx3aP+IbiMeg7LMX1u//pavIxg28jC0z2PS7Jg0s2VQqujPktMbzHH89Ych6i0ARdiujVqsv6mygzzwd4n9CrT6QTXbolEoXzf4dlvYabB+UIzuwS9sNqJCA8VYHw1VR20w8J36n0w+tfndiyHNUcYdlzBMm60q565AF93PTyXoO8NkELS6oAdm1T8IguNK+vR2IwvLClmXkex9hcq5b382BiU3s/Jkjl072jKo6hi2M3P7FSXKJUwTvoSZJoFc6O7ZadUgOKqM5wfDM5Tijedsgsc16HTCHffA3sMpNO1i0p0uRv4cPTEQGtEIE9NHP7eDWQtKtuPU5j30N+qLODZOg="
       },
       "name": "Bronze Trophy Fishing Sack",
+      "category": "SACK",
       "tier": "UNCOMMON",
       "soulbound": "SOLO",
       "unstackable": true,
@@ -4689,6 +4757,7 @@
         "signature": "LZH/pxwRgOK+N76249xbceAFw93kk/KvFO+4DcneUk9i7VgrKjYrvYEhSWPOmg/8J4nC3yY/lqIvwyxhGBIA/+kHAITCmYeGBMqUzpq6/UJSuLG+GxSsUA1y6//AbM2Ucpm8W09/2TMrk92YmwVjyznAYi/vbMxCWQxu5B0BaU2fziMQQXC7tnxgoRCTcotyLmHnEbBAvnKbKEim1LszbMNUKEpt5jgwtV213M8PYz+/NUdQj00UOj4lnGupPB7fTMTiuzY0yRQJBiO0vZ5tmZ+yIG/SpKHsci8rsUMIomGzppyKvsxHT+UcCxX7D0IPQxfJGAqK8OxbAR7rCjkPcU5hEiapeq4/u7s9kYAfxkit18JRfchJwsOlRxzxnyxdL2WnYlFnmNJnKUuh+5kmPojbLqE7B28q620n3XV0dTwpn9b9KYAS7/7mFpCjRduvPaRy8lYC7ehfdkn3JxlHyHICFW01p6larC2s0FanZ3aVUhJQ88dKHkcfFJYcHss0U0ehx183YPDtJ8HPJffz9x2nYOzn6FUDrtNIAwbO3UetAf8GHAhJaozfsJ96vOLA40Wtbb3I+OTpgaPP3VcSo7ePAoeTZw+JtdEeC9xmV0XybAAQ8eS2gOUUYg2VKePl1ChcwO+tfOwI1HEC42FYa8a+c1oYxqIMYhibnxCxj9I="
       },
       "name": "Large Enchanted Husbandry Sack",
+      "category": "SACK",
       "tier": "EPIC",
       "unstackable": true,
       "id": "LARGE_ENCHANTED_HUSBANDRY_SACK"
@@ -4701,6 +4770,7 @@
         "signature": "xUQtMar5ZhamnJ79c+BLr1ixoAL8/FXHeQseWkqaO66PkS9g6CG0E4DOdEp6xvHqUs/voKSR/4uRWeuMGnPeMEJptHLAjUOeuHLTFv4rEXtwAgW7pHFdZkYPH9vmSoRStDkYE/YrqxTGqLXTS+VDmuLvT44SN14lEaiucEDBHbrlopDLuv/zGqMf1L80FSWm/yttaEdpBt7dEvCJ1arD3ccHAd7KSAPrWCK1D3ab4kK+Eel174EZUFdnBIHhr4ccnn8nQaA0rhtQRnUGA0G99LJiRgEFCNX0RVc2D5ixg2yRHyztal8WivSDy4Nd2EyaR8jQSrEoZj74NnpK19IgPbug0/iR3CoYHMf26rzi5gBzxwtMfyySOHSb5ug0mHnayxbyMub1xTlgePbj96GsPusrbxgF3X1opb3ALQqAqLkSe3/bhcVgo2T6hp4KiKBk/xz/6ajA3D2r7J9O9A+P66rTU5PPYlFIxaGGd95pxo0s2WVAduLtH5I2w6tkDIPlqMZa/ebUR1Q/ZhJisoFAmfGSbO0sdccLrfh6bXaMQT1xjlY33nbQyWBX2G/t4Wx6yIAN/PSrmpMo9QSSIpLPbUUFdadzJ2AE9UW7SmY6+7LJpONmBz7ayfqaBK3BBvPBeCdqlQKh8bn44PL8O7hrxtrs1hz3wIW1X4kobMdAAYI="
       },
       "name": "Large Enchanted Fishing Sack",
+      "category": "SACK",
       "tier": "EPIC",
       "unstackable": true,
       "id": "LARGE_ENCHANTED_FISHING_SACK"
@@ -4713,6 +4783,7 @@
         "signature": "YuSIngQiQDp/MAvQT1D+iSX6rInIBOC06NvrvSjl3/6HSwq3aQ8zL163jBQ0r2awbuM1Ani5/jekuuuXmvcjAKso2RQvMCFIdZ1i71HUEZ8oJamarKnqYWTPuGcCVwkj9gvFYM2B7iso/O8FgFKsK/duXTqeGuxBy2BpuZ+M5Bzh1WDNRXNmVw+PWQx2YIFM8fdH77ZAmyNpS6OftSBjQM0TNA0zAV49xJLUXzUFUdgC1V3tiCwt+e1Y77FO/VZK/m74Y8zXfr8yfrs9DSJvTFf77MLVwrj5aaH0P5k8feW1kYI+pKPG1XIErPmw5oEtfpjiaAhga9KqNONLrf65GpLNVWRClvla4QlfD+uR5KsLaZoSw+OLOLk14xmMTiwlFu/I6c9ndSvYbtBdFDH9Gf+aEIByUEcKdFOqX27brZLdHqdTI/dDaOkmg788Jc3ZcvmXctKU0qOtPK3x4LoqL/kzL10qXUWZSaBcp7lLDdbAdG7qg4s2PX587OXc10vVXIEVD+4LbJI87VBaN0kwnHkO5dsZLb196tEIxYfkhy/s8SWM0b9u4qAP8S+j0+Fehdv3Dcrd5664XDkK7MpHtn+o1mNTQSRBxIWne0Ise5GdaidwwJujTTHYza6cQP37iuKU5IZAb1UcUoSzQRmv9B14WUJWID/Afvur0OAvYKQ="
       },
       "name": "Medium Lava Fishing Sack",
+      "category": "SACK",
       "tier": "RARE",
       "unstackable": true,
       "npc_sell_price": 128000,
@@ -4726,6 +4797,7 @@
         "signature": "ErWoL/UrpG4gd72d/LKLifg4O4iZScMUbgjXeWCIzoT4eFhdFTsmA8wwk5+yif467nKGfnqI53MB9idcfCtyQqiCm97DZyIlsABf0loCEU1Wj3yR3c57U7gR3/jSlWPlwVd6X33hIYDW+NQyopMpEH7Kiszl22Bnz4NSI4GRK9hknU1x1DOkILec/GOPPTwSw/9ha9agEtA6b2fyrCNqCKQ0yctrsjXbMw3X/dxY/cdGBTE32/HTDC6qifBeVN1w0E9RUFHqtR+aYCPyy8lq8l+iBih7pMwgmiBn81Qz4Pl9m7M4QVs+kD92DtFwSGH7pV4YjcNYQFS8BBmpHdziwDc9FgMLBCRQg+dRGEVR+CZlQ8DOYM8aCGYBZX1rOYuoMTeoLO5m7TWPvdNRLyDXLpYE5Hg3ex+6NKT108pafyKqEowXjMcheoxCBGJXMrxRZa56nNl0d2VEpgGtLXixvi2oLpzek3tRT+kDzgAbmXesQJgsVBIrv1+7ZltTu7DX7caDn0ODfcOP16k8/Q9Ljcm68Rc+HS20TboWz6kh6KprMPhNg4DSbMW+VHo+90zfG9ilHekD8GeZ1B0yFCXswOVosYZfngXPd8LlU23m0+RL8BZtYn19Wtp3inoUM6tRbw4ybKYooEGosmWvm4K09dcDk4KNzNaixwXxXF6pV6E="
       },
       "name": "Dwarven Sack",
+      "category": "SACK",
       "tier": "EPIC",
       "unstackable": true,
       "id": "DWARVEN_MINES_SACK"
@@ -4738,6 +4810,7 @@
         "signature": "Q3/wHDUzwbQlxjHQNcMUnhxFMIGXK8NJKs04LnirXdpZq8Qg7JBamMdRf7EaBnfWN38XnT0e+ujmn7+GUMumhGKk+HeYJ2iyrFH+993zzwALXt055QqSKyYYwnkTfB8PPPB72KFTCibVGZ60hev10aKbVyO7wIneZ+g23oVBYy39OI5e4ZqXOZZBZ1bfm8IUHJCZp/oTSp3Rzaejy2wzQCf3N7bN2yuKcozFeIOc+oNy557WvuRPgSjuNn+BEMR1uNLhEgJOeN8rROsAfe2A5nJg2HzaeA2GFGesskQO6m45Ida2gNsaw5z1hBG/yY4z29pz+LPXZVVmzuTztGPM03kLjLT3g0GQyA23XsjLfdLJRZZCNCDOHZuPBsE1tAM//3OSjLySySkFcCBe3Mtn4R7Zw2rOd1uN3IEhP1ciYA2/sB7mzKDnP/2OthtCq1DjS6ka6toGEhCuHZRvnzF+2wTjbBt9aGxIh53iEB2Mf6yMdtNG0yUI5jc/VG++zj11YWQ9NNn7twz6adw5ioh7H1a+TLrm/L03zxSPoYJHZ9kpc0hlfZZIjZAzSGy5NomZOIh1XkTvA8wDD0E/gFBMA8d0pWUuSJyLpcAt4ECmBN6fzmBugun0gyc8zUSKJWJm70zP7YGLNGm4ewdXCavEve0PWusGqM8zi4D2Vzq+zwU="
       },
       "name": "Large Combat Sack",
+      "category": "SACK",
       "tier": "EPIC",
       "unstackable": true,
       "id": "LARGE_COMBAT_SACK"
@@ -4750,6 +4823,7 @@
         "signature": "YWTBc8+M3afGxYcPLzbPdZ1WjhJxcMUvLfEm/7WlsaSOGUz8eC523QIw/1TzrVBpT+tLb9avwL8qd5afEUDiz9hjNiFMs2rJIVIxd1aT4QQR8uGVMtfE7Cwy81AXjLaEXn22KA40rUl1LCvkkB+OrjHISMSfaGeU+bpa4V8c4Rrq7/JnEc1jI1YWG61l4mcf8PHm3+Em6HMnIece2GyXju8wPej8lvMaVs8FQfWKrPhnGUhzhzDNOPm84Ou8sMBRHPOcy6LSkGjtearKm25Byua8v2y0Xp2fd9ecjSjelS+hSGcQNHUw6d1abLfXcmejw9WLL4Q/Y1uUCvJIYtdTdBdSxOiAaNlFhx24zDFEy+iWADYSWYNmg5kymogrJ9sc3/K9bm2O/3vdQpzi7UQfJaF+oKXZ/XU7aSsgLC+mG57v02IacRzj+oVpCFtzf/ntN4jmS/6syRdXSbumuhhoAlklqxiDZ9Na67E7069HSOv/BgWaUmss7yrXryFbM40gO+lII065vaOl0o57bkZKR+AZY+RutCI9dCSe91AHRpLip5cY5BbxWi8/fG8odb4WEEvQVJ1zLdHHOAbPr2BdnVquoHjV1pB6liNZ0xE2oMZW62uFFHTSpHmHPQm3YQByBKfgNKCdK2RA0vKKTCKnKOBGeglthb+Tm+GxhI2Vp04="
       },
       "name": "Large Slayer Sack",
+      "category": "SACK",
       "tier": "EPIC",
       "unstackable": true,
       "id": "LARGE_SLAYER_SACK"
@@ -4762,6 +4836,7 @@
         "signature": "O8PaHCW5YdXNWmu2lNr92OD3OoIeyABLRW7x5egtaTdXPV6/DNWeWkEB2O62vAYTTik7f4U4V+vrCH1yB8c/zFrPNCTeKqigkHtiL9mBTJPzFFuFQsk3YsllFvut7h2t7wq0lwUdCaHUphDiQv8ZdUm9RkQgONKb9iDchwEjWXSI5BK2dnj9p3Pz5B+p77/M7vLXf8nifemPoDXj33eqKDmwi/faVYxAVOzT+1xF9tGpuMVqrDeNuBOw9qr1FQaCHgMDzwkWPBBrju60a/+hiy7PWJohw68hBX7p4l9cbFNs/dmB1jnfdyj66xMLpYKMTNuRTzjk4K2RRDM7RhW/+nxtf84DKZTcAeMEcwGTd0VGtflBwqwf8Pnw7x4sQSdiHiD28r4aks4KCwD6/e6iywp7RPEpaaiVt1cbtPBTC6XEwtKE1M8V6oN3B2lKgx1YsuXEx70Q8pUv+1i7J/Bo3Ox1v7XKmmvjR7o6WF9bznLcVnmVuS4cZtkWGz3ynEJtdOVbluVMPnUudCdlVYvtKY58udwm1relBzOUSEWXJQOneLG09vH+nEuPn+hMxtAlFYJWpp32W4RAzE+g8UGz4RtXPQJ7LHQEiOz9xgW76BNf12pemxqjx3zcXxPHCcsN0KnotyKstgm4eMpN2XaG932VTb9UiL6RyUvf5nje5ro="
       },
       "name": "Large Enchanted Foraging Sack",
+      "category": "SACK",
       "tier": "EPIC",
       "unstackable": true,
       "id": "LARGE_ENCHANTED_FORAGING_SACK"
@@ -4774,6 +4849,7 @@
         "signature": "PrShfrgN59l3B07Z7ul52o1JRRuinVjOXNq07kxRvSz/qbeDhYMg+B74romh+7d/jSXYfGrmjW9Rw7IK8OoV8Bg5T+9jpVFUmOMGvQE/Xpi9kIaf7pPoGLlDQ700/dVMPYbmLb9zCiF7GRl/7YnI/p3Acp4JSl1x3e33vu8RYqQZa2wVOtbhLOY2Te9aq3U146xFPl8e/LUkFGfRQ4cKwRj9JuVFI7tyqdC0mxedbM5eWPfJUuUELMK4k/G2DhPJlXNa0wvk+ywpL0Y6I7vOjrVARFj5jb/1HokY5Pknjc7iHWvZuT7g789khYkFvUOe8d71Iyspih0O66pha+8/XrYTvG+K/2MQTt5eOWzul87OaghoX47iJKMCsmXUkJ+/zLRtPf/d8uXjIyDAcGzXtPyb2MxxIsmzqn94VSKh37bQT1f4XaXhkT/b8cFJZONosgAZn4DJgUywOQ8xDodEmWuig6Ohee7GH9SXWsuGUslDt7QBhygSaJNyAs8yrr6GoARtPfmM5bJQGr5Ipoj7qeV7vQ5HJga2+akV1vsiftUH6erwTQb0LccZG5u1zhAkmtfcYGSVuoU8Ncng87ycJHHZfSK00p3lFi0eyreiGca2i8fEYSeNAfwIm0fzRhXOCuoTK+XNrKLlCiu8638GlbRXkhtsSmWY38vaSqmKnNU="
       },
       "name": "Small Agronomy Sack",
+      "category": "SACK",
       "tier": "UNCOMMON",
       "unstackable": true,
       "id": "SMALL_AGRONOMY_SACK"
@@ -4786,9 +4862,23 @@
         "signature": "cRKKSugNhrLWLexTYgPQyNidVMsSmwOr9Cu2M1I4qpcTDqzU+fjzK1sWerf7ctY+NscyHFf5whIfIO/s/Zus8IU65ThczvcSaP9e5BguQUvs6fEjzf8BlAV++nA1yh3hiFgEfuYVXro56xiW0oUugzhOfKd2+giEWiBj1hrP45iwidP0GxhrkGNa4qPPpeKSdVAvLuYMjJkGS27ywkVXsHY62rISzgscUfIq8iFiekaIM6cgXlaoT0yD53MVVo8YxWSLOOcgI1Pm+9wicG0oqS0b/fr5MJKPBcEuaUbIgRHBOGf/BJT8oWWLPScoiqw9NkoCChiUpNnlgKN9DS12ypmuVS8EkdUMpV0H7ZCxhI24crzm6dNqxsCAnF4UVVOQNLFay7TI+Dyg1A3M7yMfQuIANgQSNMqP3m5R5WJLiAj2/OQGoCLUnvy6masAJD5nei9t4Vvjs3Jbx4l3dFjaqiw2XXdxljMeSCZMOlhsbiN3W4PMcRXK/OVSIs008jXuZoG9QUscDLg4rTg7IB1VMZBoMWFHdtPKB4Xs29OoVJUToC3dLg7NouxT9bM89JxXrmq0Iue1inJSNaPwVcUCR+4Wn0qAV770P6l122HGrQPKbkOB4FNpF/zTLgjDUrAOs9vHFejzoPQsjOlQJ3OVjnLxxM7tW5GUCgSk0hgcoqY="
       },
       "name": "Small Combat Sack",
+      "category": "SACK",
       "tier": "UNCOMMON",
       "unstackable": true,
       "id": "SMALL_COMBAT_SACK"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": {
+        "value": "ewogICJ0aW1lc3RhbXAiIDogMTc3MzIzODMwMTI3NywKICAicHJvZmlsZUlkIiA6ICI5ZjJiY2M1M2U4YzM0OTY4YTc5Yzc0NTExYWQ2NmQyYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJLYWJveWlvIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2Y2MGRhOGRmN2U4MjVlMjFiODk3ZDYwOGZiODg0NmQ5NWIyZjgzM2VhNWQyNWExY2FkN2I2MTAwZTg1ZmQwNjMiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+        "signature": "NDySYsSwD5JRniznzVdEg6NOifIxavZ2FUm2vZAa2MdqqAa0+xjBWeYdzffEQO0sIwM2uurF8mMRmj7n6O/Jq7gjBIQGqkz3BY89GNtCQSEnwrmcDEGeH52ZErSLbOuPVNePER9iN4JaBoUhqv3zJP1o7QORwKL0N7T3VSBX3tbtwGlJgqbfZFdGcNQrpocJca1uAhL+DTRz9YxtmZ+3SlPR8F4xExu97MUp+EvXgE3E2ZN5nHHBrKy4F3AWwAmRsBodplQ9ZEXHPL4AIMKc/+4dPeXnVHQsZeEmFgxYTHyUagye0pogJNV1DwKPN96isIkwPIBZBplges7+SnTHERIBtc9jaZA3Kp2jWzD0lpds+rPg3syTxhBmAjvETbA0flRiKIy1eyCPpW/kse4Xwnm/TG6nPrYVmSod7/bte7BkB8Fl5IVe7UWuP1Ld8UxAYLxaiJaWnQy8P+rsLuyESLoCToCxjwlFPD2ari9kZ5CICgtvVGIkkexOcNAJRHzPMeqXTKVaMrwRWFqPp5DaTOeeKf+4DDOsJnzZNxtbZ3rKcIKHUUY+TcJRpZPkWJLr3HD7YZT2UYMMvsnkDLnZSXXOK5WPE8OKcHoCjLxmlH08tEWXxdx0soDTkdTGdBe87zxPxP6b1w4nL5PK6sgwz03Qt1/IJZ5kXmIOL5LOcJg="
+      },
+      "name": "Beginner Agronomy Sack",
+      "category": "SACK",
+      "tier": "COMMON",
+      "unstackable": true,
+      "id": "BEGINNER_AGRONOMY_SACK"
     },
     {
       "material": "SKULL_ITEM",
@@ -4798,6 +4888,7 @@
         "signature": "vqT5mT37VQT0TNXInJj01Co2GS87nTo9ZAK7UpUpO5CtDhcKcfFmmDHd9gnHGy95BqZPn21oFhTYYYjeBnbQ9PL+7n7r2OHJPbRU5eiBfe7K1YGT73tvUM6l0r+wp4aXzkmThWEIXp0K+Lak3MKmnHaFx0c+b5TbvzKliUqRIsGq1yoDz9vdaJO0kNURcbK+DRWB7AEJWHUEzHoOSvlEU80jtM9xA3F2i/gAlDLzaluU3scvs2Xqo91UeTwRYvn4Ru4hYlKrsfT7/kGswPmQla67q+HyYTl8pzvdFrUNlo7mGrRVp71BUbfVesrYaPZcqOUihgVgmncRcKXHItzlAF1NSPVyi5rF83YcFmxVcpZEWBFGKm2hmXNi3EzrP99dO1WQg5K1m08o3Yd6POh87DuoT4or/MixszyuJ6jHIPmPxHzjtdP8p9VnEuyyzWhIX0y3bfNjBS6X5GdBiTZX8ByYrl4KXyLePMAT43P54bqjuN80YMTeIaNbQ+hRrQxEWnOFp4f38JkxwyoZ+3OYspgEeR+q/9nAzFR4MFTIRUv0Se+MtiwOM8puE5Wjfin7YnafTuANWM9rd+a1XRjd8x1k/tyl9lVtSBFm2kAKrBPlenobANqikH0hg+68Oa+PyWtu/g1N3I/nmWJQ7lvqgU3SLa6s4Y1xA1oIv8jXUDs="
       },
       "name": "Crystal Hollows Sack",
+      "category": "SACK",
       "tier": "EPIC",
       "unstackable": true,
       "id": "CRYSTAL_HOLLOWS_SACK"
@@ -4810,6 +4901,7 @@
         "signature": "SUxFcWWHvTGWJFMN5bGs26c7Esqfc/JWMZT7yM0QAcoHgDxivoud08gFs00Kgvzvjz4D6gk4eKVB2zzUXXtvHt7VhpWJB/NnK3YUGKz9TldqaU+kwrTnrfyXBMethEExiLDGpUwhYOPDu/bP5VnlFTC51aY4xH76NWiblcB7+Owos55sVGMLX3qZi+9xmGuxvSQR0izSfEEAa9KnAZrBjMmXxBkNYf3eJqoquXUTSS+gwzbCfSm/7MNx+hxZFPGQmRq4H08mjMxXm6faQlJ1xb2Zg2VANpBiPA54nUv/bmEXa1mT/vhDH0o5BPIgr1kwPY5ElUyl9VPD7wXHONOrXcdDimG4v2MV4zOCtwPRfUGN3HFqT93RQW9d0dZgizQ3dpGmWv1hqr55TVhH/iPmkMfQnLqNhA+6Z6ZobhXUBwPesMHsuzqzkzJNKQnQ708wTOAKzfECxjBIXqfWTpS70AgeX00wMqqH8CXLtue//17y4mgDVD9dt2+uFBnOMXvnIAIqvIEH8KRqjdnz2mJQYOpnoe1b35ep7Mn8arQTDTLuYPWaFD2NT8bcqQiDssznF/WQQTKCGUQ952LUx+sFMfe64NBg16opDfr3oU9UADUNOoourzi6YPewT/5KQu73aTgYOGTyzltMKUSEsDzd3f00hze43L58zGktKmM5/fM="
       },
       "name": "Medium Foraging Sack",
+      "category": "SACK",
       "tier": "RARE",
       "unstackable": true,
       "id": "MEDIUM_FORAGING_SACK"
@@ -4822,6 +4914,7 @@
         "signature": "GXeDQYlqyu/nVZcYi+h3nil2BvbVY+zbuRel8h4WgwNK1wJU59t3QXDk7MKW5V94/XX5bv8i4Dk+oCtKVz3eH359IncE+eN7L56PHX1ZQiNP4gcYZketOZSr2YvYwCJFkfnSn02LsKQM/KtoMZMubjjGXBR8OuYqZCCGAOxaYTrzJz1nkP2uc/SchhapJ/Idpel/ZIQknRvLMuFcEgmnkRRkU2Bwy6cpHY3hoK7mSa1gpsFCnxNbTi04F+U2ZXzy3GJdpiR8Oq5hvHfxzuVfY1yTQZOBa7+UoFPNmdWRvI/6v/ZRDja/01CnmJZ8wpspOC2WMh2V+p3kNcZVzrzW9knivseS0w9lrXz3JWv80bUHNYozUQXoQ4iUx3DdFO37TDGD83Do9/vV382HE9awXbx0P1jcam83N0Ib8309ce4NOAJOtSlggoBU8nwXe8HDSuW6ZQk2zhaP5EReRH0l0AjNm3BvuLmABlgGMs6SAjE7qQSr45dQe9a2N6MZq1861YIiwIWaSVAJcp4hc//XH78yGjeiDemxHga8lwM6d4cHUzfiJhrrfQYnHj2hiI8ES4e51Du/sltB/dA/Mzxw2ccoS6Z9WHrzZQxlZifhBrjGrovCAdP4GYlMzP8YXoYXduDw9bAzU/sGZMz3c369ncqi9qSDlFvgC9e8yCuHx3Y="
       },
       "name": "Small Slayer Sack",
+      "category": "SACK",
       "tier": "UNCOMMON",
       "unstackable": true,
       "id": "SMALL_SLAYER_SACK"
@@ -4834,6 +4927,7 @@
         "signature": "IbGuQPCxMyPfcYDzzghnt4llaQaJ8V3eKq9oQqoy/QRJbigA2sFD4rIQoxh2aTs+6hRiJJPCEQ7PWl2a30JSpB1F0nThIxbmyNHumOE4HJyOw6WqwcJKuNQsw9VmfUbN0u4k07MRwTLNnMgyQQzEdpRAw9FvELbwYwjFy5wN/aMcYqxX3qfOHErUk9R778g+wTfvqdR2sKtWFlnJFhHpqMZ6JcP2HaVM3xOC3/Ws1gOcjjuFstJO0vfy/ibSnA3MaTVuuEGs/G4YXuDwbbWWlyVRqSqDCqwXCCKI041RDI/Xxi9ubXWz0fqytgZVQbSYb3vwDQPXL3zlCzYAosB2pqw7/ylocdAsgbOmWKL6IOz348k9DXYGutFJRe66rhOhkyR4Uj1E/Ora/mRKLCbxJicQjmVDCpV5fLQUuRGwiWBJQSuwqF5MwgCCY+LlpdIqW8pFGzzRDoK+7/fJELfr9bZIDGzBbmhgYm6OvcSohZytBOqrEX7gHSOM5EkkJyBPEkLxjKJKNrx7sBiPqlNBB5fj6k6b6rUhC8Q8wWfAguXjQ7NjwO7l0CRMuAgPKSxKMWvSreY81hLm+AoE4cthcTDSuqIaxueqIzHMgx2RiZ79rcUEihNKKnrWskpozSxRef+oBu0BwdVWyGHSofqsBfznyN7VzZkzdYJ5Z34l5x8="
       },
       "name": "Large Enchanted Combat Sack",
+      "category": "SACK",
       "tier": "EPIC",
       "unstackable": true,
       "id": "LARGE_ENCHANTED_COMBAT_SACK"
@@ -4846,6 +4940,7 @@
         "signature": "QISD3nMO02FS3WJYejccU8odxgDz96q4oMCCQnxmg2bASkT4ZDeRmtzh8C/zmRoYtNvpVQhOTiaO4r0eE2hLjUjFYpoHo5py7oZ0vccqmjECgPIjdmWhXaDXL3GZttO3Lh+WXLv9z8KDI12PBdCeeXIJpuqeUPoLTm1kpkfkpGJQ3IPl8rup0Y5ZfxbHh5YZqHDey8JiHcfPYFRWOxk+oQaIa7YAl3oRb3zRdiTD6t80DMboQw5FOl/GPliLlraYBwNADpFSwopleGiNtrdWG9rAiPtyIKSxrb/QiCK7/AdXWtH+hK3ODYCVjwbnK8FUmBWji5quPf8AYpN0VuFM5SdK//zb41WmpaTkQGUKRE2I8YylMcQzKL0H2Wxt5ZeL9T230PtM57ydcfqg7Lo53+GjTwou1KEqUN/85gtqQNkTfVbh8EV3UCRmblwzDt1f8hQw5Ryz/ma48NeeZcTliau+AXRw40P+9TJSULEd3KzYQpjYbf+R2G1yNPPoAN/FJTyeOklPUO76jnaJwL6UZDr/Leu7LEtEZRKvEyzAlpPyFRwsRzHfPcENm+5iyx3FdiCS4o1v3/WvPiv6EDXy403Qkcf1mjJ/nbk2d+42b+N3SvEtqti75SOHXV7ggsbPTEnmUsabKLw4FeMpqmhcN3H6lUSSgNqVBhAYzFy5DRY="
       },
       "name": "Small Nether Sack",
+      "category": "SACK",
       "tier": "UNCOMMON",
       "unstackable": true,
       "npc_sell_price": 16400,
@@ -4859,6 +4954,7 @@
         "signature": "jOZ3QE7PvzKGiy2WGoF+nRgCpgTWnbPCkrfQkQGni2pR9/FFDMzkJKNR4bCIyX04XNZXCtuP1B5/SZl1tcJDJt09BhEhUs6Sfc3/cdsxaDIXO5qHWYJM+4QxZ0bi3XJY8hmW0RKB+fdgdOkChxwMSp/8tzhTBm66WStAI+nIxfPSx0FVburKBXDxANOeZo/54lnSrZCQcJJvOz0uSTb0avdesFDRmWC18O3LpTIdRhERaHMx7nhlRZttzpU6IJTssu7prUxQ88SaLBV47qyKSV7zfDrRkvlKmCMGvfntrvB2c0sluP+qEH/eCPuBD/pqJe74gne9Js3A4aphnjfG5PYeoqFYAL5vbSbZXc5Ifz3+DqxqLsi7FNutrIYZgSW/zLhoXLonGs2AzQp6AuqFdaIvMgoAKeri+i0E+xA7dqIPiNZyV1mDLngE7+nt6zU7aNRKUQ5nyVsUjZd3IbD9mapGNiUijGhGS/9UHt6IF9FaiVRCAQULwQqLiS8YpybjN6Avz7YpuDjV1umm76b2Jo9U/48oIsq5EHk7pYCwRMyVCZizJfecSUeeC2BHOzbdn7YH2+WsyDUwVgJS80dfWetPDEjXM3wEE2FkS+HnYxpRaQYJK536YJCggaClojKvfPDX5yKsdUCTXAjfCQgXzZ2HnB1DeSY7T/Mvr+fg7uE="
       },
       "name": "Small Lava Fishing Sack",
+      "category": "SACK",
       "tier": "UNCOMMON",
       "unstackable": true,
       "npc_sell_price": 6400,
@@ -4872,6 +4968,7 @@
         "signature": "A+9tOi+g28TZykUms78KY2tFmiOs3RcSIP8SquxLHTjiJ77tFJ8Wh51wNmx8eduwzBN8aYqxy9iQDemgUetKaJyZ/eESdG7h2YpnxZsjrk6Dv6zgAmOTm4xL3G4ZW3xYeWu8QWu3NxUYqsgq8DmiWqGOxCYvBtFNhGKv0uU1wyRgcfpdZO9+/0c+gmw5sSl6LcuMGJ1m0A68ZbGeHvdd3ZS9FsHan07LlmTO/85IXuiX2KKQv7ZdGRXROXVaraEWZjmwQfmGfxmTPSEWHN9SCYxv5DInODUJQgO4iD07/yFxwH+Q1UzycyMfEMZcdaELUk/aMFhQYgQCyppU2sVRjGcHDSPNhBVrcNqfN/0odaiFMdNovbZS454eVq25DN1D0n1ON+eJa+lASX2Sj9AZX/NyB/Ln5hj9WpzSeLf5OHwjKWxnESfgN1A3ju1lQOawlgmi8H27b4FY2LUOV93HKb3lxfeC+XguYevP6udIH9J98rWpVVyN+gn4dkzCncwzxRn7+xq/ziZdMhvNW9oecqKX3Mwpzw2iZs3I/CGicusdP0UxoAhCzSnNyVGSj9H+hRORRvBewAXSsriGvn4fPkvnm+ldxXu84/M1V7vxpthy3svdj1894/+mF1zpQuMiy+yNQm39Ha0dZgdVgkUT5qIAF6vdDPZzkY3PpaSYgkw="
       },
       "name": "Small Husbandry Sack",
+      "category": "SACK",
       "tier": "UNCOMMON",
       "unstackable": true,
       "id": "SMALL_HUSBANDRY_SACK"
@@ -4884,6 +4981,7 @@
         "signature": "GTKH/jtCC9wtZb7Z4nsjSMXQ5Cck6GI3ufwqtug/xgUmehmzT8eWDyhRBd/mQ0u/vNj4YsuO/EwllhCJE9JNeeS4aUAdy2Te9wUoUf7JQFo1AEuY4pE8iHLNDyPm48TvAruOYjwqdwg3ev5jOb6oLGjWIggecJ2vjeaAc/+rKVr6e+XZB330i+u/wmvAGGO8F/cjhM3QI4vfijQ4GzK7oLF2luBIsSEz/kcEKY7w0+nIMrSVbfgFtEGuakuk/3LhPAoc3iiSqrRXcpzIvpkL6Tgk2sDLyVN583JI2gWuNYAAuatgl8yEH7A2vZqQFw5n+O3aAHlmq+4LH1LWagr7/40AgEwtVG7J6focxMXUng/W2xLfdJWsAahWg9XxCRFXZML8hroGXHdnwkuo4RCqqYaxkzHP5cV0sAbApE39R+++A5mNaC+5Gg8I4TdwuMCGJ0tsu9qP0ibbvJdGwFofPyTys3czm6fnlApmTMll6cu3/yY3qEkg/mXMXtQnMVtT6oLGwlVS7KazziLT/ixQsY4vwYfJEUZkT7d6wEUs+ARisbNYo/kI87ecuoHiVijgSiqtWJZvqOfnnBMwsr1+KB9b8g3dLc+1Jo1KwHpAVbMbE6HcxSi3c4j/DZ2DuuLcqghVe5rl//drM+Tq0nTV+mgPjWfYNQlkbKW+ioIJInY="
       },
       "name": "Small Fishing Sack",
+      "category": "SACK",
       "tier": "UNCOMMON",
       "unstackable": true,
       "id": "SMALL_FISHING_SACK"
@@ -4896,9 +4994,23 @@
         "signature": "Q0M6h1yJx84EsuAIFxHe9jSKe/JUTjyeRIZY73NGGZMBc4nYFlf1EneLLtq9lmlKnHxnmSQTOu05aXPnGD4d2K2fG9lt/H0/PlA6M/TAQPqSegshirvVfhaZTsm7fixuxcxnLAcSShbAz8y+JYijTHQyXcuD8IDnwR5I2WWABk0iaGfx/lS5s9JYCOgabISsAnCWPTuuUibo2uY+ZXgPWnIEvTGXBcz5fK6zdqSr5wesPVvDp/0/3ilQmDhpsRL+4XvLN8LmzmtpKqrueyfnakUERgH0zN3XW1OOFWT7LpmMaSMZzvS3879pMyYkaIm3r4vG1U+UWkAdUS6LtU/Grk1aOpQUQYQtgFrKMvuqF6YgdZ6aUh/sqKwgC9QYiJQhIgvb1WOPtVZuUwQS+etqDdvZpzsZG5RKvl1hUN/WMfCQLncdlLVKwB7f02IL3jNWmglRMpiaFzHTlfOIN3pPhFedho6+U8ZLnk26yz5OmUD5MFV+zXlSTpJmf5wyN4F1gjpW61GbAgTjPuhAjZ4hK4qmZ5znua99TR/Q4U3tAVLtPi0pBolVZpQeQnBKFoBdycqQ1hxeychLHA5k3d1Fsxhv3ohQPkwd9CRNjaT2sFe8AusVZGtoyOsp9XMbNpyfhYSAX+NrPsQe5iNai8m/WF2nsrAZcTz+KkU5f4Fq1Z0="
       },
       "name": "Small Mining Sack",
+      "category": "SACK",
       "tier": "UNCOMMON",
       "unstackable": true,
       "id": "SMALL_MINING_SACK"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": {
+        "value": "ewogICJ0aW1lc3RhbXAiIDogMTc3MzIzODMwODUzNSwKICAicHJvZmlsZUlkIiA6ICJhYWMxYjA2OWNkMjE0NWE2ODNlNzQxNzE4MDcxMGU4MiIsCiAgInByb2ZpbGVOYW1lIiA6ICJqdXNhbXUiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTVmM2E4OTQ4Yzg2N2ZjYzA2YjBmZTc3MzRhMzc3MjA0ZDgyNzQxNGY1NGRlMTY5OGM4NDk1MmJmNTM0MDBiZCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+        "signature": "OCJt8KhFfi2hcq2N6K00tngBTfE6zlNykCVoEgSH+opripxziXOovc92yYcYDP8lJpjduBqa28it/K2ykhd6YS7quwbrmUdUBYe/42aOyR+JuJ44GriRgtFiDUrJJFEDmXujOo81MuOv6lvZqXl/ONpVUh7gJ3n5dLwNYv+M37RQoTKgT6qtcafi/HwD3V69F0B0ogctvE3jA3iIcpEb/w2qYmYF7zWWV/+CcM9Rl0BFMnQwC3uDb8JuAkViM0ipYHKnmP+fcxrSZYuBUam3jCWrM5cPr9+wLg/KNE2gKNjRreCumfme4Y0e1jZvVoyd2XuJ/NQbEeG1X9oEcAT6b3VVUyufbsq/iBi2+v6DzkMY2phCksNO7T9MnHliL6P5XLTjBI5RDy9x0wAkSshpYHHldLJuJI0113SU3hlzxKyI6ErB1yF5pvMaVH5gbPYkwcEzrzG2fvxTAi6snAdztp5n67yuOn0BXN2+rbXhwGDX5jkROEggPsQZT1huONcLUr/A3abQ58tDh/vBBHteumqGnSrhRRvQg0BEVLSS1ZaETBleYvdie9WmZzihonSoNiVQXBAtKyKQEoN6L3gzVqgx+3MPwutgVoHlzePQ5kUqWBB5P1qkDrmXHforto+ETO/P++MMJqSEx0BbsM0sFHPXrwEnoZINYKbAqVksvSE="
+      },
+      "name": "Beginner Mining Sack",
+      "category": "SACK",
+      "tier": "COMMON",
+      "unstackable": true,
+      "id": "BEGINNER_MINING_SACK"
     },
     {
       "material": "SKULL_ITEM",
@@ -4908,6 +5020,7 @@
         "signature": "kWRtUxaHrEnuufNz3cdCpss7Tb1JEQpE8qhKOKd+YU7jwmaGpP2dpXnJCFyggCaAQL9sNj/Wkt0wJ8EI4LTCWZiUtSEYXRzs1py4FzrJziqru51UN31kwBfn5iQAcmTKhrhp8hEE/4Ia0gPOTYYlBBHcD+SGSFVF9I6TBPsw7fK2bHDaxZI7y3Xihfv8EFORTRkYzwMpykM3OYig7vhw5ICpCvhklNbF+cO2Qi6uTZRgq0X9UnnH7HKdKfi/QqWijw0q0zNVNfw3u0sBJ/6hlB8JNQabJ4FLSnlypjWNu2W6jKO6wkavjp34L1BapAGZ5rJtrkAdeOugYS16PUg1qGmok4JHomgs6rBxqWPm/mMvzRuzRZl2Gfc5S6y/KLv2LuuX5HvKyJtqii3yEbv0FIGuueJJtOVoMMVa/t/qlZbZhaV5SwSvjz8tu1px6vZgevPie/KDrc68v4zhq80S3DO18FvjLfgCtyTwKhrN/wlJd118yWThsvo3n1LahqovkvANaUqqApelT6yLYarzD9LUGcKrEKTeNsJ12mHVR+D7iiKOgVWdXiz2dmfSnZAoHcJLMS4nzSzEwrGp1B0KGrg9zwHC1DNhGqbe7YOJQqOS6/6MBY+GvoTBNMnRe2GmXXH0jq3GdRFdBWtOq8o1L8hhCTRRR/Hv1qlo1L6JWLA="
       },
       "name": "Small Dragon Sack",
+      "category": "SACK",
       "tier": "UNCOMMON",
       "unstackable": true,
       "id": "SMALL_DRAGON_SACK"
@@ -4920,6 +5033,7 @@
         "signature": "bl3qs/OXSoXqeruwAFC3Jvew3gQDOI9n7SJtLQXKY9hyHQEEPJVYhfM/xuhPA59o58yePaNgC/5bnuoU4twtWeG+Y/+AcRAgW65SoXHaieCRGy2brFMuzxSNlDOX/u3Ph80YXJKQdD1nJZKJiqQVPWY1W06Xhsgj+uIcXJCQjIHTWlRBDjaqwVmxDzxh6IrgmatMj2FKu+JSu7yPAdnIK5BegOz98Jz1bK61DMZCHNXrZrh3FLCblipbIhbRzrmxCv0Eb4HeugH/pwFJz4eH8HB9VbD0uHA6BwZUDPRkGeb22PXHlpAf0lPIC0OZ08zx7uQrAgCWMtly7D7OdJamR7OewFz/JFrj9iQRf7qqk2GFGPySGeM+wLg5LZ9Xh2T//qKqoEqQMVKnnTB3hymb1zKLxJiytBtkrx5RYLBhssd+4+GJwMAem1crUh3D3nojOAGUvPgXsIqgZgTXD2zYtFsZ8I/ByDlRDjrwWLggfHIrvc32Oi4dzqvCy8c6dKAQ2b/azkm948VDq9AE0qMnH9jMyuAkBROb+wT6KMWDW9VWsCQL2w+jEb3mmvMerbE708hja/GH5eqPVD9316JNhtHM9wQl/JmG6TyW/ixoAGCDnd+GJ5rumVHKX6tp7ytT4FtAC4+NBSt3gS1avZXDXWiq/PkNP0X1DQ7IjC5d7KE="
       },
       "name": "Medium Dragon Sack",
+      "category": "SACK",
       "tier": "RARE",
       "unstackable": true,
       "id": "MEDIUM_DRAGON_SACK"
@@ -4932,6 +5046,7 @@
         "signature": "O9vgxygBjCFBDtpGgUY29//yqivBTcASBJ/LRtpKRphEpbaM27Edme1FPHMOPSRS7W5SdswhvuDoSzjCqlFeYPr3919W0HC6R1EUlzG4RUcGRfX1/+rVXNm+/RLCaWVzMsfz2B/c9Ab6FoSfRlIhbWkAPyxTRDYwrUAh9TAUtg6889D2hNSQF8r2XSW3hXezAM2bdvUmhAP6WYX7Gmr7dx4XeMET+2t9l9ojl7n7IpadkxXCYiJ+gcuWdF84UZteKkEJxF/4KyR/4rrMBAS6lbTbuniQp7A10iSSrlgiE2wl0pAad2MyipWXpR1Is6O8fCZYNE0wl2iGJxpIg66t6PF0PpMJAXeJK4ql35VFe4CNksVBp+924zdrp23u0zLQcoALPW517IIqtNfZSNaot30PGq5Und+KFMw+xsarIeJpnMQyWG/4rcBOywVnXms2mztLxRI5I2VoLYa4NTSup1MeqIO2nuW0JFPpgeVc7AMUOtt/k6tUZwt+F8JcYWa4s+DeBktQ+4HO2NIqlHAKNMZlwlOSYOtcR/EhwUgez9PT1Rq+0kwmGbk/Rx83uqvPCV98YQ8LqYc/mgvS15hR99vBKRU5rrJMsjJCTGNntphlZ2cCMgQ0xzMklGb9ern/n5ZcYdDE/VWHPBrrNowUQmJHN54xsFktfd3cdhptnt8="
       },
       "name": "Large Dragon Sack",
+      "category": "SACK",
       "tier": "EPIC",
       "unstackable": true,
       "id": "LARGE_DRAGON_SACK"
@@ -4944,6 +5059,7 @@
         "signature": "eo3xaOounJfBWAyNe7ZNiurBKUIEx3EPji95R79iUaXPiUW4WLMVoupzEb9+pXquhLfsvoNayDdC5iprAbUyLIZC10CEaUpqxgbNf1fwCIERZ0+bnrd2Rr5n/Wne+hDpnSzMpcdAOmV+5Om8tj1cvoQAJ2Gym2v6l++jtYAgTgpmVm0GaXhbw6yw07fRM9OwIusC6jd33SxvEtuHTkLZQ5By0UEuwOvTQ8cH1mjf8Fnkix7LFbBQje5RY2NIfR31xMxgkE4mUR+YRSro/fUvaISfBuRVrFT1eF6wH9l4fa0z8Qf299x8oTO0ZS0KGIu4mvEx5QscPwdtI9eYimxsHKYq2J1ateCCatJK/AeAzw/X4gxY6WptZbeahth49bErGdQvi50ZRr7cZ4CHoMOxi7luhQqfHtl+Z2cDcEKws5KPTudoca0bNSpgwsJUXTow2P0VZ1yAfKHcIWbqH6jirvJvqLoMr2sx8SxKVVIXVPaItRneJe0qoTGjNrMFL5So6+FhQF8nvsB5+fhqvJLy+R/QYWrPqEe+4VgtC8pPbdKDvf7cm9ttxOBksw9uCeHpps9VdXsPaHXU90sfuiZXBNFf55BiTLUbHP2qnQNSoh1giHm6cUciVqrV6CwTwb9F5gozi/unhCaRKPNT8bC3SSvNWw+RITWMCwtR/rpfy3g="
       },
       "name": "Medium Agronomy Sack",
+      "category": "SACK",
       "tier": "RARE",
       "unstackable": true,
       "id": "MEDIUM_AGRONOMY_SACK"
@@ -4956,6 +5072,7 @@
         "signature": "eqApSbvoqYEhjX75R6lIqkVQg5oqOop3+H+d5aHawloQzrQJii7zrRwmNje+guFQjfphrssTs4Jpx3wLpgG7yHijzgDTMqPPgtxDT8c/eYtbP7gEv4U1czH+zQIs8pyKA86WCUDakawuBWRbkAgV/CgxshaEB1abanIpmLO2WWMkl5EmxlQ0U1kd1+XGdY+4dPC0HuXhN+oFL2wgfrrv/UzG7zyR4woZ17myqpFADGGZ1Znt3VkyMI32OyrVS4rfnNSLOTXgAy8NmPCQeus0PrS8wCpHC5ZZa+ZDt0HHE4pFOyb4BcyFJCXtiEjVAT4kt1QUDKxTo/jJ1Vd22/fXt39hJiAGAPSV7GJw+JRyEoWoch3fiu2e8hXVhx6JLOggyaN1nsg5gM0+mYZqRjWgGWURu2DxJ8ZXoqRlHjEJJstD2NKS82jB3V+nLJtADVr5sHPxBUYZCFY2btPTuCqeTf7ibLtyTZr+DcEKi8zH0lDYmjnl6bmmCRsatlC9qJQRCnKI1N77QEC+KipnOCAoOFikMylxS3mXu2r+OJypIfNrmg6EeSEgdulwi4wmuUai2xIhAEPOVd8BZ2yVXJgbbnL2590zaCU6ul9yUz6bLFnxD5qij0mF5u6MU/sk9QWKimHFjDuMuR9sYa8GQdPRYKg6WkIgSnhnkHTAP5BnCIo="
       },
       "name": "Winter Sack",
+      "category": "SACK",
       "tier": "RARE",
       "unstackable": true,
       "id": "LARGE_WINTER_SACK"
@@ -4968,6 +5085,7 @@
         "signature": "Ea9oWixLWg03SdbsMkYdKkk20kLPQ5T7vIqVDF3k4jvKSEQLQXtNYohxMb9F6ox4SVWK9mLvz8NyQPepZEEKxlDprDqiXU3lZ+N5KCjs2Q0WoiPk+o+M+QihhSQZIK4fxVhMviJ3mtzHeDNTEUVK67GCo9aU20azkTRH3/DcQjbogW/vjB/Zdf+9b3k7/K5QPftSFSrEkT0F7w5V2tuKqKxS9YXARz0P1oLYvUBXuBYj87NliwWiiUOBKerk1XTRZv/74+e0FenNd6v/Q3p5CRJltbPfJYwxYETuqFRC1PaTmBrQO9LW0DAS713fJgKh7q6L4yZeo9qIb9JKfFi23gUt4Y/w1K7e0xaUSh5D9Le8zt6pmMK8ikJfXaR7BR9xfdgF3mHX237VALflicthExYDrn7BKJIEaeqZ1m9bRZMcCfYZBbD6YtnVuw390PvAZ3BBfSVeSZSZ6HUlgOlV9kyTP1F9T1DWE0//BgifOlamCJS7XAE2MWWsh2WI1FPL4aX6jXSKzmF1QcylJpuHtHZHV6Hzvlz527kkqspDj2pFRca9265H+9oGvMWPEIz1tfpOASvOEzgxMBSGtRZ3w801McVxfM2+M3Ly4C6lDQkI8dRkbtXp3dd7+IJadV8HhznuyopwLFOu6xFtwVS5U1yYhPDxfXecXesLZHbok9I="
       },
       "name": "Large Lava Fishing Sack",
+      "category": "SACK",
       "tier": "EPIC",
       "npc_sell_price": 256000,
       "unstackable": true,
@@ -4977,10 +5095,24 @@
       "material": "SKULL_ITEM",
       "durability": 3,
       "skin": {
+        "value": "ewogICJ0aW1lc3RhbXAiIDogMTc3MzIzODMwNzA5MSwKICAicHJvZmlsZUlkIiA6ICI2NGY0MGFiNzFmM2E0NGZiYjg0N2I5ZWFhOWZjNDRlNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJvZGF2aWRjZXNhciIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8yMDA3Yzg3ZmEyNTFhYjdjNWRkZDZhMTlhMzliODg0MTZjMWQ1MDE0NDBmNzIwYmZjMjkyZDJiOGFhNjdhM2M5IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+        "signature": "LCFK4ChmIW+4c2aO1ago6+47NuKNCvEbRoj78EavGdvRucgaAqmiXCrIfvgwodNFX/++T29hodhkLph8hAJIvYFebGEVHBAzwpgmAOX/Z/iQZreWpgo33Jjg50rXgkIafCUZhYPkhvMq5CkWQGbEMJ6QimR5AwiftciXul+0DqM+QL0WGeohsOKrX9pdJ89VhxOk5qIPBFAS1zyA1FS/Jed6ky+kqIG1kZEx5MdjY4upqXCT+i9p4RhDrq9OKAQsaV7gxLfu0f8SS50dWRsV5cNe4b9uXR1wGkPC5HrYcUflVOI1YDV+//mzc8IVsQbQTkdbRpXJ3d/d1llo0JB1cmv89iTP8ozvS8BhjPK3vwqN1FXt32F1Q0VtdQ6P3m/vf3oEc6P6VrL4GjBEdb4/ZN0+2fsn1Nqs+GksK3pLXL4rRcDSTTjNkeNOHqycd+bvxE6snW1RvQQfrAfOw/Z8ok+29YE9t0Atg7Gm7TJAB6vSnKQ2D5dKdTeD2CGeX85HzeBPpThTdr0rIGIDeBs+PlcfWaXNJzVYcByp5yNTrmVrhhSR2MWSUJ512gwH/vF30nwNZrtxSnRKXkHx4P9SElRfWABhXvbvfOY4VX3J9BaTogF/JdotoTWQcvUIcIGe3LIthSUnsYMZtg4rjXlXX6KEKAihfBR35VUbQISjdPM="
+      },
+      "name": "Beginner Foraging Sack",
+      "category": "SACK",
+      "tier": "COMMON",
+      "unstackable": true,
+      "id": "BEGINNER_FORAGING_SACK"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": {
         "value": "ewogICJ0aW1lc3RhbXAiIDogMTY0MzYwNjQ3NTk3OCwKICAicHJvZmlsZUlkIiA6ICIwNDNkZWIzOGIyNjE0MTg1YTIzYzU4ZmI2YTc5ZWZkYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJWaXRhbFNpZ256MiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8zMDMyYjY3ODkyOGI5ZDYwZWM4MWU0YzBiMDgwOWQyYzlkMDhhM2Q1YzBjMTlkZmJiYTRmNDczOTIwNzNiMDYiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
         "signature": "l96LRA2WiKU/g9cJ/kfi+QMqRovpgx35C0CopvT+/Pjo3R/zy2dsfAxCn1TkNYBmhkIi+hg4Pyv1OT08IuhdTmDHcy3M2h9xvnBi03dDvPDIxtzG0eC+jsopRGZEobE7ETWyJGMJF/twBRwS3hpu/tnQRQkfmzZIjzgXoFfaWguVFtIzdEGeqi1AJJkO0n1fAHqoiklFZeFstOAUXYTT6wbJNFrWtN5HwofeqJ726QzsDzqRuHdaZmedhN3kDp51p5OjmdbWZj625NJIBqKeAI2/T256hDelqjt3qkEDQ/0Gh7KLvnYXid6SmnwEWtZxqCsQIft5ILfrsHnpI0T9ff0jQ665O4D7wTvpcz6lRfcrxOglDTr6QU8vlVxdFkTBJc4uinzo8wXhFP4Mxt68ITMCwAiZ/sLh2Xsb6FS3Sy4ruXsntcZYGZlFtVebNbFUBDP7JDRUaRM1q0Q+Adrk1tT3CkrubLc3IVvsfHeJMUwX9EV5ZcQu38g2qwp0mTVbalRhMP5VF505jxza+h2LcQhmvRYPMUIfr0ecWyZowc2jVFpU2LtXWzcPWAc8xOvS8g2YnH12uK/gQZkEbH22uOpawphcp930tMtSAmLDFLQplZzlNqawDbm7g87v8aHDhW+fQT07R8RYhavCVvGtRsrzIUVzcYlmWrzHNs8vEd0="
       },
       "name": "Medium Nether Sack",
+      "category": "SACK",
       "tier": "RARE",
       "unstackable": true,
       "npc_sell_price": 131200,
@@ -4994,6 +5126,7 @@
         "signature": "ph6U2PDfJaWvo2pCkvp5HMqoB0CdRS5y3bhktyoesiXKHwUDBLAsBH65WnXiEDZvNd7ekVpOLqryBzo0bHlLannQ4Pl3fyAiZsBLBiFu9daNG4fL/XfC1B+nHW+7iDoNxeN3HooGp8smvuJkOGSM8MGUEXRwwyPb3oTmQ8UvDBCee3XzObeEV6H/EFmsgVPL5kj7K82NxcsQ3MsQxEDnpiJ4JGS6bGt2worWO892YxZSD9a5Dc1v9n3jebzTHqXJ4QZ2aJkudRcLcy6wT5XpxjWqU+xlzhhbh2plqaTmfiqmKdyv+31b7NG4+Ap2x4qfUeKJATURKVjVrOVu6ZEWs1nXCHTC+M4za5U4k1evlCXXM+tYezExMxFoGAbPNCL4tb4tDSHxm9VAm9LQkETdKHzCu1SuOIQUmvlKAPfBqpeBisyG9sPihCLWSH3IE3Svcq2v+jf6qWLb/CiTtfiTyUAcAxIsGfXuGRXIMqVAD1S48mYKo7bUpVShs1d2PR9Pu31HRlw5z4ekbwI7+d6vP/A2YqDd5r3S4i0k01WJSQFOIH/WUtwr1u+jgotYU09AfoF2vYMOJSb34SYbNdsnVq4I1+j5XtIvxrXLHYSCJgdo0uc5kOAAd3T1XqIgYAIg4YZzpHh5iMlnjXcXd8wCabU1/54gtp5e+XxfVbmPRSQ="
       },
       "name": "Medium Runes Sack",
+      "category": "SACK",
       "tier": "RARE",
       "unstackable": true,
       "id": "MEDIUM_RUNES_SACK"
@@ -5006,6 +5139,7 @@
         "signature": "llF7+zbG51g8tdsd0l3Qo3cWet9h7ZH71MZ6xUio2STPcXJtgsfvTaGAtE68uzafN9E2H7vis6zxTCKR+BodU1lt63aFe+6hbr1r+vnjqKOm6f+FdxRtphNOmabBNWS6GPP7lsKN4KJLJWM+X4V8R/Cp+FAoY4Qb2P/TQ/PRaKnun/3wJeOYA1rnUg+uHqT0VfAlilndVfJjf8eFCrk/LUZygufYfzN4Nv1WC88QPvDAfW80Zj+ExJYANxXKs9h8i374E4mxDHdgnb/RyI971NjKmHjYkQ7raJwjh7UpbGuyfU4gpIdu1OvchUn6ZirmB93zvCGODka28RPCBK6lJloqNTuU9fKl5gcYweZIKd1MnUsCoPo+ZD9VJm/xDPPrIQZv3wN107pzJb2KhPRziKnJ54wFMoXODlY8CORYJXl50KOZVMOlIRclEGrbLQFMOL0XCu4pOq00AoFM91JB0ZPhDkCRSBvKH8bkfzn6ZLCbZc7GJRNT32v00I4/E0B1SltbOTZksvRh9b++05yMVuHx8NxcRVIgIr4YO4eDp5uxA7/GGTqf/Lqb/oFbEdHiDUsmK7z7INzC3lrEXpgk0tEwdx5AF9Ipen6ahjmpvj1tkPClNyfJ/bc+pR1zAUmJXbQhlaSC051HbfFq70NA/hUxG0R1qJMHYvBCF9t6wPs="
       },
       "name": "Large Runes Sack",
+      "category": "SACK",
       "tier": "EPIC",
       "unstackable": true,
       "id": "LARGE_RUNES_SACK"
@@ -5018,6 +5152,7 @@
         "signature": "sxLArYgKem7tdTJv+y6Bc62s5eZ+zmQl9AgOGw33vTlINRNq2Y1EGOpCkdMTS7Nind8JANuQE5bz0AWP0B5DgjXk2QWjJit9s8jn8sdP4Vqq3Q+pIMU0HR5uWjRlI0ClAGFPpOdUUx49bwG69OdsVQhuX2+6Fe+nMvOuDuGCZW4OlaLFCcg+RiumiTEZ2iDB22JdOeH58uPUKHMpPfe21wAGuPCbalWLy2EvtiyMtpU63a9vMbjvbbdGg8HvPq3DHC9CDsSoZg48W7i2gUQ40jZDZUYiOlVJ/oxy+Yx6JU5Y0fkYZXvRt1z3ydpj+vQf6Cr8Iz/qxaH47aka9VWZRQhPWVkKwZYqUhtgkZomdkGQw37TAFuX/8e5dXNhhBZA8QJbzOu9SI6k1rMBU5YHEY6JSaedZoEtrYtGG4Avz/LvRj/PkMVMR2bW6nO4Vv4RgWKh9l9MsihfhLXr61oe+opxhIRGOVEqkTfS9/Uc3WB8dNa76jteC1BZSWi25ZFwGdf90cNyWTrVXfaOoPnPPnkb/uXWL4t6dHi8JTVDhEeMKGmcSWrZMTzumj9QQUZDkr5bGwYb5+geXhfQIO/wUxNbpYsOWTzYK8jlpp6P1koiA49Iagy/XsopF+liRNb+nsA7c2OVTCPlvjzebeOBuVwcVpWMM+KzKkxByVZMagc="
       },
       "name": "Large Fishing Sack",
+      "category": "SACK",
       "tier": "EPIC",
       "unstackable": true,
       "id": "LARGE_FISHING_SACK"
@@ -22747,7 +22882,6 @@
         "signature": "BjQ6flYPAeNSvaI9SdFhSs/XWiAPTX46pmKrId6rmCggTgOBidz7UwPAEPzjkivrXrqf1JaB91YDfGfSY/f4nUJ8MKjzcwiWmc+gjE0s/d3SIZhPnmJLKnVoVlYlQFcggcvp1Ess7p4OhNr+1xAyv4MDvfutVONul/2tUMExCDZ+SIDOc362dvmI9tlJvYytR70gnmyzsN4UF384gdm1BBCcnejsSygBOyBLyM35ak6YKSU9nP9FVeoVqcqzBpdgcjO9Nf07s5haulBUvFcHqqAdgnfbxo1MIgrwxk3CtUcf6XAzY9cqwrfZyq2Y+LzRqeJVM+kW8j7CLnLbYFxNrNBHaLCIqmNURemfmPVBkxtDUeebPR2WY0IPIfXUI5rdg59Y9WszEcjpI14r2pGskuWgZkvwYv+2SkIc1VQZMt2xN7TyFh8/fbR+qSZKYIb3gCgMF+A/fTReFBRYQtRu1QP0S+OymKjmtOKAH5uPywo2LnZf5/cBE9R3lr0w3h/FMj8o5NSUkLfWodPslH44WLzr1ZHMrpnmDm8Ph8AWj0A9R6FlU0nIfVZOGFi98+81YEFLkKD02S1vrbc353kczP/NPXnOmI+Kd3Y5we35q0wAa43HIkDgxJWqlCNxVyDi/essMDY5qF2X22YMt6eBfMcCzCpM+4UDbbngIwGe284="
       },
       "tier": "EPIC",
-      "category": "PET_ITEM",
       "can_auction": false,
       "unstackable": true,
       "can_recombobulate": false,
@@ -22762,7 +22896,6 @@
         "signature": "u8sM2zVuaNouEpphrxI1Lji38ZtX8TvbEadEKuJh51FCFqEOHWAYCpSkcjAdOH43hTYldcJhS+fgNuRplJiHxw4qfHli9S5AwuRIoqUFN+FKSu3lodTaGSgVSjANwbvomoEBhlhCj4tfQAs0sc48p/10sQNnCvUncZPQTGXhqmZoadXugHpiBI5YMltCTBd18dTZ0ryYA0E/Q7Y7+9E9YX4FSxhWj0P9ZwR/szZMPd3vTc7yiKO6CsRYKefynqrNewGY8Y+ZpwQb0y+IaYZuKuN5kaZdImDkI53o1qGS/+XRCZK7wEwvgwiXBuoj/FSzugRukf6FcMm9kAWfZZaCwgmlMTIjQyt6sR0Pdx9WAD24cAmxqTzKHBdwodjjuf6sv+4xt4SRnoSzJO5ZIit04oHemAH2sSv6QVPNGrgi/QqgjTYtZJJPn1NvH5VuGuZnFHwEkwBzmwH2PxeY62kp9Sf8MGrITGjYYhkWiHGWRS9FJCYRRE9Qp8sfD0NT5yaUvyXXQYkjTaMnN4u58ZSCWQExLJkSMuIqT0otFdCYerW3pexTwV7GMNS65l5nWlUZPBe1wVRwUIx2IYvkP5UqSXLITMYpEE3wcmfuhX4Zd50hUs6X+MJNE4ftZ0VKMMeHtkSE/Lnl7DoCl5qNQB62g9Zd/8YpxDoqD+jEsW0Wtug="
       },
       "tier": "LEGENDARY",
-      "category": "PET_ITEM",
       "can_auction": false,
       "unstackable": true,
       "can_recombobulate": false,
@@ -22777,7 +22910,6 @@
         "signature": "PcJgijRPJ2K9Z6lKEGHNsZR4MdItD5P5VBiYEy0omzFr+B1Rbdgp5UCFjH5gmziaIVbcOoo//i3hPUmCCGmS1ynrmoZUVxkPTJIAQDlrxQxeJJDuXz8b1qvcnTPHUcKD9eDVNAIx6Pf2xDoykcCXH5wDO3fJCr6bpxgB0Bu9N/RLDz1l1wU5wwhsQhuiVyJuKqQcuFEE1KFvfg7RsJY+Fj9waQ15pGmRPZGNsao8D6iyzkJ45eXw+5f9yBQ+xpYn/E4ePzb6gHxHifpM3DQ6t4lwmTl6uAkQ75bI8ATGIsXcQ+W1fVF2AFW/ercmKf71Xwjj7tAziIjwswIhI+9e3gCVFQzk9/t0LlVofnUdRgyfNN1oiAPyQaP/0/Yql2GVN2ZvpUtQbRL42kJL8QF6P47mn1V6oSsuK75Gqx0X1M/ywz6B8pIfUr+raY5dafo5pd50Y5dDxez0O6CnxLoyNDOsdEX60dO7oVqQIP5gS+ChE63F3GD8LOCBEX05BGJPv07CETiINui2L1F695c6JonSoWFJgGCTDkDRrPid38RPsMKhmAArox7ORV29YX/EQKKHy+fjdcQhg8DKWJJjm1JBg6WVrSQ68OpQJ36UghPgYYCmR5KPfS4DhgfWV8WmRKIpA06K1BQOfvvQdYXwBhJYtV0Nwz01bAcrZAKPB2o="
       },
       "tier": "RARE",
-      "category": "PET_ITEM",
       "can_auction": false,
       "unstackable": true,
       "can_recombobulate": false,
@@ -22792,7 +22924,6 @@
         "signature": "T7JPNzbRjs0dX4EvnfsLH1JPg7SYLCzEphE9FEuLCBIO6bxoa8rcSd3jWucQznjy1802B+Yi3zMjVgeKBzzCiAcROK3hM2RJGH4+JI1QSrJq4tIlHEyQzvWlq/UGfjusptKQCIWWRAnD3fubaQj3sjpxZDj93hsSBDhj0jwQLrYPLVEb5dAsTyhxcfmRCkeOUiqpm0UY5pKDNqu8pyKC+ZzubixyhNHWCqiFFKkwoNmNlLytY1I5OT8olk28nSWRQ+whgknfC4LG8dONTlRlGqOfyt7WSnUDDjZ5xdLbXOaFN1GHir58CCSH4obzeW1q6yuuqwtntextvezAAOaQWH2zVeB4aFEp9/feL9xekKR7fD/cwqm8Vm4toYI8MrZPulMctOU2aUim7gQKklzcUD02WKU9dAZNlx0oLeYTB+4tbkuQmj8H1y9qnSGL6TwaP0s+gxyA1BMFRbpDwSDQEFKViQ4pFgiFwJ5FQ0qNMBwpxok9DTrusR77IX4MUlcnPbInG9nl6cpK0vQxNH0AQDoVkK63irjSkSUjNbpKJVyZzbi3YmKJtVkH9q8l8blAi7EX0h6IKDhZ9QFwD5M59fojAAN0uaY/Sb4B/tNIqu9BHf/dpB3dmQo81TPj665yifvS6IXIrYpC2rHL6lqq8GirxffvPh3Yt6V+6Mrtmio="
       },
       "tier": "UNCOMMON",
-      "category": "PET_ITEM",
       "can_auction": false,
       "unstackable": true,
       "can_recombobulate": false,
@@ -23762,6 +23893,7 @@
         "signature": "pvH5hBIztjvaL0E1La+pXNyvjRbgFsRLm8RB+KbYbFt2glNpEpj6wRuNPoxpq++RS0DkqPdEg92oySQD6UJpYtnLgJnJCiWvIE/sV9qCUa9r85dtC6ucA3JwJaxHf7qjFZloEnA/4dWlafLdZkJUzNLrdBKntHdXFXkZbLUMK43Fmv1AfPH9rgRpqeUmtnEjmtM4JpAAvOoyOfcCVEq5JtPblIEmde/fhwtd9cRSPC8gSCCA3R052qzyu8KKOHelw/8STmL1ai+ww/6Bk2CUN+965jkJbeQ572tu4SRvuvphguLIeE9uxFPvnDkViQrobKd7OycSg0Mp0jytKLKQIm9fVj7IcYdUFG2VDIspBSVhgyVYNNH0bCzMgoa0UMH+9YwKaTTtel67w59YcKb+YBljehTdhAKvrt+hQC3Jui1GUXevvQ00j6Qc5F1nHLa0OJTr4xb08up8RtT15YbAdz0Sw/QyoPam+LT+Jzb0OYgAhoh50AYhixYBTKuxy9F7+JkYLLiXml8jN63aYyxstz/T//mIpQwmbck/zpf73uARfbw9jvffhBAyeKuPMo+plXFAkZsTFP1UmDkB9CsiVPtQp9y5dynz4D7ign3TXJrWkV48979auuBqBnq54+9jct/Hqfk80LtYoZ6uEVGz8d5Yt0b26oxNmjaBONLGUAs="
       },
       "name": "Medium Gemstone Sack",
+      "category": "SACK",
       "tier": "RARE",
       "unstackable": true,
       "id": "MEDIUM_GEMSTONE_SACK"
@@ -23970,6 +24102,7 @@
         "signature": "Pvv3YXIr8R1You9eIMzPolaskanNaFrTAs2+6+vmh//dohUIUKNIX1qUHgc7ZTV2Bf2CfnSBxcRc6uVrEJrYP1VScatLBghuR431s59XTjie7dtlVFYUcEqI348l6l7Ukv1OUBig8kEG0ZrWVjwuBWWJOWdv3AFP23CnmShwhro6YMaHabCLdkcDfSU0nPKcq1ZfYFvS6DAB6QtkBV7C5C5a4Dh7/7HE52HpAjDC97QS7LP7pFI2obsez2HMwK247mvqdJ2bwdwcHwjq9+Z+DFq+fLqbA2EBMQosEMvDmcOs2nx/BGwfpRGNsc7IgoESvf1+f30w3lb23pYRFoRXflhhhW7p1dy2ozMqhup+sr/6DXN6Qv8ezS/i/3/yc8EmIYzRt1EEm2k/3ZZtN7tILO1AhVEaHIDuBvCNJ2arIGVL5VdCOhXIqRlgncvkV6nlAAkJiOR7/oWd29wxZA/uK0UoPzb7E7nfdRm0uZ62uMJqnAuT1dyPNfHT3Lq/9lkrms7z1pINTWkXK7bcJ2Ac/zkCmgi1/wje9uZ2b28oMOOYAlkpo+LZeG8EujIZ8fHjJ13yLKZJlKkeDyMjgmcSCb54XlJo5x7GV6tuDfGgxVYBePLiyogui2JeOHAhGI43vEgMGKt8X1AeewU3vfkOd1asEDDgnxAwgc4tQyCLJI8="
       },
       "name": "Large Gemstone Sack",
+      "category": "SACK",
       "tier": "EPIC",
       "unstackable": true,
       "id": "LARGE_GEMSTONE_SACK"
@@ -23982,6 +24115,7 @@
         "signature": "HKeTtvSU93NSFY+SxDHh2IKb4iVaODEkL2ThbaIlAReLIvFBL4io+J8L7wE93epDLGYK5BeNEmpTDTh4QRUnBQPAIOjO/j4diXVifKbtS/AhTSRKRLUEyeVt8mr94+PT7Xje8vIqeWULnY9+PqwCkwwDdxhIEc9s/8Kyg3zzHxKnBScRyaIRfMZp8WZMcSxw5+Ll/ZdLaV2le0LdwBm8Ys44Vj5DVwMymBcf9gLBaBkxrs3fqtk6G0DlyaiK/gF36c+JFAyVfcpuvwHqtQZ0Ud1e1rzTSIpr/TvCyw3GocK3in4l8Rt79JFDtFy7Sso4GYH87znFtqq3g0NuuaPYcilTpXpkNlb7DiEUXfyHxMNwpe8bxfZronbtdZA7kCp/Tv0FtY2ooee6StwfXA1NiP40oZnfS6h5jO5/6Ye6JQj3QbgsLa5uqJi5MPf8+27D6slRZ+k0hDr/erl1GwEVUoh+zN69Dyq2GJrcylCzHBwzQa3Aky7IhoYvz2zLj8lq6uxwzUps8fkgc00mHFxcfKOr6OBtxeSjqhxyFmi/ied1WonK/vEuGGXw+jPPqgenIwqHhJI5hqXg08ZxU1gUOGC8VfFL9zr5/+r2ggR29BrR8zOwoHFpIxWyaVxXnTmnM0MZjqif+4iGIAYBgssQBfFHfDW1/CVHE2LEnwKXFB8="
       },
       "name": "Small Gemstone Sack",
+      "category": "SACK",
       "tier": "UNCOMMON",
       "unstackable": true,
       "id": "SMALL_GEMSTONE_SACK"
@@ -25577,6 +25711,7 @@
         "signature": "MW3+K6jB3G5LLt3kQKKiiVP7pgcCvLRzWUDN2wQjoNI4RW/eAn9O2zXnsRFCYTb2HtjJ4FZ10Ks6l+uDdL/kfu/f0JYvPPKrUHhBQQdQptwXr7j+LmnpuTl4uS5AoDpNSRGAi2DyVfSgkaWuB/JL5OztE0j0qvYnzhx85H6yLBdboPN6dMzF/ZrVzWTkDhLNPr6CMOz589XP86eNlcjP/1+VUgabJl/pZPPZtg3/L8xwD69MKBJHmSBdPPzuNJaBTb+v3vru2ef2/zJIE/doRPHk8d8BJJR6HeD5qQFGG1NN+fc0RFTKxw0PAQhJ3URyB2pbAVgc1dLaMzp7yzm1E6ClkxBcmplNX20LbGPWoEDn59xfdHI8oQsX81vmhqsC7ZJ829aCSpPijg9wi18KXfFrzDN/2CtvA8Ze9UVxskBcyIYyJ9kc0Q1i0p9rM3wzDBOcyYeCPu+3ggjIyNe4x100R75ypUR4WO0yoHf+6H5iN8MoU+UhOqkMXQ0FVSXgYoF6+xa9OARBfRg02Loh/ZEonlzT2jOJvTX45MHYjr5fPmLjhz/YJaVZEjnUroLOJbSQYJsCp8xPdE0uBKTgW6WaWpwx+omdfAOXwlgQ6fCRJb1zxYIpD8lHcJHCwQQuGC4F4w8WQOpsLGdABuWoHS3iXFBZKmzXCMjtZsn7pBg="
       },
       "name": "Rune Sack",
+      "category": "SACK",
       "tier": "EPIC",
       "unstackable": true,
       "id": "RUNE_SACK"
@@ -26234,7 +26369,7 @@
       "item_model": "hypixel_skyblock:item/community_center/mayor/finnegan/crystalized_moonlight",
       "name": "Crystalized Moonlight",
       "tier": "UNCOMMON",
-      "npc_sell_price": 5000,
+      "npc_sell_price": 50000,
       "components": [
         {
           "type": "RECIPE_INGREDIENT"
@@ -26261,6 +26396,16 @@
       "tier": "LEGENDARY",
       "unstackable": true,
       "id": "VERY_MOLDY_BREAD"
+    },
+    {
+      "material": "PAPER",
+      "item_model": "hypixel_skyblock:item/uncategorized/feast_burger",
+      "name": "Feast Burger with a Side of Deepfries",
+      "category": "CONSUMABLE",
+      "tier": "EPIC",
+      "game_stage": "SKILLED",
+      "has_uuid": true,
+      "id": "FEAST_BURGER"
     },
     {
       "material": "PAPER",
@@ -26331,16 +26476,33 @@
     },
     {
       "material": "PAPER",
+      "item_model": "hypixel_skyblock:item/uncategorized/blooming_thorns",
+      "name": "Blooming Thorns",
+      "category": "REFORGE_STONE",
+      "tier": "EPIC",
+      "id": "BLOOMING_THORNS"
+    },
+    {
+      "material": "PAPER",
       "item_model": "minecraft:fire_coral",
       "name": "Carrot Zest",
       "tier": "UNCOMMON",
-      "npc_sell_price": 5000,
+      "npc_sell_price": 50000,
       "components": [
         {
           "type": "RECIPE_INGREDIENT"
         }
       ],
       "id": "CARROT_ZEST"
+    },
+    {
+      "material": "PAPER",
+      "item_model": "hypixel_skyblock:item/uncategorized/super_jacob_system",
+      "name": "Super Jacob Entertainment System",
+      "tier": "EPIC",
+      "has_uuid": true,
+      "can_auction": true,
+      "id": "SUPER_JACOB_SYSTEM"
     },
     {
       "material": "SKULL_ITEM",
@@ -26382,7 +26544,7 @@
       "item_model": "minecraft:yellow_bundle",
       "name": "Salted Sunflower Seeds",
       "tier": "UNCOMMON",
-      "npc_sell_price": 5000,
+      "npc_sell_price": 50000,
       "components": [
         {
           "type": "RECIPE_INGREDIENT"
@@ -26392,10 +26554,18 @@
     },
     {
       "material": "PAPER",
+      "item_model": "hypixel_skyblock:item/island_relevant/garden/pests/salty_nozzle",
+      "name": "Salty Nozzle",
+      "tier": "EPIC",
+      "has_uuid": true,
+      "id": "SALTY_NOZZLE"
+    },
+    {
+      "material": "PAPER",
       "item_model": "minecraft:nautilus_shell",
       "name": "Cornucopia",
       "tier": "UNCOMMON",
-      "npc_sell_price": 5000,
+      "npc_sell_price": 50000,
       "components": [
         {
           "type": "RECIPE_INGREDIENT"
@@ -26463,7 +26633,7 @@
       "item_model": "minecraft:kelp",
       "name": "Cane Knot",
       "tier": "UNCOMMON",
-      "npc_sell_price": 5000,
+      "npc_sell_price": 50000,
       "description": "A bundle of Sugar Cane so tied up that it questions our understanding of friction and thermodynamics.",
       "components": [
         {
@@ -26477,7 +26647,7 @@
       "item_model": "minecraft:beetroot_soup",
       "name": "Melon Juice",
       "tier": "UNCOMMON",
-      "npc_sell_price": 5000,
+      "npc_sell_price": 50000,
       "components": [
         {
           "type": "RECIPE_INGREDIENT"
@@ -26522,7 +26692,7 @@
       "material": "PAPER",
       "name": "Aggourdian",
       "tier": "UNCOMMON",
-      "npc_sell_price": 5000,
+      "npc_sell_price": 50000,
       "item_model": "minecraft:goat_horn",
       "components": [
         {
@@ -26548,7 +26718,7 @@
       "item_model": "minecraft:cactus_flower",
       "name": "Cactus Flower",
       "tier": "UNCOMMON",
-      "npc_sell_price": 5000,
+      "npc_sell_price": 50000,
       "components": [
         {
           "type": "RECIPE_INGREDIENT"
@@ -26655,7 +26825,7 @@
       "item_model": "minecraft:beetroot_seeds",
       "name": "Designer Coffee Beans",
       "tier": "UNCOMMON",
-      "npc_sell_price": 5000,
+      "npc_sell_price": 50000,
       "components": [
         {
           "type": "RECIPE_INGREDIENT"
@@ -26691,10 +26861,10 @@
     },
     {
       "material": "PAPER",
-      "item_model": "minecraft:crimson_fungus",
+      "item_model": "hypixel_skyblock:item/uncategorized/feastfungus",
       "name": "Feastfungus",
       "tier": "UNCOMMON",
-      "npc_sell_price": 5000,
+      "npc_sell_price": 50000,
       "components": [
         {
           "type": "RECIPE_INGREDIENT"
@@ -26707,7 +26877,7 @@
       "item_model": "minecraft:weeping_vines",
       "name": "Botroot",
       "tier": "UNCOMMON",
-      "npc_sell_price": 5000,
+      "npc_sell_price": 50000,
       "components": [
         {
           "type": "RECIPE_INGREDIENT"
@@ -26840,7 +27010,7 @@
       "item_model": "minecraft:honey_bottle",
       "name": "Floral Gelatin",
       "tier": "UNCOMMON",
-      "npc_sell_price": 5000,
+      "npc_sell_price": 50000,
       "components": [
         {
           "type": "RECIPE_INGREDIENT"
@@ -26905,10 +27075,10 @@
     },
     {
       "material": "PAPER",
-      "item_model": "minecraft:tall_dry_grass",
+      "item_model": "hypixel_skyblock:item/uncategorized/deepfries",
       "name": "Deepfries",
       "tier": "UNCOMMON",
-      "npc_sell_price": 5000,
+      "npc_sell_price": 50000,
       "components": [
         {
           "type": "RECIPE_INGREDIENT"
@@ -26959,7 +27129,7 @@
     {
       "material": "PAPER",
       "item_model": "hypixel_skyblock:item/community_center/mayor/finnegan/fragranced_brown_mushroom",
-      "name": "\"Fragranced\" Brown Mushroom Paste",
+      "name": "\"Fragranced\" Brown Mushroom \"Paste\"",
       "tier": "RARE",
       "id": "FRAGRANCED_BROWN_MUSHROOM_PASTE"
     },
@@ -31780,12 +31950,11 @@
     {
       "material": "LEATHER_CHESTPLATE",
       "color": "255,215,0",
-      "name": "Farm Armor Chestplate",
+      "name": "Haymaker Chestplate",
       "category": "CHESTPLATE",
-      "tier": "RARE",
+      "tier": "COMMON",
       "stats": {
-        "DEFENSE": 75,
-        "HEALTH": 20,
+        "DEFENSE": 15,
         "FARMING_FORTUNE": 10
       },
       "npc_sell_price": 5200,
@@ -31796,30 +31965,13 @@
           "level": 10
         }
       ],
-      "gemstone_slots": [
-        {
-          "slot_type": "PERIDOT"
-        },
-        {
-          "slot_type": "PERIDOT",
-          "costs": [
-            {
-              "type": "ITEM",
-              "item_id": "FINE_PERIDOT_GEM",
-              "amount": 20
-            },
-            {
-              "type": "COINS",
-              "coins": 50000
-            }
-          ]
-        }
-      ],
       "museum_data": {
         "category": "FARMING",
-        "parent": {},
+        "parent": {
+          "FARM_ARMOR": "PUMPKIN"
+        },
         "armor_set_donation_xp": {
-          "FARM_ARMOR": 3
+          "FARM_ARMOR": 2
         },
         "game_stage": "AMATEUR"
       },
@@ -31930,11 +32082,14 @@
       "id": "PET_SKIN_SHEEP_NEON_BLUE"
     },
     {
-      "material": "WOOD_AXE",
+      "material": "STONE_AXE",
       "item_model": "hypixel_skyblock:item/uncategorized/chicken_axe",
-      "name": "Chicken Axe",
-      "category": "AXE",
+      "name": "Advanced Chicken Axe",
+      "category": "SWORD",
       "tier": "UNCOMMON",
+      "stats": {
+        "DAMAGE": 20
+      },
       "requirements": [
         {
           "type": "SKILL",
@@ -31996,6 +32151,25 @@
       "id": "LAPIS_CHEST"
     },
     {
+      "material": "WOOD_AXE",
+      "item_model": "hypixel_skyblock:item/uncategorized/basic_rabbit_axe",
+      "name": "Basic Rabbit Axe",
+      "category": "SWORD",
+      "tier": "COMMON",
+      "stats": {
+        "DAMAGE": 10
+      },
+      "museum_data": {
+        "category": "FARMING",
+        "donation_xp": 1,
+        "parent": {
+          "BASIC_RABBIT_AXE": "RABBIT_AXE"
+        },
+        "game_stage": "STARTER"
+      },
+      "id": "BASIC_RABBIT_AXE"
+    },
+    {
       "material": "EMERALD_BLOCK",
       "name": "Enchanted Emerald Block",
       "glowing": true,
@@ -32039,9 +32213,9 @@
       "category": "LEGGINGS",
       "tier": "UNCOMMON",
       "stats": {
-        "DEFENSE": 15,
+        "DEFENSE": 20,
         "INTELLIGENCE": 40,
-        "HEALTH": 15
+        "HEALTH": 20
       },
       "npc_sell_price": 3500,
       "requirements": [
@@ -33415,6 +33589,9 @@
       "category": "FARMING_TOOL",
       "npc_sell_price": 3,
       "museum": true,
+      "stats": {
+        "FARMING_FORTUNE": 5
+      },
       "requirements": [
         {
           "type": "SKILL",
@@ -35489,6 +35666,8 @@
       "material": "RED_MUSHROOM",
       "name": "Mushroom",
       "npc_sell_price": 5,
+      "can_auction": false,
+      "can_trade": false,
       "id": "MUSHROOM_COLLECTION"
     },
     {
@@ -35544,6 +35723,8 @@
       },
       "name": "Gemstone",
       "tier": "RARE",
+      "can_auction": false,
+      "can_trade": false,
       "id": "GEMSTONE_COLLECTION"
     },
     {
@@ -35583,7 +35764,8 @@
       "tier": "UNCOMMON",
       "stats": {
         "DEFENSE": 20,
-        "HEALTH": 20
+        "HEALTH": 20,
+        "STRENGTH": 5
       },
       "npc_sell_price": 2000,
       "requirements": [
@@ -37428,7 +37610,7 @@
       "tier": "RARE",
       "stats": {
         "DEFENSE": 30,
-        "INTELLIGENCE": 50,
+        "INTELLIGENCE": 60,
         "HEALTH": 30
       },
       "npc_sell_price": 22500,
@@ -37521,6 +37703,25 @@
       "soulbound": "COOP",
       "has_uuid": true,
       "id": "SINGING_FISH"
+    },
+    {
+      "material": "WOOD_AXE",
+      "item_model": "hypixel_skyblock:item/uncategorized/basic_cow_axe",
+      "name": "Basic Cow Axe",
+      "category": "SWORD",
+      "tier": "COMMON",
+      "stats": {
+        "DAMAGE": 10
+      },
+      "museum_data": {
+        "category": "FARMING",
+        "donation_xp": 1,
+        "parent": {
+          "BASIC_COW_AXE": "COW_AXE"
+        },
+        "game_stage": "STARTER"
+      },
+      "id": "BASIC_COW_AXE"
     },
     {
       "material": "STAINED_GLASS",
@@ -37667,9 +37868,9 @@
       "category": "BOOTS",
       "tier": "UNCOMMON",
       "stats": {
-        "DEFENSE": 5,
+        "DEFENSE": 10,
         "INTELLIGENCE": 20,
-        "HEALTH": 5
+        "HEALTH": 10
       },
       "npc_sell_price": 2000,
       "requirements": [
@@ -38034,7 +38235,7 @@
       "enchantments": {
         "efficiency": 1
       },
-      "name": "Rookie Axe",
+      "name": "Rookie Foraging Axe",
       "category": "AXE",
       "stats": {
         "DAMAGE": 20
@@ -38827,9 +39028,9 @@
       "category": "HELMET",
       "tier": "RARE",
       "stats": {
-        "DEFENSE": 30,
-        "INTELLIGENCE": 50,
-        "HEALTH": 30
+        "DEFENSE": 25,
+        "INTELLIGENCE": 45,
+        "HEALTH": 25
       },
       "npc_sell_price": 17500,
       "requirements": [
@@ -40994,7 +41195,7 @@
       "tier": "UNCOMMON",
       "npc_sell_price": 17000,
       "stats": {
-        "vitality": 10
+        "vitality": 4
       },
       "id": "HEALING_RING"
     },
@@ -41637,6 +41838,25 @@
       "id": "PROTECTOR_FRAGMENT"
     },
     {
+      "material": "WOOD_AXE",
+      "item_model": "hypixel_skyblock:item/uncategorized/basic_chicken_axe",
+      "name": "Basic Chicken Axe",
+      "category": "SWORD",
+      "tier": "COMMON",
+      "stats": {
+        "DAMAGE": 10
+      },
+      "museum_data": {
+        "category": "FARMING",
+        "donation_xp": 1,
+        "parent": {
+          "BASIC_CHICKEN_AXE": "CHICKEN_AXE"
+        },
+        "game_stage": "STARTER"
+      },
+      "id": "BASIC_CHICKEN_AXE"
+    },
+    {
       "material": "RABBIT",
       "name": "Enchanted Raw Rabbit",
       "glowing": true,
@@ -42212,6 +42432,7 @@
       "name": "Wither Cloak Sword",
       "category": "SWORD",
       "tier": "EPIC",
+      "actionbar_resource": "VITALITY",
       "stats": {
         "DEFENSE": 250,
         "DAMAGE": 190,
@@ -45995,12 +46216,11 @@
     {
       "material": "LEATHER_BOOTS",
       "color": "255,215,0",
-      "name": "Farm Armor Boots",
+      "name": "Haymaker Boots",
       "category": "BOOTS",
-      "tier": "RARE",
+      "tier": "COMMON",
       "stats": {
-        "DEFENSE": 35,
-        "HEALTH": 20,
+        "DEFENSE": 15,
         "FARMING_FORTUNE": 10
       },
       "npc_sell_price": 2500,
@@ -46011,30 +46231,13 @@
           "level": 10
         }
       ],
-      "gemstone_slots": [
-        {
-          "slot_type": "PERIDOT"
-        },
-        {
-          "slot_type": "PERIDOT",
-          "costs": [
-            {
-              "type": "ITEM",
-              "item_id": "FINE_PERIDOT_GEM",
-              "amount": 20
-            },
-            {
-              "type": "COINS",
-              "coins": 50000
-            }
-          ]
-        }
-      ],
       "museum_data": {
         "category": "FARMING",
-        "parent": {},
+        "parent": {
+          "FARM_ARMOR": "PUMPKIN"
+        },
         "armor_set_donation_xp": {
-          "FARM_ARMOR": 3
+          "FARM_ARMOR": 2
         },
         "game_stage": "AMATEUR"
       },
@@ -47451,13 +47654,15 @@
       "id": "ENCHANTED_FIREWORK_ROCKET"
     },
     {
-      "material": "BOOKSHELF",
+      "material": "PAPER",
+      "item_model": "minecraft:bookshelf",
       "name": "Enchanted Bookshelf",
       "glowing": true,
       "tier": "UNCOMMON",
       "can_recombobulate": false,
       "force_wipe_recomb": true,
       "npc_sell_price": 2700,
+      "soulbound": "COOP",
       "id": "ENCHANTED_BOOKSHELF"
     },
     {
@@ -47661,28 +47866,30 @@
     },
     {
       "material": "LEATHER_BOOTS",
-      "color": "237,170,54",
-      "name": "Pumpkin Boots",
+      "color": "172,57,0",
+      "name": "Sprout Boots",
       "category": "BOOTS",
+      "tier": "UNCOMMON",
       "stats": {
-        "DEFENSE": 8,
-        "HEALTH": 8
+        "DEFENSE": 20,
+        "FARMING_FORTUNE": 15
       },
-      "npc_sell_price": 8,
       "requirements": [
         {
           "type": "SKILL",
           "skill": "FARMING",
-          "level": 2
+          "level": 15
         }
       ],
       "museum_data": {
         "category": "FARMING",
-        "parent": {},
-        "armor_set_donation_xp": {
-          "PUMPKIN": 2
+        "parent": {
+          "PUMPKIN": "MELON"
         },
-        "game_stage": "STARTER"
+        "armor_set_donation_xp": {
+          "PUMPKIN": 3
+        },
+        "game_stage": "AMATEUR"
       },
       "id": "PUMPKIN_BOOTS"
     },
@@ -50505,8 +50712,8 @@
       },
       "name": "Farmer Orb",
       "category": "ACCESSORY",
-      "tier": "UNCOMMON",
-      "npc_sell_price": 1900,
+      "tier": "COMMON",
+      "npc_sell_price": 480,
       "id": "FARMER_ORB"
     },
     {
@@ -50639,9 +50846,9 @@
       "category": "CHESTPLATE",
       "tier": "RARE",
       "stats": {
-        "DEFENSE": 30,
-        "INTELLIGENCE": 50,
-        "HEALTH": 30
+        "DEFENSE": 40,
+        "INTELLIGENCE": 90,
+        "HEALTH": 40
       },
       "npc_sell_price": 35000,
       "requirements": [
@@ -51852,28 +52059,30 @@
     },
     {
       "material": "LEATHER_CHESTPLATE",
-      "color": "237,170,54",
-      "name": "Pumpkin Chestplate",
+      "color": "255,167,63",
+      "name": "Sprout Chestplate",
       "category": "CHESTPLATE",
+      "tier": "UNCOMMON",
       "stats": {
-        "DEFENSE": 14,
-        "HEALTH": 14
+        "DEFENSE": 20,
+        "FARMING_FORTUNE": 15
       },
-      "npc_sell_price": 16,
       "requirements": [
         {
           "type": "SKILL",
           "skill": "FARMING",
-          "level": 2
+          "level": 15
         }
       ],
       "museum_data": {
         "category": "FARMING",
-        "parent": {},
-        "armor_set_donation_xp": {
-          "PUMPKIN": 2
+        "parent": {
+          "PUMPKIN": "MELON"
         },
-        "game_stage": "STARTER"
+        "armor_set_donation_xp": {
+          "PUMPKIN": 3
+        },
+        "game_stage": "AMATEUR"
       },
       "id": "PUMPKIN_CHESTPLATE"
     },
@@ -52026,11 +52235,10 @@
     },
     {
       "material": "LEATHER_BOOTS",
-      "color": "255,255,0",
-      "name": "Farm Suit Boots",
+      "name": "Farmhand Boots",
       "category": "BOOTS",
       "stats": {
-        "DEFENSE": 15,
+        "DEFENSE": 10,
         "FARMING_FORTUNE": 5
       },
       "npc_sell_price": 20,
@@ -52041,14 +52249,11 @@
           "level": 3
         }
       ],
-      "gemstone_slots": [
-        {
-          "slot_type": "PERIDOT"
-        }
-      ],
       "museum_data": {
         "category": "FARMING",
-        "parent": {},
+        "parent": {
+          "FARM_SUIT": "FARM_ARMOR"
+        },
         "armor_set_donation_xp": {
           "FARM_SUIT": 1
         },
@@ -52077,7 +52282,8 @@
       "tier": "RARE",
       "stats": {
         "DEFENSE": 30,
-        "HEALTH": 30
+        "HEALTH": 30,
+        "STRENGTH": 10
       },
       "npc_sell_price": 5000,
       "requirements": [
@@ -52990,7 +53196,9 @@
       "category": "HELMET",
       "tier": "RARE",
       "stats": {
-        "HEALTH": 50
+        "HEALTH": 50,
+        "VITALITY": 30,
+        "MENDING": 30
       },
       "npc_sell_price": 123000,
       "dungeon_item_conversion_cost": {
@@ -55896,6 +56104,25 @@
       "id": "SPIRIT_SWORD"
     },
     {
+      "material": "WOOD_AXE",
+      "item_model": "hypixel_skyblock:item/uncategorized/basic_mushroom_cow_axe",
+      "name": "Basic Mooshroom Axe",
+      "category": "SWORD",
+      "tier": "COMMON",
+      "stats": {
+        "DAMAGE": 10
+      },
+      "museum_data": {
+        "category": "FARMING",
+        "donation_xp": 1,
+        "parent": {
+          "BASIC_MUSHROOM_COW_AXE": "MUSHROOM_COW_AXE"
+        },
+        "game_stage": "STARTER"
+      },
+      "id": "BASIC_MUSHROOM_COW_AXE"
+    },
+    {
       "material": "BLAZE_ROD",
       "item_model": "hypixel_skyblock:item/uncategorized/fire_veil_wand",
       "name": "Fire Veil Wand",
@@ -56949,9 +57176,9 @@
       "category": "CHESTPLATE",
       "tier": "UNCOMMON",
       "stats": {
-        "DEFENSE": 20,
+        "DEFENSE": 25,
         "INTELLIGENCE": 60,
-        "HEALTH": 20
+        "HEALTH": 25
       },
       "npc_sell_price": 4000,
       "requirements": [
@@ -57198,11 +57425,11 @@
     },
     {
       "material": "LEATHER_HELMET",
-      "color": "255,255,0",
-      "name": "Farm Suit Helmet",
+      "color": "253,232,98",
+      "name": "Farmhand Helmet",
       "category": "HELMET",
       "stats": {
-        "DEFENSE": 15,
+        "DEFENSE": 10,
         "FARMING_FORTUNE": 5
       },
       "npc_sell_price": 25,
@@ -57213,14 +57440,11 @@
           "level": 3
         }
       ],
-      "gemstone_slots": [
-        {
-          "slot_type": "PERIDOT"
-        }
-      ],
       "museum_data": {
         "category": "FARMING",
-        "parent": {},
+        "parent": {
+          "FARM_SUIT": "FARM_ARMOR"
+        },
         "armor_set_donation_xp": {
           "FARM_SUIT": 1
         },
@@ -59823,12 +60047,11 @@
     {
       "material": "LEATHER_LEGGINGS",
       "color": "255,215,0",
-      "name": "Farm Armor Leggings",
+      "name": "Haymaker Leggings",
       "category": "LEGGINGS",
-      "tier": "RARE",
+      "tier": "COMMON",
       "stats": {
-        "DEFENSE": 50,
-        "HEALTH": 20,
+        "DEFENSE": 15,
         "FARMING_FORTUNE": 10
       },
       "npc_sell_price": 4500,
@@ -59839,30 +60062,13 @@
           "level": 10
         }
       ],
-      "gemstone_slots": [
-        {
-          "slot_type": "PERIDOT"
-        },
-        {
-          "slot_type": "PERIDOT",
-          "costs": [
-            {
-              "type": "ITEM",
-              "item_id": "FINE_PERIDOT_GEM",
-              "amount": 20
-            },
-            {
-              "type": "COINS",
-              "coins": 50000
-            }
-          ]
-        }
-      ],
       "museum_data": {
         "category": "FARMING",
-        "parent": {},
+        "parent": {
+          "FARM_ARMOR": "PUMPKIN"
+        },
         "armor_set_donation_xp": {
-          "FARM_ARMOR": 3
+          "FARM_ARMOR": 2
         },
         "game_stage": "AMATEUR"
       },
@@ -59879,6 +60085,25 @@
       "category": "ACCESSORY",
       "tier": "EPIC",
       "id": "SPIKED_ATROCITY"
+    },
+    {
+      "material": "WOOD_AXE",
+      "item_model": "hypixel_skyblock:item/uncategorized/basic_pig_axe",
+      "name": "Basic Pig Axe",
+      "category": "SWORD",
+      "tier": "COMMON",
+      "stats": {
+        "DAMAGE": 10
+      },
+      "museum_data": {
+        "category": "FARMING",
+        "donation_xp": 1,
+        "parent": {
+          "BASIC_PIG_AXE": "PIG_AXE"
+        },
+        "game_stage": "STARTER"
+      },
+      "id": "BASIC_PIG_AXE"
     },
     {
       "material": "SKULL_ITEM",
@@ -59970,7 +60195,8 @@
       "tier": "UNCOMMON",
       "stats": {
         "DEFENSE": 25,
-        "HEALTH": 25
+        "HEALTH": 25,
+        "STRENGTH": 5
       },
       "npc_sell_price": 2500,
       "requirements": [
@@ -61165,7 +61391,8 @@
       "tier": "RARE",
       "stats": {
         "DEFENSE": 70,
-        "HEALTH": 70
+        "HEALTH": 70,
+        "STRENGTH": 10
       },
       "npc_sell_price": 20000,
       "requirements": [
@@ -61187,11 +61414,11 @@
     },
     {
       "material": "LEATHER_CHESTPLATE",
-      "color": "255,255,0",
-      "name": "Farm Suit Chestplate",
+      "color": "236,4,31",
+      "name": "Farmhand Chestplate",
       "category": "CHESTPLATE",
       "stats": {
-        "DEFENSE": 40,
+        "DEFENSE": 10,
         "FARMING_FORTUNE": 5
       },
       "npc_sell_price": 40,
@@ -61202,14 +61429,11 @@
           "level": 3
         }
       ],
-      "gemstone_slots": [
-        {
-          "slot_type": "PERIDOT"
-        }
-      ],
       "museum_data": {
         "category": "FARMING",
-        "parent": {},
+        "parent": {
+          "FARM_SUIT": "FARM_ARMOR"
+        },
         "armor_set_donation_xp": {
           "FARM_SUIT": 1
         },
@@ -61554,29 +61778,35 @@
       "id": "STAINED_GLASS_PANE:10"
     },
     {
-      "material": "LEATHER_HELMET",
-      "color": "237,170,54",
-      "name": "Pumpkin Helmet",
-      "category": "HELMET",
-      "stats": {
-        "DEFENSE": 8,
-        "HEALTH": 8
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": {
+        "value": "ewogICJ0aW1lc3RhbXAiIDogMTc4MTEzOTUzOTg4MSwKICAicHJvZmlsZUlkIiA6ICI2OTU3YjQyOTZiOTI0NGJkOGQzNWJiZGU4M2JiZDI3OSIsCiAgInByb2ZpbGVOYW1lIiA6ICJjb2xpblBBUEEiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMmY5MjQ4OTcyNTA5M2Q1MWRkMThhMjU5MzgyZmEwMjA3YTIwYTk0NDk1ODgzZDlmNGIxZmQ5N2E4YTExYjlmMCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+        "signature": "p1uECur9Oo8MN8y1BZJYgDHKPvqWGXJgN+ONfXsX6vfpXXBQuQHJJhGLUS8HQd2TaI+Du+8e0/b1PdATyKeJxAaWaL8U++dF7a6UO1HcHNqKC99UGwCtLuAdrVTxHrhSUUPpcHLXtxDidXxlt73jW5qXIv6Ry/I338aTlOSDNRqUnwIBkhrRpw8mzbYIg4yzAXy5g2u6KVQCBAK7lrgFh11NBEFvlg6aTcIAOd0v+3S8dx4OCWNR2+uUUfB+sDGfw8CBPMEZ/BjCjZN2pAkRdVo4jfrjAy/rYLVca133r58Y1wMDwo+oT2G0NtG4WE7Jyb4z87JPfMuHdp/QOxCj9twglixH0ZkAr8XKTO73hEbqctfhCnAYCeVBbVU1PC4vBtsWs6ESuk2jO4Lvq9If1Ip2opllwO5VDIoizxpd4QZpXQ1sA14Cpz+yanhUra6SKLXoKdunreGwHVzx9MqcymAXNv4SAtgjJndzVOApgZZXCgSx6Li7Fm5F6BMOaWW5l2GaCc5xZ0C/+vuTgh77s2OjCFbs+pYwFn3JZqyRnYlHrbPPGdfr2H8zxivlGAeG/f3g6U4tgJuSNEryXz8KIvQcbrhyR2Dy9FuDbBpx+Hzq/ci/HxMjamemUCWl8WUI0olnXb2pl+wQnvS6AW7vrzeJRaW9ZhWzfUIMhu7SCIw="
       },
-      "npc_sell_price": 10,
+      "name": "Sprout Helmet",
+      "category": "HELMET",
+      "tier": "UNCOMMON",
+      "stats": {
+        "DEFENSE": 20,
+        "FARMING_FORTUNE": 15
+      },
       "requirements": [
         {
           "type": "SKILL",
           "skill": "FARMING",
-          "level": 2
+          "level": 15
         }
       ],
       "museum_data": {
         "category": "FARMING",
-        "parent": {},
-        "armor_set_donation_xp": {
-          "PUMPKIN": 2
+        "parent": {
+          "PUMPKIN": "MELON"
         },
-        "game_stage": "STARTER"
+        "armor_set_donation_xp": {
+          "PUMPKIN": 3
+        },
+        "game_stage": "AMATEUR"
       },
       "id": "PUMPKIN_HELMET"
     },
@@ -64119,6 +64349,11 @@
       "glowing": true,
       "tier": "UNCOMMON",
       "npc_sell_price": 640,
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "id": "COMPACTOR"
     },
     {
@@ -67230,6 +67465,25 @@
       "id": "PET_ITEM_SHARPENED_CLAWS_RARE"
     },
     {
+      "material": "WOOD_AXE",
+      "item_model": "hypixel_skyblock:item/uncategorized/basic_sheep_axe",
+      "name": "Basic Sheep Axe",
+      "category": "SWORD",
+      "tier": "COMMON",
+      "stats": {
+        "DAMAGE": 10
+      },
+      "museum_data": {
+        "category": "FARMING",
+        "donation_xp": 1,
+        "parent": {
+          "BASIC_SHEEP_AXE": "SHEEP_AXE"
+        },
+        "game_stage": "STARTER"
+      },
+      "id": "BASIC_SHEEP_AXE"
+    },
+    {
       "material": "SKULL_ITEM",
       "durability": 3,
       "skin": {
@@ -67980,11 +68234,14 @@
       "id": "GEMSTONE_DRILL_3"
     },
     {
-      "material": "WOOD_AXE",
+      "material": "STONE_AXE",
       "item_model": "hypixel_skyblock:item/uncategorized/sheep_axe",
-      "name": "Sheep Axe",
-      "category": "AXE",
+      "name": "Advanced Sheep Axe",
+      "category": "SWORD",
       "tier": "UNCOMMON",
+      "stats": {
+        "DAMAGE": 20
+      },
       "requirements": [
         {
           "type": "SKILL",
@@ -72106,11 +72363,14 @@
       "id": "BOOKCASE"
     },
     {
-      "material": "WOOD_AXE",
+      "material": "STONE_AXE",
       "item_model": "hypixel_skyblock:item/uncategorized/pig_axe",
-      "name": "Pig Axe",
-      "category": "AXE",
+      "name": "Advanced Pig Axe",
+      "category": "SWORD",
       "tier": "UNCOMMON",
+      "stats": {
+        "DAMAGE": 20
+      },
       "requirements": [
         {
           "type": "SKILL",
@@ -72131,6 +72391,7 @@
       "name": "Ornate Zombie Sword",
       "category": "SWORD",
       "tier": "EPIC",
+      "actionbar_resource": "VITALITY",
       "stats": {
         "DAMAGE": 110,
         "STRENGTH": 60,
@@ -77204,11 +77465,11 @@
     },
     {
       "material": "LEATHER_LEGGINGS",
-      "color": "255,255,0",
-      "name": "Farm Suit Leggings",
+      "color": "74,72,132",
+      "name": "Farmhand Leggings",
       "category": "LEGGINGS",
       "stats": {
-        "DEFENSE": 30,
+        "DEFENSE": 10,
         "FARMING_FORTUNE": 5
       },
       "npc_sell_price": 32,
@@ -77219,14 +77480,11 @@
           "level": 3
         }
       ],
-      "gemstone_slots": [
-        {
-          "slot_type": "PERIDOT"
-        }
-      ],
       "museum_data": {
         "category": "FARMING",
-        "parent": {},
+        "parent": {
+          "FARM_SUIT": "FARM_ARMOR"
+        },
         "armor_set_donation_xp": {
           "FARM_SUIT": 1
         },
@@ -77879,7 +78137,7 @@
       "category": "ACCESSORY",
       "npc_sell_price": 1440,
       "stats": {
-        "vitality": 5
+        "vitality": 2
       },
       "id": "HEALING_TALISMAN"
     },
@@ -80128,8 +80386,9 @@
       "category": "HELMET",
       "tier": "UNCOMMON",
       "stats": {
-        "DEFENSE": 10,
-        "INTELLIGENCE": 30
+        "DEFENSE": 15,
+        "INTELLIGENCE": 30,
+        "HEALTH": 15
       },
       "npc_sell_price": 2500,
       "requirements": [
@@ -81858,7 +82117,8 @@
       "tier": "UNCOMMON",
       "stats": {
         "DEFENSE": 30,
-        "HEALTH": 30
+        "HEALTH": 30,
+        "STRENGTH": 5
       },
       "npc_sell_price": 3500,
       "requirements": [
@@ -82561,11 +82821,14 @@
       "id": "SCARF_GRIMOIRE"
     },
     {
-      "material": "WOOD_AXE",
+      "material": "STONE_AXE",
       "item_model": "hypixel_skyblock:item/uncategorized/mushroom_cow_axe",
-      "name": "Mushroom Cow Axe",
-      "category": "AXE",
+      "name": "Advanced Mooshroom Axe",
+      "category": "SWORD",
       "tier": "UNCOMMON",
+      "stats": {
+        "DAMAGE": 20
+      },
       "requirements": [
         {
           "type": "SKILL",
@@ -82803,7 +83066,8 @@
       "tier": "RARE",
       "stats": {
         "DEFENSE": 60,
-        "HEALTH": 60
+        "HEALTH": 60,
+        "STRENGTH": 10
       },
       "npc_sell_price": 15000,
       "requirements": [
@@ -85537,7 +85801,8 @@
       "tier": "UNCOMMON",
       "stats": {
         "DEFENSE": 40,
-        "HEALTH": 40
+        "HEALTH": 40,
+        "STRENGTH": 5
       },
       "npc_sell_price": 4000,
       "requirements": [
@@ -85816,9 +86081,9 @@
       "category": "BOOTS",
       "tier": "RARE",
       "stats": {
-        "DEFENSE": 30,
-        "INTELLIGENCE": 50,
-        "HEALTH": 30
+        "DEFENSE": 15,
+        "INTELLIGENCE": 30,
+        "HEALTH": 15
       },
       "npc_sell_price": 15000,
       "requirements": [
@@ -88670,17 +88935,20 @@
       "name": "Farming Talisman",
       "category": "ACCESSORY",
       "npc_sell_price": 25,
+      "tier": "UNCOMMON",
+      "stats": {
+        "FARMING_FORTUNE": 3
+      },
       "id": "FARMING_TALISMAN"
     },
     {
-      "material": "LEATHER_HELMET",
+      "material": "HAY_BLOCK",
       "color": "255,215,0",
-      "name": "Farm Armor Helmet",
+      "name": "Haymaker Helmet",
       "category": "HELMET",
-      "tier": "RARE",
+      "tier": "COMMON",
       "stats": {
-        "DEFENSE": 40,
-        "HEALTH": 20,
+        "DEFENSE": 15,
         "FARMING_FORTUNE": 10
       },
       "npc_sell_price": 3200,
@@ -88691,30 +88959,13 @@
           "level": 10
         }
       ],
-      "gemstone_slots": [
-        {
-          "slot_type": "PERIDOT"
-        },
-        {
-          "slot_type": "PERIDOT",
-          "costs": [
-            {
-              "type": "ITEM",
-              "item_id": "FINE_PERIDOT_GEM",
-              "amount": 20
-            },
-            {
-              "type": "COINS",
-              "coins": 50000
-            }
-          ]
-        }
-      ],
       "museum_data": {
         "category": "FARMING",
-        "parent": {},
+        "parent": {
+          "FARM_ARMOR": "PUMPKIN"
+        },
         "armor_set_donation_xp": {
-          "FARM_ARMOR": 3
+          "FARM_ARMOR": 2
         },
         "game_stage": "AMATEUR"
       },
@@ -91033,8 +91284,9 @@
       "category": "WAND",
       "tier": "UNCOMMON",
       "stats": {
-        "WEAPON_ABILITY_DAMAGE": 40
+        "WEAPON_ABILITY_DAMAGE": 250
       },
+      "ability_damage_scaling": 0.3,
       "npc_sell_price": 2500,
       "requirements": [
         {
@@ -94226,6 +94478,30 @@
       "id": "HARVESTING_SWORD"
     },
     {
+      "material": "STONE_AXE",
+      "item_model": "hypixel_skyblock:item/uncategorized/rookie_farming_axe",
+      "name": "Rookie Farming Axe",
+      "category": "FARMING_TOOL",
+      "npc_sell_price": 3,
+      "museum": true,
+      "stats": {
+        "FARMING_FORTUNE": 5
+      },
+      "requirements": [
+        {
+          "type": "SKILL",
+          "skill": "FARMING",
+          "level": 1
+        }
+      ],
+      "museum_data": {
+        "donation_xp": 1,
+        "category": "FARMING",
+        "game_stage": "STARTER"
+      },
+      "id": "ROOKIE_FARMING_AXE"
+    },
+    {
       "material": "SKULL_ITEM",
       "durability": 3,
       "skin": {
@@ -94334,11 +94610,14 @@
       "id": "WOOD_STEP:2"
     },
     {
-      "material": "WOOD_AXE",
+      "material": "STONE_AXE",
       "item_model": "hypixel_skyblock:item/uncategorized/cow_axe",
-      "name": "Cow Axe",
-      "category": "AXE",
+      "name": "Advanced Cow Axe",
+      "category": "SWORD",
       "tier": "UNCOMMON",
+      "stats": {
+        "DAMAGE": 20
+      },
       "requirements": [
         {
           "type": "SKILL",
@@ -94816,6 +95095,7 @@
       "name": "Florid Zombie Sword",
       "category": "SWORD",
       "tier": "LEGENDARY",
+      "actionbar_resource": "VITALITY",
       "stats": {
         "DAMAGE": 150,
         "STRENGTH": 80,
@@ -95516,6 +95796,7 @@
       "name": "Zombie Sword",
       "category": "SWORD",
       "tier": "RARE",
+      "actionbar_resource": "VITALITY",
       "stats": {
         "DAMAGE": 100,
         "STRENGTH": 50,
@@ -95794,8 +96075,9 @@
       "category": "WAND",
       "tier": "RARE",
       "stats": {
-        "WEAPON_ABILITY_DAMAGE": 50
+        "WEAPON_ABILITY_DAMAGE": 300
       },
+      "ability_damage_scaling": 0.3,
       "npc_sell_price": 15000,
       "requirements": [
         {
@@ -96219,11 +96501,14 @@
       "id": "JAR_OF_SAND"
     },
     {
-      "material": "WOOD_AXE",
+      "material": "STONE_AXE",
       "item_model": "hypixel_skyblock:item/uncategorized/rabbit_axe",
-      "name": "Rabbit Axe",
-      "category": "AXE",
+      "name": "Advanced Rabbit Axe",
+      "category": "SWORD",
       "tier": "UNCOMMON",
+      "stats": {
+        "DAMAGE": 20
+      },
       "requirements": [
         {
           "type": "SKILL",
@@ -96313,7 +96598,8 @@
       "tier": "RARE",
       "stats": {
         "DEFENSE": 40,
-        "HEALTH": 40
+        "HEALTH": 40,
+        "STRENGTH": 10
       },
       "npc_sell_price": 10000,
       "requirements": [
@@ -97029,28 +97315,30 @@
     },
     {
       "material": "LEATHER_LEGGINGS",
-      "color": "237,170,54",
-      "name": "Pumpkin Leggings",
+      "color": "255,142,9",
+      "name": "Sprout Leggings",
       "category": "LEGGINGS",
+      "tier": "UNCOMMON",
       "stats": {
-        "DEFENSE": 10,
-        "HEALTH": 10
+        "DEFENSE": 20,
+        "FARMING_FORTUNE": 15
       },
-      "npc_sell_price": 14,
       "requirements": [
         {
           "type": "SKILL",
           "skill": "FARMING",
-          "level": 2
+          "level": 15
         }
       ],
       "museum_data": {
         "category": "FARMING",
-        "parent": {},
-        "armor_set_donation_xp": {
-          "PUMPKIN": 2
+        "parent": {
+          "PUMPKIN": "MELON"
         },
-        "game_stage": "STARTER"
+        "armor_set_donation_xp": {
+          "PUMPKIN": 3
+        },
+        "game_stage": "AMATEUR"
       },
       "id": "PUMPKIN_LEGGINGS"
     },
@@ -98076,7 +98364,7 @@
         "DEFENSE": 20,
         "HEALTH": 40,
         "CRITICAL_DAMAGE": 25,
-        "TRUE_DEFENSE": 5
+        "TRUE_DEFENSE": 20
       },
       "requirements": [
         {
@@ -101343,7 +101631,7 @@
       "tier": "RARE",
       "soulbound": "SOLO",
       "stats": {
-        "vitality": 5
+        "vitality": 3
       },
       "requirements": [
         {
@@ -101651,7 +101939,7 @@
       "category": "BOW",
       "tier": "LEGENDARY",
       "stats": {
-        "DAMAGE": 251,
+        "DAMAGE": 319,
         "STRENGTH": 151,
         "CRITICAL_DAMAGE": 39,
         "vitality": 20
@@ -101910,7 +102198,9 @@
       "stats": {
         "DEFENSE": 35,
         "HEALTH": 100,
-        "INTELLIGENCE": 100
+        "INTELLIGENCE": 100,
+        "VITALITY": 50,
+        "MENDING": 50
       },
       "dungeon_item_conversion_cost": {
         "essence_type": "UNDEAD",
@@ -101996,7 +102286,9 @@
       "stats": {
         "DEFENSE": 10,
         "HEALTH": 50,
-        "INTELLIGENCE": 50
+        "INTELLIGENCE": 50,
+        "VITALITY": 40,
+        "MENDING": 40
       },
       "dungeon_item_conversion_cost": {
         "essence_type": "UNDEAD",
@@ -102579,7 +102871,9 @@
       "stats": {
         "DEFENSE": 100,
         "HEALTH": 150,
-        "INTELLIGENCE": 100
+        "INTELLIGENCE": 100,
+        "VITALITY": 60,
+        "MENDING": 60
       },
       "dungeon_item_conversion_cost": {
         "essence_type": "UNDEAD",
@@ -102671,6 +102965,7 @@
       "glowing": true,
       "category": "WAND",
       "tier": "EPIC",
+      "actionbar_resource": "VITALITY",
       "requirements": [
         {
           "type": "SLAYER",
@@ -102696,6 +102991,7 @@
       "glowing": true,
       "category": "WAND",
       "tier": "LEGENDARY",
+      "actionbar_resource": "VITALITY",
       "requirements": [
         {
           "type": "SLAYER",
@@ -102719,6 +103015,7 @@
       "glowing": true,
       "category": "WAND",
       "tier": "UNCOMMON",
+      "actionbar_resource": "VITALITY",
       "requirements": [
         {
           "type": "SLAYER",
@@ -102744,6 +103041,7 @@
       "glowing": true,
       "category": "WAND",
       "tier": "RARE",
+      "actionbar_resource": "VITALITY",
       "requirements": [
         {
           "type": "SLAYER",
@@ -103341,8 +103639,9 @@
       "category": "LEGGINGS",
       "tier": "EPIC",
       "stats": {
-        "DEFENSE": -1000000,
-        "HEALTH": 500
+        "DEFENSE": -30,
+        "HEALTH": 400,
+        "CRITICAL_DAMAGE": 15
       },
       "requirements": [
         {
@@ -103422,9 +103721,10 @@
       "category": "HELMET",
       "tier": "EPIC",
       "stats": {
-        "DEFENSE": -1000000,
-        "HEALTH": 500,
-        "INTELLIGENCE": 125
+        "DEFENSE": -30,
+        "HEALTH": 300,
+        "INTELLIGENCE": 125,
+        "CRITICAL_DAMAGE": 15
       },
       "requirements": [
         {
@@ -103499,9 +103799,10 @@
       "category": "BOOTS",
       "tier": "EPIC",
       "stats": {
-        "DEFENSE": -1000000,
-        "HEALTH": 500,
-        "INTELLIGENCE": 25
+        "DEFENSE": -30,
+        "HEALTH": 200,
+        "INTELLIGENCE": 25,
+        "CRITICAL_DAMAGE": 15
       },
       "requirements": [
         {
@@ -103576,8 +103877,9 @@
       "category": "CHESTPLATE",
       "tier": "EPIC",
       "stats": {
-        "DEFENSE": -1000000,
-        "HEALTH": 500
+        "DEFENSE": -30,
+        "HEALTH": 500,
+        "CRITICAL_DAMAGE": 15
       },
       "requirements": [
         {
@@ -104033,9 +104335,10 @@
       "category": "SWORD",
       "tier": "LEGENDARY",
       "stats": {
-        "WALK_SPEED": 5,
-        "DAMAGE": 120,
-        "STRENGTH": 20
+        "WALK_SPEED": 10,
+        "DAMAGE": 160,
+        "STRENGTH": 80,
+        "ATTACK_SPEED": 5
       },
       "requirements": [
         {
@@ -104923,6 +105226,17 @@
       "tier": "EPIC",
       "origin": "RIFT",
       "id": "SUPER_SCORCHER"
+    },
+    {
+      "material": "PAPER",
+      "item_model": "hypixel_skyblock:item/uncategorized/magic_for_pets",
+      "name": "Magic For Pets In A Hurry",
+      "glowing": true,
+      "tier": "UNCOMMON",
+      "can_recombobulate": false,
+      "force_wipe_recomb": true,
+      "npc_sell_price": 2700,
+      "id": "MAGIC_FOR_PETS"
     },
     {
       "material": "SKULL_ITEM",
@@ -107002,27 +107316,16 @@
       "name": "Rabbit Chestplate",
       "category": "CHESTPLATE",
       "stats": {
-        "FARMING_FORTUNE": 15
+        "defense": 40,
+        "walk_speed": 5
       },
-      "requirements": [
-        {
-          "type": "SKILL",
-          "skill": "FARMING",
-          "level": 15
-        }
-      ],
-      "gemstone_slots": [
-        {
-          "slot_type": "PERIDOT"
-        }
-      ],
       "museum_data": {
         "category": "FARMING",
         "parent": {},
         "armor_set_donation_xp": {
-          "RABBIT": 8
+          "RABBIT": 1
         },
-        "game_stage": "SKILLED"
+        "game_stage": "STARTER"
       },
       "id": "RABBIT_CHESTPLATE"
     },
@@ -107032,57 +107335,39 @@
       "name": "Rabbit Leggings",
       "category": "LEGGINGS",
       "stats": {
-        "FARMING_FORTUNE": 15
+        "defense": 30,
+        "walk_speed": 5
       },
-      "requirements": [
-        {
-          "type": "SKILL",
-          "skill": "FARMING",
-          "level": 15
-        }
-      ],
-      "gemstone_slots": [
-        {
-          "slot_type": "PERIDOT"
-        }
-      ],
       "museum_data": {
         "category": "FARMING",
         "parent": {},
         "armor_set_donation_xp": {
-          "RABBIT": 8
+          "RABBIT": 1
         },
-        "game_stage": "SKILLED"
+        "game_stage": "STARTER"
       },
       "id": "RABBIT_LEGGINGS"
     },
     {
-      "material": "LEATHER_HELMET",
-      "color": "203,210,219",
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": {
+        "value": "ewogICJ0aW1lc3RhbXAiIDogMTc4MDM1MjcxOTUzNCwKICAicHJvZmlsZUlkIiA6ICJiMGQ0YjI4YmMxZDc0ODg5YWYwZTg2NjFjZWU5NmFhYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJNaW5lU2tpbl9vcmciLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZGEwY2EyYjkwZDgzMWYxN2Y3YzhiNzcxZmIzOTczY2NhMmQ3NmE0NTZiYjdiNDdiODBkNjg3MmIwNWIyNTFmNSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+        "signature": "KjzhHeGbPJVK/cwCrySP8+275jUrN3wcLxuNaDC1FWxdbsQq3cVdateP+NYfed55JWSw92vvGGDxd44kyQFGwzboFmPNxM9V2ETjF/+AM5t2OWe7dq8DdBRvmEgO6yYF7f7T6yvxn8tSOFYZDDFEeoQOzJNBgocNoF43PisJOLuqiPvGVgKZPDxnjM2TC+gNKTWRwypDyba9dcmHvzGHep6Jm3GnJ5b70Tf+bnYwbYZbrvZt7/rLz63QCqRrewxnsoffZ0ntiZI5d3f0y6V01oHf0Tc9xBfOlivtfOnMD79ARSEXsifVwtYO1gzGAwLCKkQuZSHk0U9SeUqwAhsr5+SAb0y9qGyBX9nAdeXNt9v17CqnzBQ7ThJAYOVrNLeR8T1HnYVWKckHGD+sW4vVrYYNUb7MhyhiuX0acg84BFDMRn54shrpCpoo7QKKpo6bzNXb3Ca7v3M4BS6ENp5YqLMlVufeDTLVRlv8ETgafsQowCP0bJX6EpKjBHSM6oXQcletqxPbxMw4Trf0Ur0BXjd4HxsIaRlhER7uZFi64XO3e28HUi/qgGqT9Kp8PQof4YnTgACsy1CVAtPnswGeyS/e6jHc5meqdlkcWOrvHUlaqUtm1J7D9jviCkr0o1YoHN4toQUFQsnOj8i17DJ3pYvgokavUTBsRxj2l27F+rI="
+      },
       "name": "Rabbit Helmet",
       "category": "HELMET",
       "stats": {
-        "FARMING_FORTUNE": 15
+        "defense": 15,
+        "walk_speed": 5
       },
-      "requirements": [
-        {
-          "type": "SKILL",
-          "skill": "FARMING",
-          "level": 15
-        }
-      ],
-      "gemstone_slots": [
-        {
-          "slot_type": "PERIDOT"
-        }
-      ],
       "museum_data": {
         "category": "FARMING",
         "parent": {},
         "armor_set_donation_xp": {
-          "RABBIT": 8
+          "RABBIT": 1
         },
-        "game_stage": "SKILLED"
+        "game_stage": "STARTER"
       },
       "id": "RABBIT_HELMET"
     },
@@ -107092,27 +107377,16 @@
       "name": "Rabbit Boots",
       "category": "BOOTS",
       "stats": {
-        "FARMING_FORTUNE": 15
+        "defense": 15,
+        "walk_speed": 5
       },
-      "requirements": [
-        {
-          "type": "SKILL",
-          "skill": "FARMING",
-          "level": 15
-        }
-      ],
-      "gemstone_slots": [
-        {
-          "slot_type": "PERIDOT"
-        }
-      ],
       "museum_data": {
         "category": "FARMING",
         "parent": {},
         "armor_set_donation_xp": {
-          "RABBIT": 8
+          "RABBIT": 1
         },
-        "game_stage": "SKILLED"
+        "game_stage": "STARTER"
       },
       "id": "RABBIT_BOOTS"
     },
@@ -107555,8 +107829,13 @@
       "id": "SQUASH_BOOTS"
     },
     {
-      "material": "MELON_BLOCK",
-      "name": "Melon Helmet",
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": {
+        "value": "ewogICJ0aW1lc3RhbXAiIDogMTc4MTE0MDY4MTUzOCwKICAicHJvZmlsZUlkIiA6ICI0YTQ1ZmY3NDM2Njk0YTNiYTc3OTdhYTgyN2IwNDM1NiIsCiAgInByb2ZpbGVOYW1lIiA6ICJzcGlmZnRvcGlhNSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS84MjA4NjY5ZTY5OWQ2ZjBkM2E3N2Y3NGIyYjI3MjI4Y2U1MWI5MzU5Njc4ZDI2ZjljMzQwODc2NGIyZTc3OWFhIgogICAgfQogIH0KfQ==",
+        "signature": "jyNytgvTGX/dkUvhaJwunuXn64Tk+2WYcPH3mWzO8R9w9+icEJJJYR7z8gaZJh7UCVnE3PJFkHUAWo7lUBGHfgmMjClJ9yLWsVRlgsjP9qxftbQCI1+KHsUIi5eZrocd7QLv+MIbOt3SjoHeNcjLqMWXFpj4OnludziP0dHve/hDUUHVzky0bU3OJ5n2M9XY12QTtF5J6zvC1s5pZBvaajJeTFyKMw9Fy4lbmSP5bG/w1pkRu3Mam2rpSfq+kwb+6vFbyeEbjTkXawzVvmx/N5c/z4e2i03ewY+TApyUQ4ngryoMVZts5hJfOYOVfny1EnE1C+rW3oIvzKee+h/yO0Acni0z3KLH2UwZEAe68O+06yxIT4/1fAkMjgC2RdIdz1zxV9CCJtVOYqLIpbFLYHRrJH9RgJZh6wbJuHjOikl2nBbDvIHyu+7Ky/5YP6Xn2RtsUwwoZ2OrKl+1iY6H+MUdvXiM5i10dLEFeLL4oiplE3uTs9yDlzapRvCwngcIS8U8S7MWBBMgqBPWpkshputZSC2WS+sVj4gNMPCdu1k3nb/mIluCu11ozM2h432nGaNaZF8pzhLM3QKe1dRP51qSn3OShA9CAiCsh0S15um4QiNFO92Jpqh5mjwpFItOkzhoBCB2PYq+GVcjd++7HwCc8iq/GH0qlY/oj+15fHY="
+      },
+      "name": "Tater Helmet",
       "category": "HELMET",
       "tier": "UNCOMMON",
       "stats": {
@@ -107570,7 +107849,7 @@
         {
           "type": "SKILL",
           "skill": "FARMING",
-          "level": 25
+          "level": 20
         }
       ],
       "museum_data": {
@@ -107587,8 +107866,8 @@
     },
     {
       "material": "LEATHER_BOOTS",
-      "color": "137,158,32",
-      "name": "Melon Boots",
+      "color": "154,85,0",
+      "name": "Tater Boots",
       "tier": "UNCOMMON",
       "category": "BOOTS",
       "stats": {
@@ -107602,7 +107881,7 @@
         {
           "type": "SKILL",
           "skill": "FARMING",
-          "level": 25
+          "level": 20
         }
       ],
       "museum_data": {
@@ -107619,8 +107898,8 @@
     },
     {
       "material": "LEATHER_CHESTPLATE",
-      "color": "137,158,32",
-      "name": "Melon Chestplate",
+      "color": "248,208,134",
+      "name": "Tater Chestplate",
       "tier": "UNCOMMON",
       "category": "CHESTPLATE",
       "stats": {
@@ -107634,7 +107913,7 @@
         {
           "type": "SKILL",
           "skill": "FARMING",
-          "level": 25
+          "level": 20
         }
       ],
       "museum_data": {
@@ -107651,8 +107930,8 @@
     },
     {
       "material": "LEATHER_LEGGINGS",
-      "color": "137,158,32",
-      "name": "Melon Leggings",
+      "color": "200,151,58",
+      "name": "Tater Leggings",
       "tier": "UNCOMMON",
       "category": "LEGGINGS",
       "stats": {
@@ -107666,7 +107945,7 @@
         {
           "type": "SKILL",
           "skill": "FARMING",
-          "level": 25
+          "level": 20
         }
       ],
       "museum_data": {
@@ -107680,6 +107959,46 @@
         "game_stage": "INTERMEDIATE"
       },
       "id": "MELON_LEGGINGS"
+    },
+    {
+      "material": "PAPER",
+      "item_model": "hypixel_skyblock:item/uncategorized/medium_honey_dipper",
+      "name": "Medium Honey Dipper",
+      "tier": "RARE",
+      "unstackable": true,
+      "can_auction": false,
+      "can_recombobulate": false,
+      "id": "MEDIUM_HONEY_DIPPER"
+    },
+    {
+      "material": "PAPER",
+      "item_model": "hypixel_skyblock:item/uncategorized/giant_honey_dipper",
+      "name": "Giant Honey Dipper",
+      "tier": "LEGENDARY",
+      "unstackable": true,
+      "can_auction": false,
+      "can_recombobulate": false,
+      "id": "GIANT_HONEY_DIPPER"
+    },
+    {
+      "material": "PAPER",
+      "item_model": "hypixel_skyblock:item/uncategorized/large_honey_dipper",
+      "name": "Large Honey Dipper",
+      "tier": "EPIC",
+      "unstackable": true,
+      "can_auction": false,
+      "can_recombobulate": false,
+      "id": "LARGE_HONEY_DIPPER"
+    },
+    {
+      "material": "PAPER",
+      "item_model": "hypixel_skyblock:item/uncategorized/small_honey_dipper",
+      "name": "Small Honey Dipper",
+      "tier": "UNCOMMON",
+      "unstackable": true,
+      "can_auction": false,
+      "can_recombobulate": false,
+      "id": "SMALL_HONEY_DIPPER"
     },
     {
       "material": "FENCE_GATE",
@@ -109184,6 +109503,29 @@
     },
     {
       "material": "PAPER",
+      "item_model": "hypixel_skyblock:item/island_relevant/garden/pests/juicy_sprayonator",
+      "name": "Juicy Sprayonator",
+      "tier": "RARE",
+      "has_uuid": true,
+      "requirements": [
+        {
+          "type": "GARDEN_LEVEL",
+          "level": 5
+        }
+      ],
+      "museum_data": {
+        "donation_xp": 4,
+        "category": "FARMING",
+        "parent": {
+          "JUICY_SPRAYONATOR": "SALTY_SPRAYONATOR"
+        },
+        "mapped_item_ids": [],
+        "game_stage": "SKILLED"
+      },
+      "id": "JUICY_SPRAYONATOR"
+    },
+    {
+      "material": "PAPER",
       "item_model": "hypixel_skyblock:item/island_relevant/garden/pests/wriggling_larva",
       "name": "Wriggling Larva",
       "tier": "EPIC",
@@ -109204,7 +109546,6 @@
       "item_model": "hypixel_skyblock:item/island_relevant/garden/pests/sprayonator",
       "name": "Sprayonator",
       "tier": "UNCOMMON",
-      "soulbound": "COOP",
       "has_uuid": true,
       "requirements": [
         {
@@ -109215,6 +109556,10 @@
       "museum_data": {
         "donation_xp": 2,
         "category": "FARMING",
+        "parent": {
+          "SPRAYONATOR": "JUICY_SPRAYONATOR"
+        },
+        "mapped_item_ids": [],
         "game_stage": "AMATEUR"
       },
       "id": "SPRAYONATOR"
@@ -109279,6 +109624,15 @@
     },
     {
       "material": "PAPER",
+      "item_model": "hypixel_skyblock:item/island_relevant/garden/pests/juicy_nozzle",
+      "name": "Juicy Nozzle",
+      "tier": "RARE",
+      "has_uuid": true,
+      "description": "Can be used at %%green%%SkyMart %%gray%%to upgrade the %%green%%Sprayonator %%gray%%to the %%blue%%Juicy Sprayonator%%gray%%.",
+      "id": "JUICY_NOZZLE"
+    },
+    {
+      "material": "PAPER",
       "item_model": "hypixel_skyblock:item/island_relevant/garden/pests/honey_jar",
       "name": "Honey Jar",
       "tier": "UNCOMMON",
@@ -109339,6 +109693,27 @@
       "npc_sell_price": 50000,
       "has_uuid": true,
       "id": "VINYL_FIREFLY"
+    },
+    {
+      "material": "PAPER",
+      "item_model": "hypixel_skyblock:item/island_relevant/garden/pests/salty_sprayonator",
+      "name": "Salty Sprayonator",
+      "tier": "EPIC",
+      "has_uuid": true,
+      "requirements": [
+        {
+          "type": "GARDEN_LEVEL",
+          "level": 5
+        }
+      ],
+      "museum_data": {
+        "donation_xp": 8,
+        "category": "FARMING",
+        "parent": {},
+        "mapped_item_ids": [],
+        "game_stage": "PROFESSIONAL"
+      },
+      "id": "SALTY_SPRAYONATOR"
     },
     {
       "material": "PAPER",
@@ -109920,7 +110295,7 @@
       "tier": "UNCOMMON",
       "npc_sell_price": 100,
       "stats": {
-        "FARMING_FORTUNE": 5
+        "FARMING_FORTUNE": 10
       },
       "requirements": [
         {
@@ -109991,7 +110366,7 @@
       "tier": "RARE",
       "npc_sell_price": 100,
       "stats": {
-        "FARMING_FORTUNE": 10
+        "FARMING_FORTUNE": 15
       },
       "enchantments": {
         "replenish": 1
@@ -110027,7 +110402,7 @@
       "tier": "RARE",
       "npc_sell_price": 100,
       "stats": {
-        "FARMING_FORTUNE": 10
+        "FARMING_FORTUNE": 15
       },
       "enchantments": {
         "replenish": 1
@@ -110078,7 +110453,7 @@
       "tier": "UNCOMMON",
       "npc_sell_price": 100,
       "stats": {
-        "FARMING_FORTUNE": 5
+        "FARMING_FORTUNE": 10
       },
       "requirements": [
         {
@@ -115024,13 +115399,13 @@
       "npc_sell_price": 80000,
       "rift_transferrable": true,
       "stats": {
-        "health_regeneration": 10,
+        "health_regeneration": 5,
         "vitality": 1,
         "rift_time": 30,
         "rift_health": 1
       },
       "item_specific": {
-        "cooldown_seconds": 1,
+        "cooldown_seconds": 20,
         "bonus_heal": 1
       },
       "requirements": [
@@ -117816,7 +118191,6 @@
         "signature": "c2DbGpXPWSD6ZI5WOHolwNnGwrUnI/FwVrSYk7ZcqJCXgEpGXVAsaICJ55RKQAFnj7SOPAR9UN66Tx5ftlBfY5w26m7zkl3SjaBZLEvOdRBoZ96mD7cmXZMg9ksm6+cDcig2S9dlKeHB0PabQ22cCA5ffWfdUee1IRF80rI/0Kc0z0xxvUIeD3HeVJ0Ws91Y8eeqEaBhB4h61HFguOtib3+jq4y6H2r41n049EqTIMKpF0M+2L5nbafC/mGKRF9S/Jz+EC9fKzKCqoBvFLUB0wnaCEcps9Q8xownJKNCggNzplQysv4uKQV2PX3rxAT9QGmgOoB4JrF3gV/nZAJhjUkCalf8aFYS1gFAdVZqNghRrLzMMqds6UlbiEIrIaL4TGFIjUMAZ2qgLbPQDNnGWVqHeEjj6n7oBHPcuRUa4hJ6veXkk9tQaP7ZukpRUO12+DsrTT0DscE9x97sD47+hNuLckDHIYddptYD5SMOchGcTKgY9YmfQlmZM9c0xQa4w4wNTXfUzQG2KtIZ6gbxPmSboM7smd1Y0iCEnxA4zU+SoZgS1bTQTE3o3zvnMOpqh06AkOZNBM03Hvk71QA2TM1qeFufuvH8gTBVNlcogYaqWpA71j4K3PLOmzY0D51Zj4/rO1MGb8kGEuDr52reqEoscfMv7JXbdB4j3LPdt1c="
       },
       "tier": "RARE",
-      "category": "PET_ITEM",
       "can_auction": false,
       "unstackable": true,
       "can_recombobulate": false,
@@ -117831,7 +118205,6 @@
         "signature": "FmuK3qZy0Om9II/DGQJcBGb1K6V5zeLl7dEJWXfCm734PzZ97e8lq+LChE7PdvKPXsuA+ZkkMSk+djb8gqoPc6eceYs6rKN9srb551f0QDS4x9KusJQnbB8xv/2mQNgN8P6So7iUOud9vApvT/VsR4Fu5XWayXURf5l2HV5FiD7+lhH72u9XOdlJfatjqJ/hMrRFRaukvxdKafTy8Y9bZKnbqy/pAznJPTdrDzUTFCGKZptTRBKLMY9qjTLqCMq0sEN+LoUdffxzMNQ5zky0AXDpYxIS4ZIwTyWaGEpkM7VWCYYYYsuW3pUlf1doHhWJIseqGLpZvhpfZVmzKeZ0j1ZfoGGrVURHfGtYJE2NWOSjSy8lsBmLKUCkxSmp0MP/umqeS837033PRccWaG/SFsDsFPvpL1/mCsZ0hwTnBeWAxIvX9WxbURxeSfAXj/cjjCZM5iXMgdYEzFsJF4cxh+jReIA7y8F6yIShlpoycLiAt5/dAI3yq2sgTNgt9kCCGhfFSDwY7Fas59yF18jCD8ONsY9eR5Az8ET8+sVxHonXaKQrwQpWsPmybUPZOUEvsHKbKKOTicDAjJwXmdgruRKriMjBrayYoU/57wKeylIzMl7PtZup6gyfmXhV2YO3U6qnBEZyFf1sP+Y7qOwLs250TY7RPk5WraWgP2/WIKw="
       },
       "tier": "LEGENDARY",
-      "category": "PET_ITEM",
       "can_auction": false,
       "unstackable": true,
       "can_recombobulate": false,
@@ -117845,7 +118218,6 @@
         "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzhlM2Q2YWE5ODgwYjViYTYzMmUzYzJmNDc2NmMzMDcxOTM2MDczYTc1ZGNlZGQ0NDVhZTdhYTU3MmE1MDk4ZSJ9fX0="
       },
       "tier": "LEGENDARY",
-      "category": "PET_ITEM",
       "soulbound": "SOLO",
       "unstackable": true,
       "id": "GIANT_FROG_TREAT"
@@ -117859,7 +118231,6 @@
         "signature": "UE/zeJWUOnP98yFR+7QTG/M8ynNjMQWR6b3n5Bsr8MuN1i1NStqr2TFRxwzXkfHLwnO/NPUUHuclY0pWIGlRGR3DjpwQGVcV1VgR+/87FrQ2zNVlAVrRbC8uwd/kvFbBK6XEtoRbyrGk91bf3W9ik/RQSId2slA+Y2tCi5PwPIMMyzZCFSZ7/9SqI7CSfl7V9bWTSp8Uljh4eN+XN/8pf/u26YXkudHLfXJILJXTsQjoH+PBVjNuK+HhQg21bPsE/et06bAFIA/CCF5hTrfjFVx0iZcZQIL6qznhe2eQ2UPHmNN6p+4iSUu6EjPgSmbngRkfrxVDqxlPF9BfOUemELUW/6+CVM2s3xmIF4tC6BOalwb+N4SW6cwflWDH/vMQJ5DwGtllCRXdS/3PsFYafR5ecFvpJec/UMvkk0SCO3NHMEqJjTDCrF31Q+JA97+FpW0JIZS7LDdbTXBQeuuy71YsMSpdvQlEbux+tBSNQbELbbKwfjHCy10xUM+VRJ9ID/CZQEMoyyzGntW1jpYNYS1M1+DP5AUr4YK790QxHnPDARF2ZIDszarMQLXaBm4X8UCpaJaTCcWkEJIhtMLz5mlG9EwJ2O/evVPv0fZChwnSEFK/YTkXMbr6CythvE0RfcTPGw8TOHQvLd4wyRjfFKtou6N7Us3Jcy6hc4g2oAw="
       },
       "tier": "UNCOMMON",
-      "category": "PET_ITEM",
       "unstackable": true,
       "can_auction": false,
       "can_recombobulate": false,
@@ -117873,7 +118244,6 @@
         "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzI0NTAzNjc4MmM2YTdlMjVmZjg0YzUwODdhNjU5NjZkNjUwYzAzM2JhMzdlMDA5NjVlOGI5OTAyMWIzZWNhZSJ9fX0="
       },
       "tier": "RARE",
-      "category": "PET_ITEM",
       "soulbound": "SOLO",
       "unstackable": true,
       "id": "MEDIUM_FROG_TREAT"
@@ -117887,7 +118257,6 @@
         "signature": "nYs9jNX0yJTUiDaZ0K8+owgRsVcZ4CWJS7BCawwX83x+7uqUxPkh7YmGMyTQnSpLAiOqbQ3jQoOFgjJogQbTi+00y8Ab1BveJjHOWx0CJt363JjFnPoT1qpKT7zoXLDUB5dFs//4Y2yKYzVdF7CuhYzBgdhQlGdFzROzKGRc59K7xqUfaRxU82V0+3ZCb6csVzFUIAd4Ygr1quV8rK27TKcMujtERct3eweGQC0OJEcUwYgRI7Yj/nKmUIY+PIb4Bt7UmCVWND79s5GqKFjOm1WoYnGZ03Q0VwDlUq/0WY8gF4eSysZFPa4/n5tc1DBkdfPmxhH3XHq+r3ttpLfllpfZJxZPAO7FhTbXgVC3VRGbqZf1toY/SgAxKiDDomxtDcH8ClNckNC487WeJv4ig1iN5dOnydWNiWaJ8I72rnByivVRx28XWQAxaFCrZyFZcMoYFNEjIutKkCIr+qHwGIrUYopzGZcZfCfXUZxDJDwBUjh+pw13o7MoYlFcqpw7fxHJp+SyX6YpvgSLi2TCzgqfEAMtKu1kNFUKhjx1zEwet93K6I0RDDPVduekL5Xpk6gFgFbgxI99kS7RxloFVXfGX3dLEKGvoWTOaP0s7EIxm/KSWtv9GdboIqrrlVYbvk0cPDT8s8mth9By6EwAevSNcH/nQnzaBAdh2rkj5+w="
       },
       "tier": "RARE",
-      "category": "PET_ITEM",
       "unstackable": true,
       "can_auction": false,
       "can_recombobulate": false,
@@ -117902,7 +118271,6 @@
         "signature": "P+m/NEkZojqm7QpUywErkr4gJwWncROWHEw9uuVqaNo3N0ASEBhCojkZvJvJo09DMbGVe8Xm3olTIDrGTB+lxUXj2t1SF1f0r7botHeYlkMvo+1qZSkbNbdTRQyaovRMXpDB7Xiqgd17mBtEU96UX+ztw4KtjtsFM94A3I6tO6G5/gjRRp55lnMoxEnxEMjZ+1GQzqt4R9CaNCASkeiH1tQj6ItU3VvXA52nTopqFoZ+Xvr87CKPjxQsLTVWhXUauDIEwujjNKYTClhfmy4o9ePerHy+U5vjhmMwE77YsBpTVKnuJf6OaoJ7W97hET8jkWoHJzOHwPzfYL4uyhMayBXz6GR++ZfHQ3t6meuWHe/ZOriSvL/BqOFgpk84pAM6HuBGYtSQ2ckQ8v2fRNabM+foMVuOBZGK95Bs57uuBQmuOAcavL7xjxgcDkl3YUJsgEcdIwJZPc257YE3A3UllKjZuaABhNKLnCwQvH3HnNDkM0fiHOJcSINFqxXT533l65rOI7HDkj1d2OLs4Eb/JQPg04MHtknTgrKzOyWEhXDFkjTO7ZTE/XpRQlh9NxtuB36sab5LXXWIlV4pTGG31ooZKefN4MOH1n3CZcvDs724zLn7rr1xEsiPSLIYdbfLVqjwoIoLN7zd8ggzLeNH4N4XplNFc+fqmjva1cWomPQ="
       },
       "tier": "EPIC",
-      "category": "PET_ITEM",
       "unstackable": true,
       "can_auction": false,
       "can_recombobulate": false,
@@ -117917,7 +118285,6 @@
         "signature": "Uh0hjqlYeDJEe/QLbDkQwJ1PjsL4MIMdunhZSbhZ+sD1J0uBQpI+WoxqpOXc/XswIXBwYYzCE2WmD+COxXbW/Abwbe1Y+mBWnx1HWYjWVeidwPuAOjHIiSmuFvUoKEJkmQLDvDtpUZO+AdbMbzECIo14+ODgy2JwE2vy8q3vcD8Mf4l3H6yYWION5chjL8AuKpIlWj/sO9M9SbGKFh7J2pl8FDxAtQUWwJwN8h2uYjPN5l6VF/6vKRjeuYJiONQPu1uHI/M2TyLZKvS4dN07c3jrEQIF5rg8hzg8eh04CWHF0UkhVBYsaJFo/b6SP2ZVQIKR0Xl4KVgnEKaFTWbD9Z/pnyAGT/z9iKjniqEPKz8GCRjmp8vrC9awzYnOCSEfx/NzVNAA+PXAG+DLo8eQOKjQLvKwoUDlT/iER0GmP1oXaFpEf/wwUuFfeUFm9nZgGfwd8q7UvvdMuNgjnaQE+F663HrZVYuSyKPr12sx688BsCnqS0n09ftltSeconJrcOivGhFs4XL9NZGID50CmD9CddHU/XxnrpZnw2NaCzkCfmemUu3eobKeSm/oc4Kw/BC6/IiXazk9r9k7l8Jty0oeXSVg9vW/Z3jyAziu9KtUTksedDYZtXHQIEhmpV0L/EUb/aFU9jZ6omdtbq63gOSTEm1f4odl8RBh6fk0zw4="
       },
       "tier": "UNCOMMON",
-      "category": "PET_ITEM",
       "can_auction": false,
       "unstackable": true,
       "can_recombobulate": false,
@@ -117931,7 +118298,6 @@
         "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTFmMjczMzdkMWUxYTk3YjY3YmYzM2Q0NTE3Y2UwYzIxZGU4MmI3MGUzYmZkNDVhMjIyMDFhNGQwNTZiNjAwYyJ9fX0="
       },
       "tier": "EPIC",
-      "category": "PET_ITEM",
       "soulbound": "SOLO",
       "unstackable": true,
       "id": "LARGE_FROG_TREAT"
@@ -117945,7 +118311,6 @@
         "signature": "pmlLKe8755DCTKoOfoAu8HvtuXFOH6a9+3Od4C96RGQSDYUJvX0WLWGKRjnIot6tORJxEwWlhqvGMCY6lS0MaWCJSVO4BM3lw1ZGB9lZgZ1yh9i9dDPIA1W7nLp09kQNcBZLB3lzfeL7nUZWqfoWtwFKAWRJ1FU/jId6r1pYlhh22emcC/oYkjRuwj/jQ4xh0b4aZQhaM24YSqGrtB1qfDdhyZYGCqmvh4F8XaVjCaaG7F2SJIhWiHnFh7NvTvugrOYY5qK/ilkNVw5FbcwHo2UhAQiC4Ij06rsIMGyPDphEn1NfzrK97m6+tAXNrFpvSk/LKwMkdvNYg9B+fQNZzuhsfZ4i67iVOr37skHT+d6BwCcJYqOyIAjC3bDICrPWuxkKpI6W4MhXJZkFkya0Cy+IXRh+keCBTEdqfyCKircbe6RO7MqSuDbHABNeFcPv202temJYobMgLasjn3qL0ZauUSQvs+AqLbx5aShi6qJgOlXkEmhr2RnPL7FzyPNIwxSGxck5u4L4DpZwqXuOznml1qYt0hoc+K75rJBwEgPQdP/OI7UxKA4P5uk3LGHMzogxfhXHKSXcBlrXW4WGdnU9MypIHM1FISR4AAO80YnTal/pAqiHVEPzhlKg5z7SRi+MQTNDAUCSV2QbA5ZO5jvFJtUH6Bw7Dzc3RE2ynBc="
       },
       "tier": "LEGENDARY",
-      "category": "PET_ITEM",
       "unstackable": true,
       "can_auction": false,
       "can_recombobulate": false,
@@ -117959,7 +118324,6 @@
         "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZWZkODg4MWQwMmZlOWNlZTg1OWFjNTk3NzMxYjJkZjQ2YmVlNmQ1MmM0NDYyMDVmOWRhOWRmYTdiZDExMTY5NCJ9fX0="
       },
       "tier": "UNCOMMON",
-      "category": "PET_ITEM",
       "soulbound": "SOLO",
       "unstackable": true,
       "id": "SMALL_FROG_TREAT"
@@ -117973,7 +118337,6 @@
         "signature": "SuatRtV9WNSIBKZa/VFm7ImTkyuvKutMT0wZUo/DwyuHMwZCYfcwPCSBUXuBcNHCPimaEC35v1m5yoKxBgZdTFVWRbWl9PrXnWd/NzqQo+Hsf9tMy5V33iRzO/uViM7p3Ip60LBOuBGVVyNpSTa/GeXIuVTn3kEcRwKX9cTC14VmFnm1+DI09xPONgKlmhg0spxWEkZGr1vJeURTljdCfD9nyBbsGEq+ywiVKUxZXkyMStAt8g/5R5PdorHC1wn6DkHqruQFt6adLmQR21ChAxXT7cDHE6tzFDPfL8g0yN/qzKWZQ1pS+xqGnsyR8GeYKBapbSNiHzdZM0W9MuY3WqUVtYl4HikrepnQaSw4g8wlIe3a83IzwZKtRyCljSm83nGlWKOeOXkDzMlMyrj8ymu2T/tsuLFaVJlKjzyzMDKcU7lhj7GDJMHux5MM0wNaZiO5eOrBEOZMF9H8LGuahUGYUteSQz6U74t4+eazDq7I1yh/oiRSG8rfnLPHdoMccFh3Lci82/W4OA5KwINx/xXph/1AFNMJXM2xPPkTPABZciLbrMMjjJsZObNxluYgOR/5wax4Qt1yGWb8tRJJ5gzCuh141WP0isqABwx2shNss3MccJCKxAyMgdqg432HdRyJvzFGuCGXsELY0XYYKekiCY28rn3iMc22zvRcGCg="
       },
       "tier": "EPIC",
-      "category": "PET_ITEM",
       "can_auction": false,
       "unstackable": true,
       "can_recombobulate": false,
@@ -145239,6 +145602,9 @@
       "category": "ACCESSORY",
       "tier": "EPIC",
       "soulbound": "SOLO",
+      "stats": {
+        "health_regeneration": 0.5
+      },
       "id": "CAMPFIRE_TALISMAN_20"
     },
     {
