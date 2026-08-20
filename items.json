@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1786567274674,
+  "lastUpdated": 1787232323850,
   "items": [
     {
       "material": "SKULL_ITEM",
@@ -108949,7 +108949,7 @@
       },
       "name": "Turtlellini",
       "description": "Outside, it's smooth, but there's more to it than meets the eye.",
-      "tier": "EPIC",
+      "tier": "RARE",
       "npc_sell_price": 0,
       "id": "TURTLELLINI"
     },
